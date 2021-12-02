@@ -1,4 +1,6 @@
-<a href="#"><img width="80%" height="auto" align="center" src="undraw_hello_mod.svg" height="175px"/></a>
+<p align="center"> 
+<a href="#"><img width="80%" height="auto" src="undraw_hello_mod.svg" height="175px"/></a>
+ </p>
 
 <h1 align="center">Yo wassup 🙋‍♂️, I'm Lixou</h1>
 <h3 align="center">I'm a young programmer, and I like 🌴 <strong>Trees</strong> 🌴, 🏖️ <strong>Beaches</strong> 🏖️ and 🌊 <strong>the Ocean</strong> 🌊 </h3>
@@ -33,12 +35,6 @@
 </p>
 
 <br/>
-
-<p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 <br/>
 
