@@ -33,9 +33,6 @@
 
 [![DasLixou's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DasLixou&layout=compact&langs_count=8&theme=gotham)]()
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <br/>
 
 ## ⚡ Recent Activity
