@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/9) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
-2. 💪 Opened PR [#9](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/9) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
-3. 🎉 Merged PR [#8](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/8) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
-4. 💪 Opened PR [#8](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/8) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
-5. 🎉 Merged PR [#7](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/7) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
-6. 🗣 Commented on [#7](https://github.com/TheBambooLeafHouse/leaf-tunes/issues/7) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
-7. ❗️ Opened issue [#18113](https://github.com/timburgan/timburgan/issues/18113) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. 🎉 Merged PR [#10](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/10) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
+2. 💪 Opened PR [#10](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/10) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
+3. 🎉 Merged PR [#9](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/9) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
+4. 💪 Opened PR [#9](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/9) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
+5. 🎉 Merged PR [#8](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/8) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
+6. 💪 Opened PR [#8](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/8) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
+7. 🎉 Merged PR [#7](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/7) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
 <!--END_SECTION:activity-->
 
 <br/>
