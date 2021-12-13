@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/LeafJSLabs/leaf.js/pull/21) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-2. 💪 Opened PR [#21](https://github.com/LeafJSLabs/leaf.js/pull/21) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-3. 🎉 Merged PR [#17](https://github.com/LeafJSLabs/leaf.js/pull/17) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-4. 🎉 Merged PR [#20](https://github.com/LeafJSLabs/leaf.js/pull/20) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-5. 🗣 Commented on [#20](https://github.com/LeafJSLabs/leaf.js/issues/20) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-6. 💪 Opened PR [#20](https://github.com/LeafJSLabs/leaf.js/pull/20) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-7. ❗️ Opened issue [#830](https://github.com/vercel/ncc/issues/830) in [vercel/ncc](https://github.com/vercel/ncc)
+1. ❗️ Closed issue [#830](https://github.com/vercel/ncc/issues/830) in [vercel/ncc](https://github.com/vercel/ncc)
+2. 🎉 Merged PR [#21](https://github.com/LeafJSLabs/leaf.js/pull/21) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+3. 💪 Opened PR [#21](https://github.com/LeafJSLabs/leaf.js/pull/21) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+4. 🎉 Merged PR [#17](https://github.com/LeafJSLabs/leaf.js/pull/17) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+5. 🎉 Merged PR [#20](https://github.com/LeafJSLabs/leaf.js/pull/20) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+6. 🗣 Commented on [#20](https://github.com/LeafJSLabs/leaf.js/issues/20) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+7. 💪 Opened PR [#20](https://github.com/LeafJSLabs/leaf.js/pull/20) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
 <!--END_SECTION:activity-->
 
 <br/>
