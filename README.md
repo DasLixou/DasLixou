@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#830](https://github.com/vercel/ncc/issues/830) in [vercel/ncc](https://github.com/vercel/ncc)
-2. 🎉 Merged PR [#15](https://github.com/LeafJSLabs/leaf.js/pull/15) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-3. 🎉 Merged PR [#11](https://github.com/LeafJSLabs/leaf-tunes/pull/11) in [LeafJSLabs/leaf-tunes](https://github.com/LeafJSLabs/leaf-tunes)
-4. 🎉 Merged PR [#12](https://github.com/TheBambooLeafHouse/leaf.js/pull/12) in [TheBambooLeafHouse/leaf.js](https://github.com/TheBambooLeafHouse/leaf.js)
-5. 💪 Opened PR [#12](https://github.com/TheBambooLeafHouse/leaf.js/pull/12) in [TheBambooLeafHouse/leaf.js](https://github.com/TheBambooLeafHouse/leaf.js)
-6. 🎉 Merged PR [#10](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/10) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
-7. 💪 Opened PR [#10](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/10) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
+1. 🎉 Merged PR [#17](https://github.com/LeafJSLabs/leaf.js/pull/17) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+2. 🎉 Merged PR [#20](https://github.com/LeafJSLabs/leaf.js/pull/20) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+3. 🗣 Commented on [#20](https://github.com/LeafJSLabs/leaf.js/issues/20) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+4. 💪 Opened PR [#20](https://github.com/LeafJSLabs/leaf.js/pull/20) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+5. ❗️ Opened issue [#830](https://github.com/vercel/ncc/issues/830) in [vercel/ncc](https://github.com/vercel/ncc)
+6. 🎉 Merged PR [#15](https://github.com/LeafJSLabs/leaf.js/pull/15) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+7. 🎉 Merged PR [#11](https://github.com/LeafJSLabs/leaf-tunes/pull/11) in [LeafJSLabs/leaf-tunes](https://github.com/LeafJSLabs/leaf-tunes)
 <!--END_SECTION:activity-->
 
 <br/>
