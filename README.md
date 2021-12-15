@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/LLeafJSLabs/lleaf.js/pull/28) in [LLeafJSLabs/lleaf.js](https://github.com/LLeafJSLabs/lleaf.js)
-2. 💪 Opened PR [#28](https://github.com/LLeafJSLabs/lleaf.js/pull/28) in [LLeafJSLabs/lleaf.js](https://github.com/LLeafJSLabs/lleaf.js)
-3. 🎉 Merged PR [#27](https://github.com/LeafJSLabs/leaf.js/pull/27) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-4. 💪 Opened PR [#27](https://github.com/LeafJSLabs/leaf.js/pull/27) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-5. 🎉 Merged PR [#23](https://github.com/LeafJSLabs/leaf.js/pull/23) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-6. 🎉 Merged PR [#24](https://github.com/LeafJSLabs/leaf.js/pull/24) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-7. 🎉 Merged PR [#25](https://github.com/LeafJSLabs/leaf.js/pull/25) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+1. 🎉 Merged PR [#31](https://github.com/LLeafJSLabs/lleaf.js/pull/31) in [LLeafJSLabs/lleaf.js](https://github.com/LLeafJSLabs/lleaf.js)
+2. 💪 Opened PR [#31](https://github.com/LLeafJSLabs/lleaf.js/pull/31) in [LLeafJSLabs/lleaf.js](https://github.com/LLeafJSLabs/lleaf.js)
+3. 🎉 Merged PR [#30](https://github.com/LLeafJSLabs/lleaf.js/pull/30) in [LLeafJSLabs/lleaf.js](https://github.com/LLeafJSLabs/lleaf.js)
+4. 💪 Opened PR [#30](https://github.com/LLeafJSLabs/lleaf.js/pull/30) in [LLeafJSLabs/lleaf.js](https://github.com/LLeafJSLabs/lleaf.js)
+5. 🎉 Merged PR [#29](https://github.com/LLeafJSLabs/lleaf.js/pull/29) in [LLeafJSLabs/lleaf.js](https://github.com/LLeafJSLabs/lleaf.js)
+6. 🎉 Merged PR [#28](https://github.com/LLeafJSLabs/lleaf.js/pull/28) in [LLeafJSLabs/lleaf.js](https://github.com/LLeafJSLabs/lleaf.js)
+7. 💪 Opened PR [#28](https://github.com/LLeafJSLabs/lleaf.js/pull/28) in [LLeafJSLabs/lleaf.js](https://github.com/LLeafJSLabs/lleaf.js)
 <!--END_SECTION:activity-->
 
 <br/>
