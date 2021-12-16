@@ -10,7 +10,7 @@
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **JavaScript**
 
-- 🔭 I’m currently working on **[LLeafJS (My own JavaScript Framework)](https://github.com/LLeafJSLabs/lleaf.js)**
+- 🔭 I’m currently working on **[LeafJS (My own JavaScript Framework)](https://github.com/LeafJSLabs/leaf.js)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
