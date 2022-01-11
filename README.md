@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#48](https://github.com/LeafJSLabs/leaf.js/issues/48) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-2. ❗️ Opened issue [#47](https://github.com/LeafJSLabs/leaf.js/issues/47) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-3. ❗️ Opened issue [#46](https://github.com/LeafJSLabs/leaf.js/issues/46) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-4. 🎉 Merged PR [#45](https://github.com/LeafJSLabs/leaf.js/pull/45) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-5. 💪 Opened PR [#45](https://github.com/LeafJSLabs/leaf.js/pull/45) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-6. 🎉 Merged PR [#44](https://github.com/LeafJSLabs/leaf.js/pull/44) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-7. 🎉 Merged PR [#43](https://github.com/LeafJSLabs/leaf.js/pull/43) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+1. 🎉 Merged PR [#52](https://github.com/LeafJSLabs/leaf.js/pull/52) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+2. 🎉 Merged PR [#53](https://github.com/LeafJSLabs/leaf.js/pull/53) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+3. 🎉 Merged PR [#51](https://github.com/LeafJSLabs/leaf.js/pull/51) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+4. 🎉 Merged PR [#50](https://github.com/LeafJSLabs/leaf.js/pull/50) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+5. ❗️ Opened issue [#48](https://github.com/LeafJSLabs/leaf.js/issues/48) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+6. ❗️ Opened issue [#47](https://github.com/LeafJSLabs/leaf.js/issues/47) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+7. ❗️ Opened issue [#46](https://github.com/LeafJSLabs/leaf.js/issues/46) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
 <!--END_SECTION:activity-->
 
 <br/>
