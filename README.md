@@ -8,7 +8,7 @@
 <br/>
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** & **Go**
 
 - 🔭 I’m currently working on **[LeafJS (My own JavaScript Framework)](https://github.com/BeastTrees/leaf.js)**
 
