@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/BeastTrees/leaf.js/pull/59) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-2. 💪 Opened PR [#59](https://github.com/BeastTrees/leaf.js/pull/59) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-3. 🎉 Merged PR [#58](https://github.com/BeastTrees/leaf.js/pull/58) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-4. 💪 Opened PR [#58](https://github.com/BeastTrees/leaf.js/pull/58) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-5. 🎉 Merged PR [#57](https://github.com/BeastTrees/leaf.js/pull/57) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-6. 🎉 Merged PR [#56](https://github.com/BeastTrees/leaf.js/pull/56) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-7. 🎉 Merged PR [#55](https://github.com/BeastTrees/leaf.js/pull/55) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+1. 🎉 Merged PR [#60](https://github.com/BeastTrees/leaf.js/pull/60) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+2. 🎉 Merged PR [#59](https://github.com/BeastTrees/leaf.js/pull/59) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+3. 💪 Opened PR [#59](https://github.com/BeastTrees/leaf.js/pull/59) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+4. 🎉 Merged PR [#58](https://github.com/BeastTrees/leaf.js/pull/58) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+5. 💪 Opened PR [#58](https://github.com/BeastTrees/leaf.js/pull/58) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+6. 🎉 Merged PR [#57](https://github.com/BeastTrees/leaf.js/pull/57) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+7. 🎉 Merged PR [#56](https://github.com/BeastTrees/leaf.js/pull/56) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
 <!--END_SECTION:activity-->
 
 <br/>
