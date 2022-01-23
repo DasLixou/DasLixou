@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/BeastTrees/leaf.js/pull/69) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-2. 🎉 Merged PR [#68](https://github.com/BeastTrees/leaf.js/pull/68) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-3. 🎉 Merged PR [#67](https://github.com/BeastTrees/leaf.js/pull/67) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-4. ❗️ Opened issue [#155](https://github.com/mike-lischke/vscode-antlr4/issues/155) in [mike-lischke/vscode-antlr4](https://github.com/mike-lischke/vscode-antlr4)
-5. 🎉 Merged PR [#66](https://github.com/BeastTrees/leaf.js/pull/66) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-6. 🗣 Commented on [#63](https://github.com/BeastTrees/leaf.js/issues/63) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-7. 🎉 Merged PR [#64](https://github.com/BeastTrees/leaf.js/pull/64) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+1. ❗️ Opened issue [#1](https://github.com/BeastTrees/BeastLang/issues/1) in [BeastTrees/BeastLang](https://github.com/BeastTrees/BeastLang)
+2. 🎉 Merged PR [#69](https://github.com/BeastTrees/leaf.js/pull/69) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+3. 🎉 Merged PR [#68](https://github.com/BeastTrees/leaf.js/pull/68) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+4. 🎉 Merged PR [#67](https://github.com/BeastTrees/leaf.js/pull/67) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+5. ❗️ Opened issue [#155](https://github.com/mike-lischke/vscode-antlr4/issues/155) in [mike-lischke/vscode-antlr4](https://github.com/mike-lischke/vscode-antlr4)
+6. 🎉 Merged PR [#66](https://github.com/BeastTrees/leaf.js/pull/66) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+7. 🗣 Commented on [#63](https://github.com/BeastTrees/leaf.js/issues/63) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
 <!--END_SECTION:activity-->
 
 <br/>
