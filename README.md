@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2310](https://github.com/raysan5/raylib/issues/2310) in [raysan5/raylib](https://github.com/raysan5/raylib)
-2. 🎉 Merged PR [#70](https://github.com/BeastTrees/leaf.js/pull/70) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-3. 🎉 Merged PR [#71](https://github.com/BeastTrees/leaf.js/pull/71) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-4. ❗️ Opened issue [#1](https://github.com/BeastTrees/BeastLang/issues/1) in [BeastTrees/BeastLang](https://github.com/BeastTrees/BeastLang)
-5. 🎉 Merged PR [#69](https://github.com/BeastTrees/leaf.js/pull/69) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-6. 🎉 Merged PR [#68](https://github.com/BeastTrees/leaf.js/pull/68) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-7. 🎉 Merged PR [#67](https://github.com/BeastTrees/leaf.js/pull/67) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+1. 🗣 Commented on [#2311](https://github.com/raysan5/raylib/issues/2311) in [raysan5/raylib](https://github.com/raysan5/raylib)
+2. 🗣 Commented on [#2310](https://github.com/raysan5/raylib/issues/2310) in [raysan5/raylib](https://github.com/raysan5/raylib)
+3. 🎉 Merged PR [#70](https://github.com/BeastTrees/leaf.js/pull/70) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+4. 🎉 Merged PR [#71](https://github.com/BeastTrees/leaf.js/pull/71) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+5. ❗️ Opened issue [#1](https://github.com/BeastTrees/BeastLang/issues/1) in [BeastTrees/BeastLang](https://github.com/BeastTrees/BeastLang)
+6. 🎉 Merged PR [#69](https://github.com/BeastTrees/leaf.js/pull/69) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+7. 🎉 Merged PR [#68](https://github.com/BeastTrees/leaf.js/pull/68) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
 <!--END_SECTION:activity-->
 
 <br/>
