@@ -10,11 +10,13 @@
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **JavaScript** & **C#**
 
-- 🔭 I’m currently working on **[LeafJS (My own JavaScript Framework)](https://github.com/BeastTrees/leaf.js)**
+- 🔭 I’m currently working on **[LemonLang (My own Programming Langauge)](https://github.com/BeastTrees/leaf.js)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 Here you can visit **[My Repos](https://github.com/DasLixou?tab=repositories)**
+
+- 🥰 Funfact: **I like crazy ideas**
 
 <br/>
 
