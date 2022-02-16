@@ -8,15 +8,13 @@
 <br/>
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **JavaScript** & **Go**
+- 🌱 I’m currently learning **JavaScript** & **C#**
 
 - 🔭 I’m currently working on **[LeafJS (My own JavaScript Framework)](https://github.com/BeastTrees/leaf.js)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 Here you can visit **[My Repos](https://github.com/DasLixou?tab=repositories)**
-
-- ⚡ Fun fact **I used Tailwind CSS before I understood real CSS**
 
 <br/>
 
@@ -31,7 +29,7 @@
 
 [![DasLixou's GitHub stats](https://github-readme-stats.vercel.app/api?username=DasLixou&show_icons=true&theme=gotham&count_private=true)]()
 
-[![DasLixou's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DasLixou&layout=compact&langs_count=8&theme=gotham)]()
+[![DasLixou's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DasLixou&langs_count=8&show_icons=true&theme=gotham)]()
 
 <br/>
 
