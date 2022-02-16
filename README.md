@@ -10,7 +10,7 @@
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **JavaScript** & **C#**
 
-- 🔭 I’m currently working on **[LemonLang (My own Programming Langauge)](https://github.com/BeastTrees/leaf.js)**
+- 🔭 I’m currently working on **[LemonLang (My own Programming Langauge)](https://github.com/DasLixou/LemonLang)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
