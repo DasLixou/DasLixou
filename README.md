@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DasLixou/LemonLang/pull/1) in [DasLixou/LemonLang](https://github.com/DasLixou/LemonLang)
-2. 💪 Opened PR [#1](https://github.com/DasLixou/LemonLang/pull/1) in [DasLixou/LemonLang](https://github.com/DasLixou/LemonLang)
-3. 🗣 Commented on [#2311](https://github.com/raysan5/raylib/issues/2311) in [raysan5/raylib](https://github.com/raysan5/raylib)
-4. 🗣 Commented on [#2310](https://github.com/raysan5/raylib/issues/2310) in [raysan5/raylib](https://github.com/raysan5/raylib)
-5. 🎉 Merged PR [#70](https://github.com/BeastTrees/leaf.js/pull/70) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-6. 🎉 Merged PR [#71](https://github.com/BeastTrees/leaf.js/pull/71) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-7. ❗️ Opened issue [#1](https://github.com/BeastTrees/BeastLang/issues/1) in [BeastTrees/BeastLang](https://github.com/BeastTrees/BeastLang)
+1. ❗️ Opened issue [#85](https://github.com/tsoding/emoteJAM/issues/85) in [tsoding/emoteJAM](https://github.com/tsoding/emoteJAM)
+2. 🎉 Merged PR [#1](https://github.com/DasLixou/LemonLang/pull/1) in [DasLixou/LemonLang](https://github.com/DasLixou/LemonLang)
+3. 💪 Opened PR [#1](https://github.com/DasLixou/LemonLang/pull/1) in [DasLixou/LemonLang](https://github.com/DasLixou/LemonLang)
+4. 🗣 Commented on [#2311](https://github.com/raysan5/raylib/issues/2311) in [raysan5/raylib](https://github.com/raysan5/raylib)
+5. 🗣 Commented on [#2310](https://github.com/raysan5/raylib/issues/2310) in [raysan5/raylib](https://github.com/raysan5/raylib)
+6. 🎉 Merged PR [#70](https://github.com/BeastTrees/leaf.js/pull/70) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+7. 🎉 Merged PR [#71](https://github.com/BeastTrees/leaf.js/pull/71) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
 <!--END_SECTION:activity-->
 
 <br/>
