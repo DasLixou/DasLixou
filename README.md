@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/BeastTrees/leaf.js/issues/83) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-2. ❌ Closed PR [#83](https://github.com/BeastTrees/leaf.js/pull/83) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-3. 🗣 Commented on [#88](https://github.com/BeastTrees/leaf.js/issues/88) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-4. 🎉 Merged PR [#2](https://github.com/DasLixou/LemonLang/pull/2) in [DasLixou/LemonLang](https://github.com/DasLixou/LemonLang)
-5. 💪 Opened PR [#2](https://github.com/DasLixou/LemonLang/pull/2) in [DasLixou/LemonLang](https://github.com/DasLixou/LemonLang)
-6. ❗️ Opened issue [#85](https://github.com/tsoding/emoteJAM/issues/85) in [tsoding/emoteJAM](https://github.com/tsoding/emoteJAM)
-7. 🎉 Merged PR [#1](https://github.com/DasLixou/LemonLang/pull/1) in [DasLixou/LemonLang](https://github.com/DasLixou/LemonLang)
+1. 🗣 Commented on [#908](https://github.com/JetBrains/gradle-intellij-plugin/issues/908) in [JetBrains/gradle-intellij-plugin](https://github.com/JetBrains/gradle-intellij-plugin)
+2. ❗️ Opened issue [#908](https://github.com/JetBrains/gradle-intellij-plugin/issues/908) in [JetBrains/gradle-intellij-plugin](https://github.com/JetBrains/gradle-intellij-plugin)
+3. 🗣 Commented on [#83](https://github.com/BeastTrees/leaf.js/issues/83) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+4. ❌ Closed PR [#83](https://github.com/BeastTrees/leaf.js/pull/83) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+5. 🗣 Commented on [#88](https://github.com/BeastTrees/leaf.js/issues/88) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+6. 🎉 Merged PR [#2](https://github.com/DasLixou/LemonLang/pull/2) in [DasLixou/LemonLang](https://github.com/DasLixou/LemonLang)
+7. 💪 Opened PR [#2](https://github.com/DasLixou/LemonLang/pull/2) in [DasLixou/LemonLang](https://github.com/DasLixou/LemonLang)
 <!--END_SECTION:activity-->
 
 <br/>
