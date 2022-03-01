@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#908](https://github.com/JetBrains/gradle-intellij-plugin/issues/908) in [JetBrains/gradle-intellij-plugin](https://github.com/JetBrains/gradle-intellij-plugin)
-2. ❗️ Opened issue [#908](https://github.com/JetBrains/gradle-intellij-plugin/issues/908) in [JetBrains/gradle-intellij-plugin](https://github.com/JetBrains/gradle-intellij-plugin)
-3. 🗣 Commented on [#83](https://github.com/BeastTrees/leaf.js/issues/83) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-4. ❌ Closed PR [#83](https://github.com/BeastTrees/leaf.js/pull/83) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-5. 🗣 Commented on [#88](https://github.com/BeastTrees/leaf.js/issues/88) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-6. 🎉 Merged PR [#2](https://github.com/DasLixou/LemonLang/pull/2) in [DasLixou/LemonLang](https://github.com/DasLixou/LemonLang)
-7. 💪 Opened PR [#2](https://github.com/DasLixou/LemonLang/pull/2) in [DasLixou/LemonLang](https://github.com/DasLixou/LemonLang)
+1. 🎉 Merged PR [#1](https://github.com/LixouCanCode/JVent/pull/1) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+2. 💪 Opened PR [#1](https://github.com/LixouCanCode/JVent/pull/1) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+3. 🗣 Commented on [#908](https://github.com/JetBrains/gradle-intellij-plugin/issues/908) in [JetBrains/gradle-intellij-plugin](https://github.com/JetBrains/gradle-intellij-plugin)
+4. ❗️ Opened issue [#908](https://github.com/JetBrains/gradle-intellij-plugin/issues/908) in [JetBrains/gradle-intellij-plugin](https://github.com/JetBrains/gradle-intellij-plugin)
+5. 🗣 Commented on [#83](https://github.com/BeastTrees/leaf.js/issues/83) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+6. ❌ Closed PR [#83](https://github.com/BeastTrees/leaf.js/pull/83) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+7. 🗣 Commented on [#88](https://github.com/BeastTrees/leaf.js/issues/88) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
 <!--END_SECTION:activity-->
 
 <br/>
