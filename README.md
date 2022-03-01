@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/LixouCanCode/JVent/pull/3) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-2. 💪 Opened PR [#3](https://github.com/LixouCanCode/JVent/pull/3) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-3. 🎉 Merged PR [#2](https://github.com/LixouCanCode/JVent/pull/2) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-4. 💪 Opened PR [#2](https://github.com/LixouCanCode/JVent/pull/2) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-5. 🎉 Merged PR [#1](https://github.com/LixouCanCode/JVent/pull/1) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-6. 💪 Opened PR [#1](https://github.com/LixouCanCode/JVent/pull/1) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-7. 🗣 Commented on [#908](https://github.com/JetBrains/gradle-intellij-plugin/issues/908) in [JetBrains/gradle-intellij-plugin](https://github.com/JetBrains/gradle-intellij-plugin)
+1. ❗️ Opened issue [#4](https://github.com/LixouCanCode/JVent/issues/4) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+2. 🎉 Merged PR [#3](https://github.com/LixouCanCode/JVent/pull/3) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+3. 💪 Opened PR [#3](https://github.com/LixouCanCode/JVent/pull/3) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+4. 🎉 Merged PR [#2](https://github.com/LixouCanCode/JVent/pull/2) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+5. 💪 Opened PR [#2](https://github.com/LixouCanCode/JVent/pull/2) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+6. 🎉 Merged PR [#1](https://github.com/LixouCanCode/JVent/pull/1) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+7. 💪 Opened PR [#1](https://github.com/LixouCanCode/JVent/pull/1) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
 <!--END_SECTION:activity-->
 
 <br/>
