@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/LixouCanCode/JVent/issues/6) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-2. ❗️ Closed issue [#4](https://github.com/LixouCanCode/JVent/issues/4) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-3. 🗣 Commented on [#4](https://github.com/LixouCanCode/JVent/issues/4) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-4. 🎉 Merged PR [#5](https://github.com/LixouCanCode/JVent/pull/5) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-5. 💪 Opened PR [#5](https://github.com/LixouCanCode/JVent/pull/5) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-6. ❗️ Opened issue [#3127](https://github.com/projectlombok/lombok/issues/3127) in [projectlombok/lombok](https://github.com/projectlombok/lombok)
-7. ❗️ Opened issue [#4](https://github.com/LixouCanCode/JVent/issues/4) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+1. 🎉 Merged PR [#7](https://github.com/LixouCanCode/JVent/pull/7) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+2. ❗️ Closed issue [#6](https://github.com/LixouCanCode/JVent/issues/6) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+3. 💪 Opened PR [#7](https://github.com/LixouCanCode/JVent/pull/7) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+4. ❗️ Opened issue [#6](https://github.com/LixouCanCode/JVent/issues/6) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+5. ❗️ Closed issue [#4](https://github.com/LixouCanCode/JVent/issues/4) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+6. 🗣 Commented on [#4](https://github.com/LixouCanCode/JVent/issues/4) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+7. 🎉 Merged PR [#5](https://github.com/LixouCanCode/JVent/pull/5) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
 <!--END_SECTION:activity-->
 
 <br/>
