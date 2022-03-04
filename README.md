@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/LixouCanCode/JVent/issues/8) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-2. 🎉 Merged PR [#9](https://github.com/LixouCanCode/JVent/pull/9) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-3. 💪 Opened PR [#9](https://github.com/LixouCanCode/JVent/pull/9) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-4. ❗️ Opened issue [#8](https://github.com/LixouCanCode/JVent/issues/8) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-5. 🎉 Merged PR [#7](https://github.com/LixouCanCode/JVent/pull/7) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-6. ❗️ Closed issue [#6](https://github.com/LixouCanCode/JVent/issues/6) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-7. 💪 Opened PR [#7](https://github.com/LixouCanCode/JVent/pull/7) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+1. 🎉 Merged PR [#11](https://github.com/LixouCanCode/JVent/pull/11) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+2. 💪 Opened PR [#11](https://github.com/LixouCanCode/JVent/pull/11) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+3. 🎉 Merged PR [#10](https://github.com/LixouCanCode/JVent/pull/10) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+4. 💪 Opened PR [#10](https://github.com/LixouCanCode/JVent/pull/10) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+5. ❗️ Closed issue [#8](https://github.com/LixouCanCode/JVent/issues/8) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+6. 🎉 Merged PR [#9](https://github.com/LixouCanCode/JVent/pull/9) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+7. 💪 Opened PR [#9](https://github.com/LixouCanCode/JVent/pull/9) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
 <!--END_SECTION:activity-->
 
 <br/>
