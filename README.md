@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#870](https://github.com/Minestom/Minestom/issues/870) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-2. 🎉 Merged PR [#15](https://github.com/LixouCanCode/JVent/pull/15) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-3. 💪 Opened PR [#15](https://github.com/LixouCanCode/JVent/pull/15) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
-4. 🗣 Commented on [#845](https://github.com/Minestom/Minestom/issues/845) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-5. 🗣 Commented on [#845](https://github.com/Minestom/Minestom/issues/845) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+1. ❗️ Closed issue [#870](https://github.com/Minestom/Minestom/issues/870) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+2. 🗣 Commented on [#870](https://github.com/Minestom/Minestom/issues/870) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+3. ❗️ Opened issue [#870](https://github.com/Minestom/Minestom/issues/870) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+4. 🎉 Merged PR [#15](https://github.com/LixouCanCode/JVent/pull/15) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
+5. 💪 Opened PR [#15](https://github.com/LixouCanCode/JVent/pull/15) in [LixouCanCode/JVent](https://github.com/LixouCanCode/JVent)
 6. 🗣 Commented on [#845](https://github.com/Minestom/Minestom/issues/845) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-7. ❗️ Opened issue [#845](https://github.com/Minestom/Minestom/issues/845) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+7. 🗣 Commented on [#845](https://github.com/Minestom/Minestom/issues/845) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
 <!--END_SECTION:activity-->
 
 <br/>
