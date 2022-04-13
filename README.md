@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DasLixou/Minestom/pull/1) in [DasLixou/Minestom](https://github.com/DasLixou/Minestom)
-2. 💪 Opened PR [#1](https://github.com/DasLixou/Minestom/pull/1) in [DasLixou/Minestom](https://github.com/DasLixou/Minestom)
-3. 🗣 Commented on [#885](https://github.com/Minestom/Minestom/issues/885) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+1. 🎉 Merged PR [#103](https://github.com/BeastTrees/leaf.js/pull/103) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+2. 🎉 Merged PR [#1](https://github.com/DasLixou/Minestom/pull/1) in [DasLixou/Minestom](https://github.com/DasLixou/Minestom)
+3. 💪 Opened PR [#1](https://github.com/DasLixou/Minestom/pull/1) in [DasLixou/Minestom](https://github.com/DasLixou/Minestom)
 4. 🗣 Commented on [#885](https://github.com/Minestom/Minestom/issues/885) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-5. 💪 Opened PR [#889](https://github.com/Minestom/Minestom/pull/889) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-6. ❗️ Opened issue [#885](https://github.com/Minestom/Minestom/issues/885) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-7. ❗️ Closed issue [#870](https://github.com/Minestom/Minestom/issues/870) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+5. 🗣 Commented on [#885](https://github.com/Minestom/Minestom/issues/885) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+6. 💪 Opened PR [#889](https://github.com/Minestom/Minestom/pull/889) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+7. ❗️ Opened issue [#885](https://github.com/Minestom/Minestom/issues/885) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
 <!--END_SECTION:activity-->
 
 <br/>
