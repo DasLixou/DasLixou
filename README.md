@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#924](https://github.com/Minestom/Minestom/issues/924) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-2. 🎉 Merged PR [#96](https://github.com/BeastTrees/leaf.js/pull/96) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-3. 🗣 Commented on [#96](https://github.com/BeastTrees/leaf.js/issues/96) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-4. 🎉 Merged PR [#102](https://github.com/BeastTrees/leaf.js/pull/102) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-5. 🎉 Merged PR [#101](https://github.com/BeastTrees/leaf.js/pull/101) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-6. 🎉 Merged PR [#104](https://github.com/BeastTrees/leaf.js/pull/104) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-7. 🎉 Merged PR [#106](https://github.com/BeastTrees/leaf.js/pull/106) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+1. ❗️ Opened issue [#32](https://github.com/Minestom/wiki/issues/32) in [Minestom/wiki](https://github.com/Minestom/wiki)
+2. 🗣 Commented on [#924](https://github.com/Minestom/Minestom/issues/924) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+3. 🎉 Merged PR [#96](https://github.com/BeastTrees/leaf.js/pull/96) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+4. 🗣 Commented on [#96](https://github.com/BeastTrees/leaf.js/issues/96) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+5. 🎉 Merged PR [#102](https://github.com/BeastTrees/leaf.js/pull/102) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+6. 🎉 Merged PR [#101](https://github.com/BeastTrees/leaf.js/pull/101) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+7. 🎉 Merged PR [#104](https://github.com/BeastTrees/leaf.js/pull/104) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
 <!--END_SECTION:activity-->
 
 <br/>
