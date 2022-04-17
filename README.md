@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/TeamSkyBeach/Stracciatella/pull/1) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-2. ❗️ Opened issue [#32](https://github.com/Minestom/wiki/issues/32) in [Minestom/wiki](https://github.com/Minestom/wiki)
-3. 🗣 Commented on [#924](https://github.com/Minestom/Minestom/issues/924) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-4. 🎉 Merged PR [#96](https://github.com/BeastTrees/leaf.js/pull/96) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-5. 🗣 Commented on [#96](https://github.com/BeastTrees/leaf.js/issues/96) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-6. 🎉 Merged PR [#102](https://github.com/BeastTrees/leaf.js/pull/102) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-7. 🎉 Merged PR [#101](https://github.com/BeastTrees/leaf.js/pull/101) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+1. 🎉 Merged PR [#1](https://github.com/TeamSkyBeach/Stracciatella/pull/1) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+2. 💪 Opened PR [#1](https://github.com/TeamSkyBeach/Stracciatella/pull/1) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+3. ❗️ Opened issue [#32](https://github.com/Minestom/wiki/issues/32) in [Minestom/wiki](https://github.com/Minestom/wiki)
+4. 🗣 Commented on [#924](https://github.com/Minestom/Minestom/issues/924) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+5. 🎉 Merged PR [#96](https://github.com/BeastTrees/leaf.js/pull/96) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+6. 🗣 Commented on [#96](https://github.com/BeastTrees/leaf.js/issues/96) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+7. 🎉 Merged PR [#102](https://github.com/BeastTrees/leaf.js/pull/102) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
 <!--END_SECTION:activity-->
 
 <br/>
