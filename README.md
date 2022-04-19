@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/TeamSkyBeach/Stracciatella/pull/6) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-2. 💪 Opened PR [#5](https://github.com/TeamSkyBeach/Stracciatella/pull/5) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-3. ❗️ Opened issue [#950](https://github.com/Minestom/Minestom/issues/950) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-4. 🗣 Commented on [#944](https://github.com/Minestom/Minestom/issues/944) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-5. ❗️ Opened issue [#944](https://github.com/Minestom/Minestom/issues/944) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-6. 💪 Opened PR [#4](https://github.com/TeamSkyBeach/Stracciatella/pull/4) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-7. 🎉 Merged PR [#3](https://github.com/TeamSkyBeach/Stracciatella/pull/3) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+1. 💪 Opened PR [#7](https://github.com/TeamSkyBeach/Stracciatella/pull/7) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+2. 💪 Opened PR [#6](https://github.com/TeamSkyBeach/Stracciatella/pull/6) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+3. 💪 Opened PR [#5](https://github.com/TeamSkyBeach/Stracciatella/pull/5) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+4. ❗️ Opened issue [#950](https://github.com/Minestom/Minestom/issues/950) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+5. 🗣 Commented on [#944](https://github.com/Minestom/Minestom/issues/944) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+6. ❗️ Opened issue [#944](https://github.com/Minestom/Minestom/issues/944) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+7. 💪 Opened PR [#4](https://github.com/TeamSkyBeach/Stracciatella/pull/4) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
 <!--END_SECTION:activity-->
 
 <br/>
