@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/TeamSkyBeach/Stracciatella/pull/5) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-2. 🎉 Merged PR [#8](https://github.com/TeamSkyBeach/Stracciatella/pull/8) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-3. 💪 Opened PR [#8](https://github.com/TeamSkyBeach/Stracciatella/pull/8) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-4. 💪 Opened PR [#7](https://github.com/TeamSkyBeach/Stracciatella/pull/7) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-5. 💪 Opened PR [#6](https://github.com/TeamSkyBeach/Stracciatella/pull/6) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-6. 💪 Opened PR [#5](https://github.com/TeamSkyBeach/Stracciatella/pull/5) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-7. ❗️ Opened issue [#950](https://github.com/Minestom/Minestom/issues/950) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+1. 🎉 Merged PR [#6](https://github.com/TeamSkyBeach/Stracciatella/pull/6) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+2. 🎉 Merged PR [#5](https://github.com/TeamSkyBeach/Stracciatella/pull/5) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+3. 🎉 Merged PR [#8](https://github.com/TeamSkyBeach/Stracciatella/pull/8) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+4. 💪 Opened PR [#8](https://github.com/TeamSkyBeach/Stracciatella/pull/8) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+5. 💪 Opened PR [#7](https://github.com/TeamSkyBeach/Stracciatella/pull/7) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+6. 💪 Opened PR [#6](https://github.com/TeamSkyBeach/Stracciatella/pull/6) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+7. 💪 Opened PR [#5](https://github.com/TeamSkyBeach/Stracciatella/pull/5) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
 <!--END_SECTION:activity-->
 
 <br/>
