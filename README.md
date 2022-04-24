@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#969](https://github.com/Minestom/Minestom/issues/969) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-2. 🗣 Commented on [#964](https://github.com/Minestom/Minestom/issues/964) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-3. 💪 Opened PR [#10](https://github.com/TeamSkyBeach/Stracciatella/pull/10) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-4. 💪 Opened PR [#965](https://github.com/Minestom/Minestom/pull/965) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-5. 💪 Opened PR [#964](https://github.com/Minestom/Minestom/pull/964) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-6. 🎉 Merged PR [#9](https://github.com/TeamSkyBeach/Stracciatella/pull/9) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-7. 💪 Opened PR [#9](https://github.com/TeamSkyBeach/Stracciatella/pull/9) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+1. 🗣 Commented on [#969](https://github.com/Minestom/Minestom/issues/969) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+2. ❗️ Opened issue [#969](https://github.com/Minestom/Minestom/issues/969) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+3. 🗣 Commented on [#964](https://github.com/Minestom/Minestom/issues/964) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+4. 💪 Opened PR [#10](https://github.com/TeamSkyBeach/Stracciatella/pull/10) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+5. 💪 Opened PR [#965](https://github.com/Minestom/Minestom/pull/965) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+6. 💪 Opened PR [#964](https://github.com/Minestom/Minestom/pull/964) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+7. 🎉 Merged PR [#9](https://github.com/TeamSkyBeach/Stracciatella/pull/9) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
 <!--END_SECTION:activity-->
 
 <br/>
