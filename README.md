@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#978](https://github.com/Minestom/Minestom/issues/978) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-2. 🗣 Commented on [#969](https://github.com/Minestom/Minestom/issues/969) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-3. ❗️ Opened issue [#969](https://github.com/Minestom/Minestom/issues/969) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-4. 🗣 Commented on [#964](https://github.com/Minestom/Minestom/issues/964) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-5. 💪 Opened PR [#10](https://github.com/TeamSkyBeach/Stracciatella/pull/10) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-6. 💪 Opened PR [#965](https://github.com/Minestom/Minestom/pull/965) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-7. 💪 Opened PR [#964](https://github.com/Minestom/Minestom/pull/964) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+1. 🗣 Commented on [#119](https://github.com/Project-Cepi/KStom/issues/119) in [Project-Cepi/KStom](https://github.com/Project-Cepi/KStom)
+2. ❗️ Opened issue [#978](https://github.com/Minestom/Minestom/issues/978) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+3. 🗣 Commented on [#969](https://github.com/Minestom/Minestom/issues/969) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+4. ❗️ Opened issue [#969](https://github.com/Minestom/Minestom/issues/969) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+5. 🗣 Commented on [#964](https://github.com/Minestom/Minestom/issues/964) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+6. 💪 Opened PR [#10](https://github.com/TeamSkyBeach/Stracciatella/pull/10) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+7. 💪 Opened PR [#965](https://github.com/Minestom/Minestom/pull/965) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
 <!--END_SECTION:activity-->
 
 <br/>
