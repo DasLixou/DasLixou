@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/TeamSkyBeach/Stracciatella/pull/11) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-2. 🗣 Commented on [#119](https://github.com/Project-Cepi/KStom/issues/119) in [Project-Cepi/KStom](https://github.com/Project-Cepi/KStom)
-3. 🗣 Commented on [#1011](https://github.com/Minestom/Minestom/issues/1011) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+1. 🎉 Merged PR [#12](https://github.com/TeamSkyBeach/Stracciatella/pull/12) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+2. 🎉 Merged PR [#11](https://github.com/TeamSkyBeach/Stracciatella/pull/11) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+3. 🗣 Commented on [#119](https://github.com/Project-Cepi/KStom/issues/119) in [Project-Cepi/KStom](https://github.com/Project-Cepi/KStom)
 4. 🗣 Commented on [#1011](https://github.com/Minestom/Minestom/issues/1011) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-5. ❗️ Opened issue [#1011](https://github.com/Minestom/Minestom/issues/1011) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-6. ❗️ Opened issue [#994](https://github.com/Minestom/Minestom/issues/994) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-7. 🎉 Merged PR [#10](https://github.com/TeamSkyBeach/Stracciatella/pull/10) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+5. 🗣 Commented on [#1011](https://github.com/Minestom/Minestom/issues/1011) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+6. ❗️ Opened issue [#1011](https://github.com/Minestom/Minestom/issues/1011) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+7. ❗️ Opened issue [#994](https://github.com/Minestom/Minestom/issues/994) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
 <!--END_SECTION:activity-->
 
 <br/>
