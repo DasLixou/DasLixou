@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#284](https://github.com/charleskorn/kaml/issues/284) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
-2. 🗣 Commented on [#144](https://github.com/Axarva/dotfiles-2.0/issues/144) in [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0)
-3. ❗️ Closed issue [#144](https://github.com/Axarva/dotfiles-2.0/issues/144) in [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0)
-4. ❗️ Opened issue [#144](https://github.com/Axarva/dotfiles-2.0/issues/144) in [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0)
-5. 🎉 Merged PR [#13](https://github.com/TeamSkyBeach/Stracciatella/pull/13) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-6. 🎉 Merged PR [#12](https://github.com/TeamSkyBeach/Stracciatella/pull/12) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-7. 🎉 Merged PR [#11](https://github.com/TeamSkyBeach/Stracciatella/pull/11) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+1. ❗️ Closed issue [#1011](https://github.com/Minestom/Minestom/issues/1011) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+2. ❗️ Opened issue [#284](https://github.com/charleskorn/kaml/issues/284) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
+3. 🗣 Commented on [#144](https://github.com/Axarva/dotfiles-2.0/issues/144) in [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0)
+4. ❗️ Closed issue [#144](https://github.com/Axarva/dotfiles-2.0/issues/144) in [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0)
+5. ❗️ Opened issue [#144](https://github.com/Axarva/dotfiles-2.0/issues/144) in [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0)
+6. 🎉 Merged PR [#13](https://github.com/TeamSkyBeach/Stracciatella/pull/13) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+7. 🎉 Merged PR [#12](https://github.com/TeamSkyBeach/Stracciatella/pull/12) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
 <!--END_SECTION:activity-->
 
 <br/>
