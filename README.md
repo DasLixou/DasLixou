@@ -37,13 +37,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+1. 🎉 Merged PR [#1](https://github.com/TeamSkyBeach/BedWarsExtension/pull/1) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
 2. 🗣 Commented on [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
 3. 🗣 Commented on [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-4. ❗️ Opened issue [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-5. 💪 Opened PR [#286](https://github.com/charleskorn/kaml/pull/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
-6. 🗣 Commented on [#284](https://github.com/charleskorn/kaml/issues/284) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
-7. ❗️ Closed issue [#1011](https://github.com/Minestom/Minestom/issues/1011) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+4. 🗣 Commented on [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+5. ❗️ Opened issue [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+6. 💪 Opened PR [#286](https://github.com/charleskorn/kaml/pull/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
+7. 🗣 Commented on [#284](https://github.com/charleskorn/kaml/issues/284) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
 <!--END_SECTION:activity-->
 
 <br/>
