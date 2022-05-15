@@ -38,12 +38,12 @@
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-2. ❗️ Opened issue [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-3. 💪 Opened PR [#286](https://github.com/charleskorn/kaml/pull/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
-4. 🗣 Commented on [#284](https://github.com/charleskorn/kaml/issues/284) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
-5. ❗️ Closed issue [#1011](https://github.com/Minestom/Minestom/issues/1011) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-6. ❗️ Opened issue [#284](https://github.com/charleskorn/kaml/issues/284) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
-7. 🗣 Commented on [#144](https://github.com/Axarva/dotfiles-2.0/issues/144) in [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0)
+2. 🗣 Commented on [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+3. 🗣 Commented on [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+4. ❗️ Opened issue [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+5. 💪 Opened PR [#286](https://github.com/charleskorn/kaml/pull/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
+6. 🗣 Commented on [#284](https://github.com/charleskorn/kaml/issues/284) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
+7. ❗️ Closed issue [#1011](https://github.com/Minestom/Minestom/issues/1011) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
 <!--END_SECTION:activity-->
 
 <br/>
