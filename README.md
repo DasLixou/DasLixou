@@ -14,6 +14,10 @@
 
 - 🔥 `Nobody can match my IntelliJ!`
 
+- 💻 `Windows 11` and `Arch Linux` User
+
+- 😎 I managed to install Arch, so I'm cool now, iguess
+
 <br/>
 
 
