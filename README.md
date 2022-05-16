@@ -8,15 +8,11 @@
 <br/>
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **JavaScript** & **C#**
+- 🌱 I’m currently learning **Kotlin <3**
 
-- 🔭 I’m currently working on **[LemonLang (My own Programming Langauge)](https://github.com/DasLixou/LemonLang)**
+- 🔭 I’m currently working on **[TeamSkyBeach](https://github.com/TeamSkyBeach)**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 Here you can visit **[My Repos](https://github.com/DasLixou?tab=repositories)**
-
-- 🥰 Funfact: **I like crazy ideas**
+- 🔥 `Nobody can match my IntelliJ!`
 
 <br/>
 
