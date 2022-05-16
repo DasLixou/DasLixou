@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href="#"><img width="80%" height="auto" src="undraw_hello_mod.svg" height="175px"/></a>
+<a href="#"><img width="50%" height="auto" src="undraw_hello_mod.svg" height="175px"/></a>
  </p>
 
 <h1 align="center">Yo wassup 🙋‍♂️, I'm Lixou</h1>
