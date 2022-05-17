@@ -41,11 +41,11 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-2. 🗣 Commented on [#286](https://github.com/charleskorn/kaml/issues/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
+1. 🗣 Commented on [#286](https://github.com/charleskorn/kaml/issues/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
+2. 🗣 Commented on [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
 3. 🗣 Commented on [#286](https://github.com/charleskorn/kaml/issues/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
-4. 🎉 Merged PR [#1](https://github.com/TeamSkyBeach/BedWarsExtension/pull/1) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
-5. 🗣 Commented on [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+4. 🗣 Commented on [#286](https://github.com/charleskorn/kaml/issues/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
+5. 🎉 Merged PR [#1](https://github.com/TeamSkyBeach/BedWarsExtension/pull/1) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
 6. 🗣 Commented on [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
 7. 🗣 Commented on [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
 <!--END_SECTION:activity-->
