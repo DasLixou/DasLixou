@@ -32,13 +32,13 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 </p>
 
-### 📊 My Github Stats
+<h3 align="center"><code>📊 Github Stats</code></h3>
 
 [![DasLixou's GitHub stats](https://github-readme-stats.vercel.app/api?username=DasLixou&show_icons=true&theme=gotham&count_private=true)]()
 
 [![DasLixou's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DasLixou&langs_count=8&show_icons=true&theme=gotham)]()
 
-### ⚡ Recent Activity
+<h3 align="center"><code>⚡ Recent Activity</code></h3>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
 2. 🗣 Commented on [#286](https://github.com/charleskorn/kaml/issues/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
@@ -49,7 +49,7 @@
 7. 🗣 Commented on [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
 <!--END_SECTION:activity-->
 
-### 🔗 Connect with me:
+<h3 align="center"><code>🔗 Connect with me:</code></h3>
 
 <p align="left">
 
