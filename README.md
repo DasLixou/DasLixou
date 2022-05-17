@@ -39,6 +39,7 @@
 [![DasLixou's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DasLixou&langs_count=8&show_icons=true&theme=gotham)]()
 
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
 2. 🗣 Commented on [#286](https://github.com/charleskorn/kaml/issues/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
