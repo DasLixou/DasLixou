@@ -34,9 +34,7 @@
 
 <h3 align="center"><code>📊 Github Stats</code></h3>
 
-[![DasLixou's GitHub stats](https://github-readme-stats.vercel.app/api?username=DasLixou&show_icons=true&theme=gotham&count_private=true)]()
-
-[![DasLixou's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DasLixou&langs_count=8&show_icons=true&theme=gotham)]()
+[![DasLixou's GitHub stats](https://github-readme-stats.vercel.app/api?username=DasLixou&show_icons=true&theme=swift&count_private=true)]()
 
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
