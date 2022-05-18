@@ -41,13 +41,13 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/TeamSkyBeach/BedWarsExtension/issues/7) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
-2. 🎉 Merged PR [#3](https://github.com/TeamSkyBeach/BedWarsExtension/pull/3) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
-3. 🎉 Merged PR [#5](https://github.com/TeamSkyBeach/BedWarsExtension/pull/5) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
-4. 🎉 Merged PR [#2](https://github.com/TeamSkyBeach/BedWarsExtension/pull/2) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
-5. 💪 Opened PR [#6](https://github.com/TeamSkyBeach/BedWarsExtension/pull/6) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
-6. 💪 Opened PR [#125](https://github.com/Project-Cepi/KStom/pull/125) in [Project-Cepi/KStom](https://github.com/Project-Cepi/KStom)
-7. 🗣 Commented on [#286](https://github.com/charleskorn/kaml/issues/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
+1. 🗣 Commented on [#286](https://github.com/charleskorn/kaml/issues/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
+2. 🗣 Commented on [#286](https://github.com/charleskorn/kaml/issues/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
+3. ❗️ Opened issue [#7](https://github.com/TeamSkyBeach/BedWarsExtension/issues/7) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
+4. 🎉 Merged PR [#3](https://github.com/TeamSkyBeach/BedWarsExtension/pull/3) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
+5. 🎉 Merged PR [#5](https://github.com/TeamSkyBeach/BedWarsExtension/pull/5) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
+6. 🎉 Merged PR [#2](https://github.com/TeamSkyBeach/BedWarsExtension/pull/2) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
+7. 💪 Opened PR [#6](https://github.com/TeamSkyBeach/BedWarsExtension/pull/6) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
 <!--END_SECTION:activity-->
 
 <h3 align="center"><code>🔗 Connect with me:</code></h3>
