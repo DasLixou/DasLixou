@@ -34,7 +34,9 @@
 
 <h3 align="center"><code>📊 Github Stats</code></h3>
 
-[![DasLixou's GitHub stats](https://github-readme-stats.vercel.app/api?username=DasLixou&show_icons=true&theme=swift&count_private=true)]()
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=DasLixou&show_icons=true&theme=swift&count_private=true">
+</p>
 
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
