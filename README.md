@@ -41,13 +41,13 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#286](https://github.com/charleskorn/kaml/issues/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
-2. 💪 Opened PR [#8](https://github.com/TeamSkyBeach/BedWarsExtension/pull/8) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
-3. 🎉 Merged PR [#6](https://github.com/TeamSkyBeach/BedWarsExtension/pull/6) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
-4. ❗️ Closed issue [#7](https://github.com/TeamSkyBeach/BedWarsExtension/issues/7) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
-5. 🗣 Commented on [#286](https://github.com/charleskorn/kaml/issues/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
+1. ❗️ Closed issue [#885](https://github.com/Minestom/Minestom/issues/885) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+2. ❗️ Closed issue [#969](https://github.com/Minestom/Minestom/issues/969) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+3. ❗️ Closed issue [#845](https://github.com/Minestom/Minestom/issues/845) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+4. ❗️ Closed issue [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+5. 🗣 Commented on [#1078](https://github.com/Minestom/Minestom/issues/1078) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
 6. 🗣 Commented on [#286](https://github.com/charleskorn/kaml/issues/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
-7. ❗️ Opened issue [#7](https://github.com/TeamSkyBeach/BedWarsExtension/issues/7) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
+7. 💪 Opened PR [#8](https://github.com/TeamSkyBeach/BedWarsExtension/pull/8) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
 <!--END_SECTION:activity-->
 
 <h3 align="center"><code>🔗 Connect with me:</code></h3>
