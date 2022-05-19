@@ -41,13 +41,13 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/TeamSkyBeach/BedWarsExtension/pull/8) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
-2. 🎉 Merged PR [#6](https://github.com/TeamSkyBeach/BedWarsExtension/pull/6) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
-3. ❗️ Closed issue [#7](https://github.com/TeamSkyBeach/BedWarsExtension/issues/7) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
-4. 🗣 Commented on [#286](https://github.com/charleskorn/kaml/issues/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
+1. 🗣 Commented on [#286](https://github.com/charleskorn/kaml/issues/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
+2. 💪 Opened PR [#8](https://github.com/TeamSkyBeach/BedWarsExtension/pull/8) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
+3. 🎉 Merged PR [#6](https://github.com/TeamSkyBeach/BedWarsExtension/pull/6) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
+4. ❗️ Closed issue [#7](https://github.com/TeamSkyBeach/BedWarsExtension/issues/7) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
 5. 🗣 Commented on [#286](https://github.com/charleskorn/kaml/issues/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
-6. ❗️ Opened issue [#7](https://github.com/TeamSkyBeach/BedWarsExtension/issues/7) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
-7. 🎉 Merged PR [#3](https://github.com/TeamSkyBeach/BedWarsExtension/pull/3) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
+6. 🗣 Commented on [#286](https://github.com/charleskorn/kaml/issues/286) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
+7. ❗️ Opened issue [#7](https://github.com/TeamSkyBeach/BedWarsExtension/issues/7) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
 <!--END_SECTION:activity-->
 
 <h3 align="center"><code>🔗 Connect with me:</code></h3>
