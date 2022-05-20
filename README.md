@@ -41,13 +41,13 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1095](https://github.com/Minestom/Minestom/pull/1095) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-2. ❗️ Opened issue [#9](https://github.com/TeamSkyBeach/BedWarsExtension/issues/9) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
-3. 🎉 Merged PR [#16](https://github.com/TeamSkyBeach/Stracciatella/pull/16) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-4. 🎉 Merged PR [#15](https://github.com/TeamSkyBeach/Stracciatella/pull/15) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-5. ❗️ Closed issue [#885](https://github.com/Minestom/Minestom/issues/885) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-6. ❗️ Closed issue [#969](https://github.com/Minestom/Minestom/issues/969) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-7. ❗️ Closed issue [#845](https://github.com/Minestom/Minestom/issues/845) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+1. 🗣 Commented on [#1095](https://github.com/Minestom/Minestom/issues/1095) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+2. 💪 Opened PR [#1095](https://github.com/Minestom/Minestom/pull/1095) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+3. ❗️ Opened issue [#9](https://github.com/TeamSkyBeach/BedWarsExtension/issues/9) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
+4. 🎉 Merged PR [#16](https://github.com/TeamSkyBeach/Stracciatella/pull/16) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+5. 🎉 Merged PR [#15](https://github.com/TeamSkyBeach/Stracciatella/pull/15) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+6. ❗️ Closed issue [#885](https://github.com/Minestom/Minestom/issues/885) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+7. ❗️ Closed issue [#969](https://github.com/Minestom/Minestom/issues/969) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
 <!--END_SECTION:activity-->
 
 <h3 align="center"><code>🔗 Connect with me:</code></h3>
