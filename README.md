@@ -41,13 +41,13 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#128](https://github.com/Project-Cepi/KStom/pull/128) in [Project-Cepi/KStom](https://github.com/Project-Cepi/KStom)
-2. 🗣 Commented on [#1095](https://github.com/Minestom/Minestom/issues/1095) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-3. 🗣 Commented on [#1095](https://github.com/Minestom/Minestom/issues/1095) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-4. 💪 Opened PR [#1095](https://github.com/Minestom/Minestom/pull/1095) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-5. ❗️ Opened issue [#9](https://github.com/TeamSkyBeach/BedWarsExtension/issues/9) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
-6. 🎉 Merged PR [#16](https://github.com/TeamSkyBeach/Stracciatella/pull/16) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-7. 🎉 Merged PR [#15](https://github.com/TeamSkyBeach/Stracciatella/pull/15) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+1. 🎉 Merged PR [#18](https://github.com/TeamSkyBeach/Stracciatella/pull/18) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+2. 💪 Opened PR [#18](https://github.com/TeamSkyBeach/Stracciatella/pull/18) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+3. 💪 Opened PR [#128](https://github.com/Project-Cepi/KStom/pull/128) in [Project-Cepi/KStom](https://github.com/Project-Cepi/KStom)
+4. 🗣 Commented on [#1095](https://github.com/Minestom/Minestom/issues/1095) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+5. 🗣 Commented on [#1095](https://github.com/Minestom/Minestom/issues/1095) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+6. 💪 Opened PR [#1095](https://github.com/Minestom/Minestom/pull/1095) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+7. ❗️ Opened issue [#9](https://github.com/TeamSkyBeach/BedWarsExtension/issues/9) in [TeamSkyBeach/BedWarsExtension](https://github.com/TeamSkyBeach/BedWarsExtension)
 <!--END_SECTION:activity-->
 
 <h3 align="center"><code>🔗 Connect with me:</code></h3>
