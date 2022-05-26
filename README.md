@@ -41,12 +41,12 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/Backseating-Committee-2k/Backlang/pull/6) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-2. 💪 Opened PR [#1114](https://github.com/Minestom/Minestom/pull/1114) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-3. 🎉 Merged PR [#18](https://github.com/TeamSkyBeach/Stracciatella/pull/18) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-4. 💪 Opened PR [#18](https://github.com/TeamSkyBeach/Stracciatella/pull/18) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-5. 💪 Opened PR [#128](https://github.com/Project-Cepi/KStom/pull/128) in [Project-Cepi/KStom](https://github.com/Project-Cepi/KStom)
-6. 🗣 Commented on [#1095](https://github.com/Minestom/Minestom/issues/1095) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+1. 💪 Opened PR [#7](https://github.com/Backseating-Committee-2k/Backlang/pull/7) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+2. 💪 Opened PR [#6](https://github.com/Backseating-Committee-2k/Backlang/pull/6) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+3. 💪 Opened PR [#1114](https://github.com/Minestom/Minestom/pull/1114) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+4. 🎉 Merged PR [#18](https://github.com/TeamSkyBeach/Stracciatella/pull/18) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+5. 💪 Opened PR [#18](https://github.com/TeamSkyBeach/Stracciatella/pull/18) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
+6. 💪 Opened PR [#128](https://github.com/Project-Cepi/KStom/pull/128) in [Project-Cepi/KStom](https://github.com/Project-Cepi/KStom)
 7. 🗣 Commented on [#1095](https://github.com/Minestom/Minestom/issues/1095) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
 <!--END_SECTION:activity-->
 
