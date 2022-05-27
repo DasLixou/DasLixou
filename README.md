@@ -41,13 +41,13 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Backseating-Committee-2k/Backlang/pull/8) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-2. 💪 Opened PR [#7](https://github.com/Backseating-Committee-2k/Backlang/pull/7) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-3. 💪 Opened PR [#6](https://github.com/Backseating-Committee-2k/Backlang/pull/6) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-4. 💪 Opened PR [#1114](https://github.com/Minestom/Minestom/pull/1114) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-5. 🎉 Merged PR [#18](https://github.com/TeamSkyBeach/Stracciatella/pull/18) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-6. 💪 Opened PR [#18](https://github.com/TeamSkyBeach/Stracciatella/pull/18) in [TeamSkyBeach/Stracciatella](https://github.com/TeamSkyBeach/Stracciatella)
-7. 💪 Opened PR [#128](https://github.com/Project-Cepi/KStom/pull/128) in [Project-Cepi/KStom](https://github.com/Project-Cepi/KStom)
+1. 🎉 Merged PR [#12](https://github.com/Backseating-Committee-2k/Backlang/pull/12) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+2. 💪 Opened PR [#12](https://github.com/Backseating-Committee-2k/Backlang/pull/12) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+3. 🎉 Merged PR [#11](https://github.com/Backseating-Committee-2k/Backlang/pull/11) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+4. 💪 Opened PR [#11](https://github.com/Backseating-Committee-2k/Backlang/pull/11) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+5. 🎉 Merged PR [#10](https://github.com/Backseating-Committee-2k/Backlang/pull/10) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+6. 💪 Opened PR [#10](https://github.com/Backseating-Committee-2k/Backlang/pull/10) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+7. 💪 Opened PR [#8](https://github.com/Backseating-Committee-2k/Backlang/pull/8) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
 <!--END_SECTION:activity-->
 
 <h3 align="center"><code>🔗 Connect with me:</code></h3>
