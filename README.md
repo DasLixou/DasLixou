@@ -41,13 +41,13 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/Backseating-Committee-2k/Backlang/pull/38) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-2. 🎉 Merged PR [#37](https://github.com/Backseating-Committee-2k/Backlang/pull/37) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-3. 💪 Opened PR [#37](https://github.com/Backseating-Committee-2k/Backlang/pull/37) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-4. 🎉 Merged PR [#36](https://github.com/Backseating-Committee-2k/Backlang/pull/36) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-5. 💪 Opened PR [#36](https://github.com/Backseating-Committee-2k/Backlang/pull/36) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-6. ❗️ Closed issue [#17](https://github.com/Backseating-Committee-2k/Backlang/issues/17) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-7. 🎉 Merged PR [#35](https://github.com/Backseating-Committee-2k/Backlang/pull/35) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+1. 🎉 Merged PR [#38](https://github.com/Backseating-Committee-2k/Backlang/pull/38) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+2. 💪 Opened PR [#38](https://github.com/Backseating-Committee-2k/Backlang/pull/38) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+3. 🎉 Merged PR [#37](https://github.com/Backseating-Committee-2k/Backlang/pull/37) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+4. 💪 Opened PR [#37](https://github.com/Backseating-Committee-2k/Backlang/pull/37) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+5. 🎉 Merged PR [#36](https://github.com/Backseating-Committee-2k/Backlang/pull/36) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+6. 💪 Opened PR [#36](https://github.com/Backseating-Committee-2k/Backlang/pull/36) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+7. ❗️ Closed issue [#17](https://github.com/Backseating-Committee-2k/Backlang/issues/17) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
 <!--END_SECTION:activity-->
 
 <h3 align="center"><code>🔗 Connect with me:</code></h3>
