@@ -41,13 +41,13 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/furesoft/Furesoft.Core/pull/4) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
-2. 🗣 Commented on [#143](https://github.com/BeastTrees/leaf.js/issues/143) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-3. 🗣 Commented on [#142](https://github.com/BeastTrees/leaf.js/issues/142) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-4. 🗣 Commented on [#141](https://github.com/BeastTrees/leaf.js/issues/141) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-5. 🗣 Commented on [#139](https://github.com/BeastTrees/leaf.js/issues/139) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-6. 🎉 Merged PR [#108](https://github.com/BeastTrees/leaf.js/pull/108) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
-7. 🎉 Merged PR [#129](https://github.com/BeastTrees/leaf.js/pull/129) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+1. ❗️ Closed issue [#86](https://github.com/Backseating-Committee-2k/Backlang/issues/86) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+2. 🎉 Merged PR [#92](https://github.com/Backseating-Committee-2k/Backlang/pull/92) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+3. 💪 Opened PR [#92](https://github.com/Backseating-Committee-2k/Backlang/pull/92) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+4. 💪 Opened PR [#4](https://github.com/furesoft/Furesoft.Core/pull/4) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
+5. 🗣 Commented on [#143](https://github.com/BeastTrees/leaf.js/issues/143) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+6. 🗣 Commented on [#142](https://github.com/BeastTrees/leaf.js/issues/142) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+7. 🗣 Commented on [#141](https://github.com/BeastTrees/leaf.js/issues/141) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
 <!--END_SECTION:activity-->
 
 <h3 align="center"><code>🔗 Connect with me:</code></h3>
