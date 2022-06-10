@@ -41,13 +41,13 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/Backseating-Committee-2k/Backlang/pull/95) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-2. 💪 Opened PR [#95](https://github.com/Backseating-Committee-2k/Backlang/pull/95) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-3. ❗️ Closed issue [#86](https://github.com/Backseating-Committee-2k/Backlang/issues/86) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-4. 🎉 Merged PR [#92](https://github.com/Backseating-Committee-2k/Backlang/pull/92) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-5. 💪 Opened PR [#92](https://github.com/Backseating-Committee-2k/Backlang/pull/92) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-6. 💪 Opened PR [#4](https://github.com/furesoft/Furesoft.Core/pull/4) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
-7. 🗣 Commented on [#143](https://github.com/BeastTrees/leaf.js/issues/143) in [BeastTrees/leaf.js](https://github.com/BeastTrees/leaf.js)
+1. 💪 Opened PR [#10](https://github.com/qwertie/LoycCore/pull/10) in [qwertie/LoycCore](https://github.com/qwertie/LoycCore)
+2. 🎉 Merged PR [#95](https://github.com/Backseating-Committee-2k/Backlang/pull/95) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+3. 💪 Opened PR [#95](https://github.com/Backseating-Committee-2k/Backlang/pull/95) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+4. ❗️ Closed issue [#86](https://github.com/Backseating-Committee-2k/Backlang/issues/86) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+5. 🎉 Merged PR [#92](https://github.com/Backseating-Committee-2k/Backlang/pull/92) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+6. 💪 Opened PR [#92](https://github.com/Backseating-Committee-2k/Backlang/pull/92) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+7. 💪 Opened PR [#4](https://github.com/furesoft/Furesoft.Core/pull/4) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
 <!--END_SECTION:activity-->
 
 <h3 align="center"><code>🔗 Connect with me:</code></h3>
