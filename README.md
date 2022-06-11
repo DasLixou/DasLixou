@@ -41,13 +41,13 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/qwertie/LoycCore/issues/10) in [qwertie/LoycCore](https://github.com/qwertie/LoycCore)
-2. 🎉 Merged PR [#99](https://github.com/Backseating-Committee-2k/Backlang/pull/99) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-3. 💪 Opened PR [#99](https://github.com/Backseating-Committee-2k/Backlang/pull/99) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-4. ❗️ Closed issue [#1](https://github.com/DasLixou/Betro/issues/1) in [DasLixou/Betro](https://github.com/DasLixou/Betro)
-5. 🗣 Commented on [#1](https://github.com/DasLixou/Betro/issues/1) in [DasLixou/Betro](https://github.com/DasLixou/Betro)
-6. 💪 Opened PR [#10](https://github.com/qwertie/LoycCore/pull/10) in [qwertie/LoycCore](https://github.com/qwertie/LoycCore)
-7. 🎉 Merged PR [#95](https://github.com/Backseating-Committee-2k/Backlang/pull/95) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+1. ❗️ Closed issue [#88](https://github.com/Backseating-Committee-2k/Backlang/issues/88) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+2. 🎉 Merged PR [#104](https://github.com/Backseating-Committee-2k/Backlang/pull/104) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+3. 💪 Opened PR [#104](https://github.com/Backseating-Committee-2k/Backlang/pull/104) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+4. 🗣 Commented on [#10](https://github.com/qwertie/LoycCore/issues/10) in [qwertie/LoycCore](https://github.com/qwertie/LoycCore)
+5. 🎉 Merged PR [#99](https://github.com/Backseating-Committee-2k/Backlang/pull/99) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+6. 💪 Opened PR [#99](https://github.com/Backseating-Committee-2k/Backlang/pull/99) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+7. ❗️ Closed issue [#1](https://github.com/DasLixou/Betro/issues/1) in [DasLixou/Betro](https://github.com/DasLixou/Betro)
 <!--END_SECTION:activity-->
 
 <h3 align="center"><code>🔗 Connect with me:</code></h3>
