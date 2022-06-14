@@ -9,6 +9,8 @@
 
 - 😎 I managed to install Arch, so I'm cool now, iguess
 
+- 🌴 Likes nature :)
+
 <h3 align="center"><code>🚀 Languages</code></h3>
 
 <p align="center">
