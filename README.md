@@ -1,9 +1,9 @@
 ## 🙋‍♂️ Hi! I'm Lixou :3
-- 🌱 I’m currently learning **Kotlin <3**
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=DasLixou&show_icons=true&theme=swift&count_private=true">
+
+- 🌱 I’m currently learning **C# 🦈**
 
 - 🔭 I’m currently working on **[TeamSkyBeach](https://github.com/TeamSkyBeach)**
-
-- 🔥 `Nobody can match my IntelliJ!`
 
 - 💻 `Windows 11` and `Arch Linux` User
 
@@ -32,12 +32,6 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center"><code>📊 Github Stats</code></h3>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DasLixou&show_icons=true&theme=swift&count_private=true">
-</p>
-
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
@@ -49,19 +43,3 @@
 6. ❗️ Closed issue [#88](https://github.com/Backseating-Committee-2k/Backlang/issues/88) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
 7. 🎉 Merged PR [#104](https://github.com/Backseating-Committee-2k/Backlang/pull/104) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
 <!--END_SECTION:activity-->
-
-<h3 align="center"><code>🔗 Connect with me:</code></h3>
-
-<p align="left">
-
-<a href="https://twitter.com/daslixou">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-</a>
-<a href="https://dsc.gg/teamskybeach">
-    <img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
-</a>
-<a href="https://www.youtube.com/channel/UCkhGNEAhH6BIrzTdemnN8ow">
-    <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
-</a>
-
-</p>
