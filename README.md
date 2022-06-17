@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DasLixou/LeaVM/pull/1) in [DasLixou/LeaVM](https://github.com/DasLixou/LeaVM)
-2. 🗣 Commented on [#1](https://github.com/DasLixou/LeaVM/issues/1) in [DasLixou/LeaVM](https://github.com/DasLixou/LeaVM)
-3. 🎉 Merged PR [#121](https://github.com/Backseating-Committee-2k/Backlang/pull/121) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-4. 💪 Opened PR [#121](https://github.com/Backseating-Committee-2k/Backlang/pull/121) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+1. 🗣 Commented on [#10](https://github.com/qwertie/LoycCore/issues/10) in [qwertie/LoycCore](https://github.com/qwertie/LoycCore)
+2. 🎉 Merged PR [#1](https://github.com/DasLixou/LeaVM/pull/1) in [DasLixou/LeaVM](https://github.com/DasLixou/LeaVM)
+3. 🗣 Commented on [#1](https://github.com/DasLixou/LeaVM/issues/1) in [DasLixou/LeaVM](https://github.com/DasLixou/LeaVM)
+4. 🎉 Merged PR [#121](https://github.com/Backseating-Committee-2k/Backlang/pull/121) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
 <!--END_SECTION:activity-->
