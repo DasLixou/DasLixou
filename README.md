@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#126](https://github.com/Backseating-Committee-2k/Backlang/pull/126) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-2. 🎉 Merged PR [#123](https://github.com/Backseating-Committee-2k/Backlang/pull/123) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-3. 💪 Opened PR [#123](https://github.com/Backseating-Committee-2k/Backlang/pull/123) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-4. 🗣 Commented on [#10](https://github.com/qwertie/LoycCore/issues/10) in [qwertie/LoycCore](https://github.com/qwertie/LoycCore)
+1. 🎉 Merged PR [#1](https://github.com/Backlang-Team/VSCode-Extension/pull/1) in [Backlang-Team/VSCode-Extension](https://github.com/Backlang-Team/VSCode-Extension)
+2. 💪 Opened PR [#1](https://github.com/Backlang-Team/VSCode-Extension/pull/1) in [Backlang-Team/VSCode-Extension](https://github.com/Backlang-Team/VSCode-Extension)
+3. 💪 Opened PR [#126](https://github.com/Backseating-Committee-2k/Backlang/pull/126) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+4. 🎉 Merged PR [#123](https://github.com/Backseating-Committee-2k/Backlang/pull/123) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
 <!--END_SECTION:activity-->
