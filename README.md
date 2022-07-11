@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Backlang-Team/VSCode-Extension/pull/1) in [Backlang-Team/VSCode-Extension](https://github.com/Backlang-Team/VSCode-Extension)
-2. 💪 Opened PR [#1](https://github.com/Backlang-Team/VSCode-Extension/pull/1) in [Backlang-Team/VSCode-Extension](https://github.com/Backlang-Team/VSCode-Extension)
-3. 💪 Opened PR [#126](https://github.com/Backseating-Committee-2k/Backlang/pull/126) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
-4. 🎉 Merged PR [#123](https://github.com/Backseating-Committee-2k/Backlang/pull/123) in [Backseating-Committee-2k/Backlang](https://github.com/Backseating-Committee-2k/Backlang)
+1. 💪 Opened PR [#131](https://github.com/Backlang-Team/Backlang/pull/131) in [Backlang-Team/Backlang](https://github.com/Backlang-Team/Backlang)
+2. 💪 Opened PR [#130](https://github.com/Backlang-Team/Backlang/pull/130) in [Backlang-Team/Backlang](https://github.com/Backlang-Team/Backlang)
+3. ❌ Closed PR [#129](https://github.com/Backlang-Team/Backlang/pull/129) in [Backlang-Team/Backlang](https://github.com/Backlang-Team/Backlang)
+4. 💪 Opened PR [#129](https://github.com/Backlang-Team/Backlang/pull/129) in [Backlang-Team/Backlang](https://github.com/Backlang-Team/Backlang)
 <!--END_SECTION:activity-->
