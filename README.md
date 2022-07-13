@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/furesoft/Furesoft.Core/issues/7) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
-2. 💪 Opened PR [#6](https://github.com/furesoft/Furesoft.Core/pull/6) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
-3. 🎉 Merged PR [#131](https://github.com/Backlang-Team/Backlang/pull/131) in [Backlang-Team/Backlang](https://github.com/Backlang-Team/Backlang)
-4. 💪 Opened PR [#131](https://github.com/Backlang-Team/Backlang/pull/131) in [Backlang-Team/Backlang](https://github.com/Backlang-Team/Backlang)
+1. 💪 Opened PR [#10](https://github.com/furesoft/Furesoft.Core/pull/10) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
+2. 💪 Opened PR [#9](https://github.com/furesoft/Furesoft.Core/pull/9) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
+3. 💪 Opened PR [#8](https://github.com/furesoft/Furesoft.Core/pull/8) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
+4. ❗️ Opened issue [#7](https://github.com/furesoft/Furesoft.Core/issues/7) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
 <!--END_SECTION:activity-->
