@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#133](https://github.com/Backlang-Team/Backlang/pull/133) in [Backlang-Team/Backlang](https://github.com/Backlang-Team/Backlang)
-2. ❌ Closed PR [#132](https://github.com/Backlang-Team/Backlang/pull/132) in [Backlang-Team/Backlang](https://github.com/Backlang-Team/Backlang)
-3. 💪 Opened PR [#132](https://github.com/Backlang-Team/Backlang/pull/132) in [Backlang-Team/Backlang](https://github.com/Backlang-Team/Backlang)
-4. 💪 Opened PR [#10](https://github.com/furesoft/Furesoft.Core/pull/10) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
+1. ❗️ Opened issue [#9087](https://github.com/vitejs/vite/issues/9087) in [vitejs/vite](https://github.com/vitejs/vite)
+2. 💪 Opened PR [#133](https://github.com/Backlang-Team/Backlang/pull/133) in [Backlang-Team/Backlang](https://github.com/Backlang-Team/Backlang)
+3. ❌ Closed PR [#132](https://github.com/Backlang-Team/Backlang/pull/132) in [Backlang-Team/Backlang](https://github.com/Backlang-Team/Backlang)
+4. 💪 Opened PR [#132](https://github.com/Backlang-Team/Backlang/pull/132) in [Backlang-Team/Backlang](https://github.com/Backlang-Team/Backlang)
 <!--END_SECTION:activity-->
