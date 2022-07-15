@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#137](https://github.com/Backlang-Org/Backlang/pull/137) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-2. 💪 Opened PR [#137](https://github.com/Backlang-Org/Backlang/pull/137) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-3. 💪 Opened PR [#11](https://github.com/furesoft/Furesoft.Core/pull/11) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
-4. ❗️ Opened issue [#9087](https://github.com/vitejs/vite/issues/9087) in [vitejs/vite](https://github.com/vitejs/vite)
+1. ❗️ Opened issue [#137](https://github.com/solidjs/solid-app-router/issues/137) in [solidjs/solid-app-router](https://github.com/solidjs/solid-app-router)
+2. 🎉 Merged PR [#137](https://github.com/Backlang-Org/Backlang/pull/137) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+3. 💪 Opened PR [#137](https://github.com/Backlang-Org/Backlang/pull/137) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+4. 💪 Opened PR [#11](https://github.com/furesoft/Furesoft.Core/pull/11) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
 <!--END_SECTION:activity-->
