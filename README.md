@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#139](https://github.com/Backlang-Org/Backlang/pull/139) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-2. 🎉 Merged PR [#138](https://github.com/Backlang-Org/Backlang/pull/138) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-3. 💪 Opened PR [#138](https://github.com/Backlang-Org/Backlang/pull/138) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-4. ❗️ Opened issue [#7](https://github.com/andi23rosca/solid-markdown/issues/7) in [andi23rosca/solid-markdown](https://github.com/andi23rosca/solid-markdown)
+1. 💪 Opened PR [#141](https://github.com/Backlang-Org/Backlang/pull/141) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+2. 💪 Opened PR [#139](https://github.com/Backlang-Org/Backlang/pull/139) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+3. 🎉 Merged PR [#138](https://github.com/Backlang-Org/Backlang/pull/138) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+4. 💪 Opened PR [#138](https://github.com/Backlang-Org/Backlang/pull/138) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
 <!--END_SECTION:activity-->
