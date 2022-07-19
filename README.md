@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#148](https://github.com/tameemsafi/typewriterjs/pull/148) in [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)
-2. 💪 Opened PR [#141](https://github.com/Backlang-Org/Backlang/pull/141) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-3. 💪 Opened PR [#139](https://github.com/Backlang-Org/Backlang/pull/139) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-4. 🎉 Merged PR [#138](https://github.com/Backlang-Org/Backlang/pull/138) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+1. 💪 Opened PR [#1](https://github.com/Backlang-Org/playground/pull/1) in [Backlang-Org/playground](https://github.com/Backlang-Org/playground)
+2. 💪 Opened PR [#148](https://github.com/tameemsafi/typewriterjs/pull/148) in [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)
+3. 💪 Opened PR [#141](https://github.com/Backlang-Org/Backlang/pull/141) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+4. 💪 Opened PR [#139](https://github.com/Backlang-Org/Backlang/pull/139) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
 <!--END_SECTION:activity-->
