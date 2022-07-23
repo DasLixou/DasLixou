@@ -18,7 +18,7 @@
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.backlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Backlang-Org/VSCode-Extension/main/Source/media/logo.svg" alt="backlang" width="40" height="40"/> </a>
+<a href="https://www.backlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Backlang-Org/backlang-org.github.io/main/src/assets/logoNoShadow.svg" alt="backlang" width="40" height="40"/> </a>
 </p>
 
 <h3 align="center"><code>⚙️ Tools</code></h3>
