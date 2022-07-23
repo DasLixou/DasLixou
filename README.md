@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#148](https://github.com/Backlang-Org/Backlang/pull/148) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-2. 💪 Opened PR [#148](https://github.com/Backlang-Org/Backlang/pull/148) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-3. ❌ Closed PR [#147](https://github.com/Backlang-Org/Backlang/pull/147) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-4. 💪 Opened PR [#147](https://github.com/Backlang-Org/Backlang/pull/147) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+1. 🎉 Merged PR [#149](https://github.com/Backlang-Org/Backlang/pull/149) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+2. 💪 Opened PR [#149](https://github.com/Backlang-Org/Backlang/pull/149) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+3. 🎉 Merged PR [#148](https://github.com/Backlang-Org/Backlang/pull/148) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+4. 💪 Opened PR [#148](https://github.com/Backlang-Org/Backlang/pull/148) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
 <!--END_SECTION:activity-->
