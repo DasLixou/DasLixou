@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/furesoft/Furesoft.Core/pull/12) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
-2. 🎉 Merged PR [#152](https://github.com/Backlang-Org/Backlang/pull/152) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-3. 💪 Opened PR [#152](https://github.com/Backlang-Org/Backlang/pull/152) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-4. 🎉 Merged PR [#151](https://github.com/Backlang-Org/Backlang/pull/151) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+1. 🎉 Merged PR [#156](https://github.com/Backlang-Org/Backlang/pull/156) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+2. 💪 Opened PR [#156](https://github.com/Backlang-Org/Backlang/pull/156) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+3. ❌ Closed PR [#155](https://github.com/Backlang-Org/Backlang/pull/155) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+4. 💪 Opened PR [#155](https://github.com/Backlang-Org/Backlang/pull/155) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
 <!--END_SECTION:activity-->
