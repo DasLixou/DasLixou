@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/Backlang-Org/Backlang/issues/161) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-2. 💪 Opened PR [#162](https://github.com/Backlang-Org/Backlang/pull/162) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-3. 💪 Opened PR [#161](https://github.com/Backlang-Org/Backlang/pull/161) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-4. 💪 Opened PR [#160](https://github.com/Backlang-Org/Backlang/pull/160) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+1. ❗️ Opened issue [#1179](https://github.com/JamesIves/github-pages-deploy-action/issues/1179) in [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
+2. 🗣 Commented on [#161](https://github.com/Backlang-Org/Backlang/issues/161) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+3. 💪 Opened PR [#162](https://github.com/Backlang-Org/Backlang/pull/162) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+4. 💪 Opened PR [#161](https://github.com/Backlang-Org/Backlang/pull/161) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
 <!--END_SECTION:activity-->
