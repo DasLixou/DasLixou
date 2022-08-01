@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1297](https://github.com/Minestom/Minestom/issues/1297) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-2. 💪 Opened PR [#3](https://github.com/Backlang-Org/playground/pull/3) in [Backlang-Org/playground](https://github.com/Backlang-Org/playground)
-3. 🎉 Merged PR [#156](https://github.com/Backlang-Org/Backlang/pull/156) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-4. 💪 Opened PR [#156](https://github.com/Backlang-Org/Backlang/pull/156) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+1. 💪 Opened PR [#160](https://github.com/Backlang-Org/Backlang/pull/160) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+2. ❗️ Opened issue [#1297](https://github.com/Minestom/Minestom/issues/1297) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+3. 💪 Opened PR [#3](https://github.com/Backlang-Org/playground/pull/3) in [Backlang-Org/playground](https://github.com/Backlang-Org/playground)
+4. 🎉 Merged PR [#156](https://github.com/Backlang-Org/Backlang/pull/156) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
 <!--END_SECTION:activity-->
