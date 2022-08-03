@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#118](https://github.com/NetworkConfiguration/dhcpcd/issues/118) in [NetworkConfiguration/dhcpcd](https://github.com/NetworkConfiguration/dhcpcd)
-2. ❗️ Opened issue [#1179](https://github.com/JamesIves/github-pages-deploy-action/issues/1179) in [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
-3. 🗣 Commented on [#161](https://github.com/Backlang-Org/Backlang/issues/161) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-4. 💪 Opened PR [#162](https://github.com/Backlang-Org/Backlang/pull/162) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+1. ❌ Closed PR [#162](https://github.com/Backlang-Org/Backlang/pull/162) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+2. 🗣 Commented on [#162](https://github.com/Backlang-Org/Backlang/issues/162) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+3. ❗️ Opened issue [#118](https://github.com/NetworkConfiguration/dhcpcd/issues/118) in [NetworkConfiguration/dhcpcd](https://github.com/NetworkConfiguration/dhcpcd)
+4. ❗️ Opened issue [#1179](https://github.com/JamesIves/github-pages-deploy-action/issues/1179) in [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
 <!--END_SECTION:activity-->
