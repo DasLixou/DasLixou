@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#169](https://github.com/Backlang-Org/Backlang/issues/169) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-2. ❌ Closed PR [#14](https://github.com/furesoft/Furesoft.Core/pull/14) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
-3. 🗣 Commented on [#14](https://github.com/furesoft/Furesoft.Core/issues/14) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
-4. 💪 Opened PR [#14](https://github.com/furesoft/Furesoft.Core/pull/14) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
+1. ❗️ Closed issue [#1297](https://github.com/Minestom/Minestom/issues/1297) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+2. ❗️ Opened issue [#169](https://github.com/Backlang-Org/Backlang/issues/169) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+3. ❌ Closed PR [#14](https://github.com/furesoft/Furesoft.Core/pull/14) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
+4. 🗣 Commented on [#14](https://github.com/furesoft/Furesoft.Core/issues/14) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
 <!--END_SECTION:activity-->
