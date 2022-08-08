@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1297](https://github.com/Minestom/Minestom/issues/1297) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-2. ❗️ Opened issue [#169](https://github.com/Backlang-Org/Backlang/issues/169) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-3. ❌ Closed PR [#14](https://github.com/furesoft/Furesoft.Core/pull/14) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
-4. 🗣 Commented on [#14](https://github.com/furesoft/Furesoft.Core/issues/14) in [furesoft/Furesoft.Core](https://github.com/furesoft/Furesoft.Core)
+1. 🗣 Commented on [#1179](https://github.com/JamesIves/github-pages-deploy-action/issues/1179) in [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
+2. 🗣 Commented on [#1179](https://github.com/JamesIves/github-pages-deploy-action/issues/1179) in [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
+3. ❗️ Closed issue [#1297](https://github.com/Minestom/Minestom/issues/1297) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+4. ❗️ Opened issue [#169](https://github.com/Backlang-Org/Backlang/issues/169) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
 <!--END_SECTION:activity-->
