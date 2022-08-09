@@ -39,6 +39,6 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1179](https://github.com/JamesIves/github-pages-deploy-action/issues/1179) in [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
 2. 🗣 Commented on [#1179](https://github.com/JamesIves/github-pages-deploy-action/issues/1179) in [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
-3. ❗️ Closed issue [#1297](https://github.com/Minestom/Minestom/issues/1297) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-4. ❗️ Opened issue [#169](https://github.com/Backlang-Org/Backlang/issues/169) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+3. 🗣 Commented on [#1179](https://github.com/JamesIves/github-pages-deploy-action/issues/1179) in [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
+4. ❗️ Closed issue [#1297](https://github.com/Minestom/Minestom/issues/1297) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
 <!--END_SECTION:activity-->
