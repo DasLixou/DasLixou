@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1179](https://github.com/JamesIves/github-pages-deploy-action/issues/1179) in [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
+1. ❗️ Closed issue [#1179](https://github.com/JamesIves/github-pages-deploy-action/issues/1179) in [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
 2. 🗣 Commented on [#1179](https://github.com/JamesIves/github-pages-deploy-action/issues/1179) in [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
 3. 🗣 Commented on [#1179](https://github.com/JamesIves/github-pages-deploy-action/issues/1179) in [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
-4. ❗️ Closed issue [#1297](https://github.com/Minestom/Minestom/issues/1297) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+4. 🗣 Commented on [#1179](https://github.com/JamesIves/github-pages-deploy-action/issues/1179) in [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
 <!--END_SECTION:activity-->
