@@ -1,13 +1,13 @@
 ## 🙋‍♂️ Hi! I'm Lixou :3
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=DasLixou&show_icons=true&theme=swift&count_private=true">
 
-- 🌱 I’m currently learning **C# 🦈**
+- 🌱 I’m currently learning **C++**
 
-- 🔭 I’m currently working on **[BackLang](https://github.com/BackLang-Org)**
+- 🔭 I’m currently working on my own game in c++
 
-- 💻 `Windows 11` and `Arch Linux` User
+- 🏡 Absolute Maniac Mansion lover (even if it's older than me 😁)
 
-- 😎 I managed to install Arch, so I'm cool now, iguess
+- 🎛 Loves Retro-Games
 
 - 🌴 Likes nature :)
 
