@@ -7,7 +7,7 @@
 
 - 🏡 Absolute Maniac Mansion lover (even if it's older than me 😁)
 
-- 🎛 Loves Retro-Games
+- 🕹️ Loves Retro-Games
 
 - 🌴 Likes nature :)
 
