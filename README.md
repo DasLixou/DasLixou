@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#437](https://github.com/rafaelmardojai/firefox-gnome-theme/issues/437) in [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme)
-2. ❗️ Closed issue [#118](https://github.com/NetworkConfiguration/dhcpcd/issues/118) in [NetworkConfiguration/dhcpcd](https://github.com/NetworkConfiguration/dhcpcd)
-3. 🗣 Commented on [#118](https://github.com/NetworkConfiguration/dhcpcd/issues/118) in [NetworkConfiguration/dhcpcd](https://github.com/NetworkConfiguration/dhcpcd)
-4. 💪 Opened PR [#173](https://github.com/Backlang-Org/Backlang/pull/173) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+1. 🗣 Commented on [#3807](https://github.com/qtile/qtile/issues/3807) in [qtile/qtile](https://github.com/qtile/qtile)
+2. ❗️ Closed issue [#3807](https://github.com/qtile/qtile/issues/3807) in [qtile/qtile](https://github.com/qtile/qtile)
+3. 🗣 Commented on [#3807](https://github.com/qtile/qtile/issues/3807) in [qtile/qtile](https://github.com/qtile/qtile)
+4. 🗣 Commented on [#3807](https://github.com/qtile/qtile/issues/3807) in [qtile/qtile](https://github.com/qtile/qtile)
 <!--END_SECTION:activity-->
