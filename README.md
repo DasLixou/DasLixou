@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5767](https://github.com/bevyengine/bevy/issues/5767) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. ❗️ Opened issue [#111](https://github.com/Backseating-Committee-2k/Seatbelt/issues/111) in [Backseating-Committee-2k/Seatbelt](https://github.com/Backseating-Committee-2k/Seatbelt)
 2. 🗣 Commented on [#5767](https://github.com/bevyengine/bevy/issues/5767) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. 🗣 Commented on [#3807](https://github.com/qtile/qtile/issues/3807) in [qtile/qtile](https://github.com/qtile/qtile)
-4. ❗️ Closed issue [#3807](https://github.com/qtile/qtile/issues/3807) in [qtile/qtile](https://github.com/qtile/qtile)
+3. 🗣 Commented on [#5767](https://github.com/bevyengine/bevy/issues/5767) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. 🗣 Commented on [#3807](https://github.com/qtile/qtile/issues/3807) in [qtile/qtile](https://github.com/qtile/qtile)
 <!--END_SECTION:activity-->
