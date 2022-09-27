@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1038](https://github.com/async-rs/async-std/issues/1038) in [async-rs/async-std](https://github.com/async-rs/async-std)
-2. ❗️ Opened issue [#115](https://github.com/Backseating-Committee-2k/Seatbelt/issues/115) in [Backseating-Committee-2k/Seatbelt](https://github.com/Backseating-Committee-2k/Seatbelt)
-3. ❗️ Opened issue [#114](https://github.com/Backseating-Committee-2k/Seatbelt/issues/114) in [Backseating-Committee-2k/Seatbelt](https://github.com/Backseating-Committee-2k/Seatbelt)
-4. ❗️ Opened issue [#111](https://github.com/Backseating-Committee-2k/Seatbelt/issues/111) in [Backseating-Committee-2k/Seatbelt](https://github.com/Backseating-Committee-2k/Seatbelt)
+1. 🎉 Merged PR [#1](https://github.com/DasLixou/nescht/pull/1) in [DasLixou/nescht](https://github.com/DasLixou/nescht)
+2. 💪 Opened PR [#1](https://github.com/DasLixou/nescht/pull/1) in [DasLixou/nescht](https://github.com/DasLixou/nescht)
+3. ❗️ Opened issue [#1038](https://github.com/async-rs/async-std/issues/1038) in [async-rs/async-std](https://github.com/async-rs/async-std)
+4. ❗️ Opened issue [#115](https://github.com/Backseating-Committee-2k/Seatbelt/issues/115) in [Backseating-Committee-2k/Seatbelt](https://github.com/Backseating-Committee-2k/Seatbelt)
 <!--END_SECTION:activity-->
