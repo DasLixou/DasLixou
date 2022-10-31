@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#179](https://github.com/Backlang-Org/Backlang/pull/179) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-2. 🎉 Merged PR [#1](https://github.com/DasLixou/nescht/pull/1) in [DasLixou/nescht](https://github.com/DasLixou/nescht)
-3. 💪 Opened PR [#1](https://github.com/DasLixou/nescht/pull/1) in [DasLixou/nescht](https://github.com/DasLixou/nescht)
-4. ❗️ Opened issue [#1038](https://github.com/async-rs/async-std/issues/1038) in [async-rs/async-std](https://github.com/async-rs/async-std)
+1. ❗️ Opened issue [#9](https://github.com/rust-tutorials/learn-opengl/issues/9) in [rust-tutorials/learn-opengl](https://github.com/rust-tutorials/learn-opengl)
+2. 💪 Opened PR [#179](https://github.com/Backlang-Org/Backlang/pull/179) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+3. 🎉 Merged PR [#1](https://github.com/DasLixou/nescht/pull/1) in [DasLixou/nescht](https://github.com/DasLixou/nescht)
+4. 💪 Opened PR [#1](https://github.com/DasLixou/nescht/pull/1) in [DasLixou/nescht](https://github.com/DasLixou/nescht)
 <!--END_SECTION:activity-->
