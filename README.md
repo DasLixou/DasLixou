@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/rust-tutorials/learn-opengl/issues/9) in [rust-tutorials/learn-opengl](https://github.com/rust-tutorials/learn-opengl)
-2. 💪 Opened PR [#179](https://github.com/Backlang-Org/Backlang/pull/179) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
-3. 🎉 Merged PR [#1](https://github.com/DasLixou/nescht/pull/1) in [DasLixou/nescht](https://github.com/DasLixou/nescht)
-4. 💪 Opened PR [#1](https://github.com/DasLixou/nescht/pull/1) in [DasLixou/nescht](https://github.com/DasLixou/nescht)
+1. ❗️ Closed issue [#9](https://github.com/rust-tutorials/learn-opengl/issues/9) in [rust-tutorials/learn-opengl](https://github.com/rust-tutorials/learn-opengl)
+2. 🗣 Commented on [#9](https://github.com/rust-tutorials/learn-opengl/issues/9) in [rust-tutorials/learn-opengl](https://github.com/rust-tutorials/learn-opengl)
+3. ❗️ Opened issue [#9](https://github.com/rust-tutorials/learn-opengl/issues/9) in [rust-tutorials/learn-opengl](https://github.com/rust-tutorials/learn-opengl)
+4. 💪 Opened PR [#179](https://github.com/Backlang-Org/Backlang/pull/179) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
 <!--END_SECTION:activity-->
