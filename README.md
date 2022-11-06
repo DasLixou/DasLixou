@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6496](https://github.com/bevyengine/bevy/pull/6496) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. ❗️ Closed issue [#9](https://github.com/rust-tutorials/learn-opengl/issues/9) in [rust-tutorials/learn-opengl](https://github.com/rust-tutorials/learn-opengl)
-3. 🗣 Commented on [#9](https://github.com/rust-tutorials/learn-opengl/issues/9) in [rust-tutorials/learn-opengl](https://github.com/rust-tutorials/learn-opengl)
-4. ❗️ Opened issue [#9](https://github.com/rust-tutorials/learn-opengl/issues/9) in [rust-tutorials/learn-opengl](https://github.com/rust-tutorials/learn-opengl)
+1. 🗣 Commented on [#6496](https://github.com/bevyengine/bevy/issues/6496) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. 💪 Opened PR [#6496](https://github.com/bevyengine/bevy/pull/6496) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. ❗️ Closed issue [#9](https://github.com/rust-tutorials/learn-opengl/issues/9) in [rust-tutorials/learn-opengl](https://github.com/rust-tutorials/learn-opengl)
+4. 🗣 Commented on [#9](https://github.com/rust-tutorials/learn-opengl/issues/9) in [rust-tutorials/learn-opengl](https://github.com/rust-tutorials/learn-opengl)
 <!--END_SECTION:activity-->
