@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/rust-tutorials/learn-opengl/issues/9) in [rust-tutorials/learn-opengl](https://github.com/rust-tutorials/learn-opengl)
-2. 🗣 Commented on [#9](https://github.com/rust-tutorials/learn-opengl/issues/9) in [rust-tutorials/learn-opengl](https://github.com/rust-tutorials/learn-opengl)
-3. ❗️ Opened issue [#9](https://github.com/rust-tutorials/learn-opengl/issues/9) in [rust-tutorials/learn-opengl](https://github.com/rust-tutorials/learn-opengl)
-4. 💪 Opened PR [#179](https://github.com/Backlang-Org/Backlang/pull/179) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+1. 💪 Opened PR [#6496](https://github.com/bevyengine/bevy/pull/6496) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. ❗️ Closed issue [#9](https://github.com/rust-tutorials/learn-opengl/issues/9) in [rust-tutorials/learn-opengl](https://github.com/rust-tutorials/learn-opengl)
+3. 🗣 Commented on [#9](https://github.com/rust-tutorials/learn-opengl/issues/9) in [rust-tutorials/learn-opengl](https://github.com/rust-tutorials/learn-opengl)
+4. ❗️ Opened issue [#9](https://github.com/rust-tutorials/learn-opengl/issues/9) in [rust-tutorials/learn-opengl](https://github.com/rust-tutorials/learn-opengl)
 <!--END_SECTION:activity-->
