@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DasLixou/bevy/pull/1) in [DasLixou/bevy](https://github.com/DasLixou/bevy)
-2. 💪 Opened PR [#1](https://github.com/DasLixou/bevy/pull/1) in [DasLixou/bevy](https://github.com/DasLixou/bevy)
-3. 🗣 Commented on [#6496](https://github.com/bevyengine/bevy/issues/6496) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. 💪 Opened PR [#6496](https://github.com/bevyengine/bevy/pull/6496) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. 🗣 Commented on [#6528](https://github.com/bevyengine/bevy/issues/6528) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. 🎉 Merged PR [#1](https://github.com/DasLixou/bevy/pull/1) in [DasLixou/bevy](https://github.com/DasLixou/bevy)
+3. 💪 Opened PR [#1](https://github.com/DasLixou/bevy/pull/1) in [DasLixou/bevy](https://github.com/DasLixou/bevy)
+4. 🗣 Commented on [#6496](https://github.com/bevyengine/bevy/issues/6496) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
