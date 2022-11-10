@@ -40,5 +40,5 @@
 1. 🗣 Commented on [#6528](https://github.com/bevyengine/bevy/issues/6528) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 2. 🗣 Commented on [#6528](https://github.com/bevyengine/bevy/issues/6528) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 3. 🗣 Commented on [#6528](https://github.com/bevyengine/bevy/issues/6528) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. 🎉 Merged PR [#1](https://github.com/DasLixou/bevy/pull/1) in [DasLixou/bevy](https://github.com/DasLixou/bevy)
+4. 🗣 Commented on [#6528](https://github.com/bevyengine/bevy/issues/6528) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
