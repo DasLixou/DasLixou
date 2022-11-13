@@ -38,7 +38,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6496](https://github.com/bevyengine/bevy/issues/6496) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 💪 Opened PR [#6584](https://github.com/bevyengine/bevy/pull/6584) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. 🗣 Commented on [#6496](https://github.com/bevyengine/bevy/issues/6496) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. 🗣 Commented on [#6496](https://github.com/bevyengine/bevy/issues/6496) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 💪 Opened PR [#6584](https://github.com/bevyengine/bevy/pull/6584) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 4. 🗣 Commented on [#6496](https://github.com/bevyengine/bevy/issues/6496) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
