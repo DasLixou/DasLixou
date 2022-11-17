@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#67](https://github.com/torsteingrindvik/bevy-vfx-bag/issues/67) in [torsteingrindvik/bevy-vfx-bag](https://github.com/torsteingrindvik/bevy-vfx-bag)
-2. 🗣 Commented on [#1](https://github.com/Backlang-Org/Proposals/issues/1) in [Backlang-Org/Proposals](https://github.com/Backlang-Org/Proposals)
-3. 💪 Opened PR [#1](https://github.com/Backlang-Org/Proposals/pull/1) in [Backlang-Org/Proposals](https://github.com/Backlang-Org/Proposals)
-4. 💪 Opened PR [#186](https://github.com/Backlang-Org/Backlang/pull/186) in [Backlang-Org/Backlang](https://github.com/Backlang-Org/Backlang)
+1. 🗣 Commented on [#67](https://github.com/torsteingrindvik/bevy-vfx-bag/issues/67) in [torsteingrindvik/bevy-vfx-bag](https://github.com/torsteingrindvik/bevy-vfx-bag)
+2. ❗️ Opened issue [#67](https://github.com/torsteingrindvik/bevy-vfx-bag/issues/67) in [torsteingrindvik/bevy-vfx-bag](https://github.com/torsteingrindvik/bevy-vfx-bag)
+3. 🗣 Commented on [#1](https://github.com/Backlang-Org/Proposals/issues/1) in [Backlang-Org/Proposals](https://github.com/Backlang-Org/Proposals)
+4. 💪 Opened PR [#1](https://github.com/Backlang-Org/Proposals/pull/1) in [Backlang-Org/Proposals](https://github.com/Backlang-Org/Proposals)
 <!--END_SECTION:activity-->
