@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6663](https://github.com/bevyengine/bevy/pull/6663) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#67](https://github.com/torsteingrindvik/bevy-vfx-bag/issues/67) in [torsteingrindvik/bevy-vfx-bag](https://github.com/torsteingrindvik/bevy-vfx-bag)
-3. 🗣 Commented on [#1](https://github.com/TanTanDev/might_sleep/issues/1) in [TanTanDev/might_sleep](https://github.com/TanTanDev/might_sleep)
-4. 🗣 Commented on [#1](https://github.com/TanTanDev/might_sleep/issues/1) in [TanTanDev/might_sleep](https://github.com/TanTanDev/might_sleep)
+1. ❗️ Opened issue [#68](https://github.com/torsteingrindvik/bevy-vfx-bag/issues/68) in [torsteingrindvik/bevy-vfx-bag](https://github.com/torsteingrindvik/bevy-vfx-bag)
+2. ❗️ Closed issue [#67](https://github.com/torsteingrindvik/bevy-vfx-bag/issues/67) in [torsteingrindvik/bevy-vfx-bag](https://github.com/torsteingrindvik/bevy-vfx-bag)
+3. 🗣 Commented on [#67](https://github.com/torsteingrindvik/bevy-vfx-bag/issues/67) in [torsteingrindvik/bevy-vfx-bag](https://github.com/torsteingrindvik/bevy-vfx-bag)
+4. 💪 Opened PR [#6663](https://github.com/bevyengine/bevy/pull/6663) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
