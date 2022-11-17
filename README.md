@@ -38,7 +38,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/TanTanDev/might_sleep/issues/1) in [TanTanDev/might_sleep](https://github.com/TanTanDev/might_sleep)
-2. 💪 Opened PR [#1](https://github.com/TanTanDev/might_sleep/pull/1) in [TanTanDev/might_sleep](https://github.com/TanTanDev/might_sleep)
-3. 🗣 Commented on [#67](https://github.com/torsteingrindvik/bevy-vfx-bag/issues/67) in [torsteingrindvik/bevy-vfx-bag](https://github.com/torsteingrindvik/bevy-vfx-bag)
+2. 🗣 Commented on [#1](https://github.com/TanTanDev/might_sleep/issues/1) in [TanTanDev/might_sleep](https://github.com/TanTanDev/might_sleep)
+3. 💪 Opened PR [#1](https://github.com/TanTanDev/might_sleep/pull/1) in [TanTanDev/might_sleep](https://github.com/TanTanDev/might_sleep)
 4. 🗣 Commented on [#67](https://github.com/torsteingrindvik/bevy-vfx-bag/issues/67) in [torsteingrindvik/bevy-vfx-bag](https://github.com/torsteingrindvik/bevy-vfx-bag)
 <!--END_SECTION:activity-->
