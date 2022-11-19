@@ -38,7 +38,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6688](https://github.com/bevyengine/bevy/issues/6688) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. ❗️ Opened issue [#6691](https://github.com/bevyengine/bevy/issues/6691) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. 🗣 Commented on [#68](https://github.com/torsteingrindvik/bevy-vfx-bag/issues/68) in [torsteingrindvik/bevy-vfx-bag](https://github.com/torsteingrindvik/bevy-vfx-bag)
-4. 🗣 Commented on [#68](https://github.com/torsteingrindvik/bevy-vfx-bag/issues/68) in [torsteingrindvik/bevy-vfx-bag](https://github.com/torsteingrindvik/bevy-vfx-bag)
+2. 🗣 Commented on [#6688](https://github.com/bevyengine/bevy/issues/6688) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#6688](https://github.com/bevyengine/bevy/issues/6688) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. ❗️ Opened issue [#6691](https://github.com/bevyengine/bevy/issues/6691) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
