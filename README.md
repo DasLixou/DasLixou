@@ -1,9 +1,9 @@
 ## 🙋‍♂️ Hi! I'm Lixou :3
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=DasLixou&show_icons=true&theme=swift&count_private=true">
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently in a love hate relationship with **Rust**
 
-- 🔭 I’m currently working on my own game in c++
+- 🔭 I’m currently working on my own game in rust with [bevy](https://github.com/bevyengine/bevy)
 
 - 🏡 Absolute Maniac Mansion lover (even if it's older than me 😁)
 
