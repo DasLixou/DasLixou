@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6798](https://github.com/bevyengine/bevy/issues/6798) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. ❗️ Opened issue [#6798](https://github.com/bevyengine/bevy/issues/6798) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. 🗣 Commented on [#6777](https://github.com/bevyengine/bevy/issues/6777) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. 🗣 Commented on [#6688](https://github.com/bevyengine/bevy/issues/6688) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. 🗣 Commented on [#6587](https://github.com/bevyengine/bevy/issues/6587) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. 🗣 Commented on [#6798](https://github.com/bevyengine/bevy/issues/6798) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. ❗️ Opened issue [#6798](https://github.com/bevyengine/bevy/issues/6798) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. 🗣 Commented on [#6777](https://github.com/bevyengine/bevy/issues/6777) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
