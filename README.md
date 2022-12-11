@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6915](https://github.com/bevyengine/bevy/issues/6915) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#4010](https://github.com/qtile/qtile/issues/4010) in [qtile/qtile](https://github.com/qtile/qtile)
-3. ❌ Closed PR [#105533](https://github.com/rust-lang/rust/pull/105533) in [rust-lang/rust](https://github.com/rust-lang/rust)
-4. 🗣 Commented on [#105533](https://github.com/rust-lang/rust/issues/105533) in [rust-lang/rust](https://github.com/rust-lang/rust)
+1. ❗️ Opened issue [#13](https://github.com/tazz4843/coqui-stt/issues/13) in [tazz4843/coqui-stt](https://github.com/tazz4843/coqui-stt)
+2. 🗣 Commented on [#6915](https://github.com/bevyengine/bevy/issues/6915) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#4010](https://github.com/qtile/qtile/issues/4010) in [qtile/qtile](https://github.com/qtile/qtile)
+4. ❌ Closed PR [#105533](https://github.com/rust-lang/rust/pull/105533) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
