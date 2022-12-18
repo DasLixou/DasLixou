@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6556](https://github.com/bevyengine/bevy/issues/6556) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. ❗️ Closed issue [#13](https://github.com/tazz4843/coqui-stt/issues/13) in [tazz4843/coqui-stt](https://github.com/tazz4843/coqui-stt)
-3. 🗣 Commented on [#13](https://github.com/tazz4843/coqui-stt/issues/13) in [tazz4843/coqui-stt](https://github.com/tazz4843/coqui-stt)
-4. ❗️ Opened issue [#13](https://github.com/tazz4843/coqui-stt/issues/13) in [tazz4843/coqui-stt](https://github.com/tazz4843/coqui-stt)
+1. 💪 Opened PR [#273](https://github.com/bevyengine/bevy-assets/pull/273) in [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets)
+2. 🗣 Commented on [#6556](https://github.com/bevyengine/bevy/issues/6556) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. ❗️ Closed issue [#13](https://github.com/tazz4843/coqui-stt/issues/13) in [tazz4843/coqui-stt](https://github.com/tazz4843/coqui-stt)
+4. 🗣 Commented on [#13](https://github.com/tazz4843/coqui-stt/issues/13) in [tazz4843/coqui-stt](https://github.com/tazz4843/coqui-stt)
 <!--END_SECTION:activity-->
