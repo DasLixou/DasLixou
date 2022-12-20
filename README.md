@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6556](https://github.com/bevyengine/bevy/issues/6556) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#6556](https://github.com/bevyengine/bevy/issues/6556) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. 🎉 Merged PR [#1](https://github.com/ChoppedStudio/bevy_ecs_markers/pull/1) in [ChoppedStudio/bevy_ecs_markers](https://github.com/ChoppedStudio/bevy_ecs_markers)
-4. 💪 Opened PR [#1](https://github.com/ChoppedStudio/bevy_ecs_markers/pull/1) in [ChoppedStudio/bevy_ecs_markers](https://github.com/ChoppedStudio/bevy_ecs_markers)
+1. 🎉 Merged PR [#2](https://github.com/ChoppedStudio/bevy_ecs_markers/pull/2) in [ChoppedStudio/bevy_ecs_markers](https://github.com/ChoppedStudio/bevy_ecs_markers)
+2. 💪 Opened PR [#2](https://github.com/ChoppedStudio/bevy_ecs_markers/pull/2) in [ChoppedStudio/bevy_ecs_markers](https://github.com/ChoppedStudio/bevy_ecs_markers)
+3. 🗣 Commented on [#6556](https://github.com/bevyengine/bevy/issues/6556) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. 🗣 Commented on [#6556](https://github.com/bevyengine/bevy/issues/6556) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
