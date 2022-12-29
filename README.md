@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#687](https://github.com/DioxusLabs/dioxus/issues/687) in [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
-2. 💪 Opened PR [#685](https://github.com/DioxusLabs/dioxus/pull/685) in [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
-3. 💪 Opened PR [#278](https://github.com/bevyengine/bevy-assets/pull/278) in [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets)
-4. 🗣 Commented on [#7030](https://github.com/bevyengine/bevy/issues/7030) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. 🗣 Commented on [#687](https://github.com/DioxusLabs/dioxus/issues/687) in [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
+2. ❗️ Opened issue [#687](https://github.com/DioxusLabs/dioxus/issues/687) in [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
+3. 💪 Opened PR [#685](https://github.com/DioxusLabs/dioxus/pull/685) in [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
+4. 💪 Opened PR [#278](https://github.com/bevyengine/bevy-assets/pull/278) in [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets)
 <!--END_SECTION:activity-->
