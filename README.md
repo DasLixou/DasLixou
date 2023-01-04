@@ -38,7 +38,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#312](https://github.com/DioxusLabs/taffy/issues/312) in [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)
-2. 💪 Opened PR [#312](https://github.com/DioxusLabs/taffy/pull/312) in [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)
-3. ❗️ Opened issue [#545](https://github.com/linebender/piet/issues/545) in [linebender/piet](https://github.com/linebender/piet)
-4. 🗣 Commented on [#687](https://github.com/DioxusLabs/dioxus/issues/687) in [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
+2. 🗣 Commented on [#312](https://github.com/DioxusLabs/taffy/issues/312) in [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)
+3. 💪 Opened PR [#312](https://github.com/DioxusLabs/taffy/pull/312) in [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)
+4. ❗️ Opened issue [#545](https://github.com/linebender/piet/issues/545) in [linebender/piet](https://github.com/linebender/piet)
 <!--END_SECTION:activity-->
