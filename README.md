@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7130](https://github.com/bevyengine/bevy/pull/7130) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#312](https://github.com/DioxusLabs/taffy/issues/312) in [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)
+1. 🗣 Commented on [#7134](https://github.com/bevyengine/bevy/issues/7134) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. 💪 Opened PR [#7130](https://github.com/bevyengine/bevy/pull/7130) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 3. 🗣 Commented on [#312](https://github.com/DioxusLabs/taffy/issues/312) in [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)
 4. 🗣 Commented on [#312](https://github.com/DioxusLabs/taffy/issues/312) in [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)
 <!--END_SECTION:activity-->
