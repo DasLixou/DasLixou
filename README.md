@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7269](https://github.com/bevyengine/bevy/pull/7269) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#7269](https://github.com/bevyengine/bevy/issues/7269) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. ❗️ Opened issue [#291](https://github.com/furesoft/Slithin/issues/291) in [furesoft/Slithin](https://github.com/furesoft/Slithin)
+2. ❌ Closed PR [#7269](https://github.com/bevyengine/bevy/pull/7269) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 3. 🗣 Commented on [#7269](https://github.com/bevyengine/bevy/issues/7269) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 4. 🗣 Commented on [#7269](https://github.com/bevyengine/bevy/issues/7269) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
