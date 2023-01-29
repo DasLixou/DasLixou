@@ -39,6 +39,6 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/issues/7130) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 2. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/issues/7130) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. ❗️ Opened issue [#291](https://github.com/furesoft/Slithin/issues/291) in [furesoft/Slithin](https://github.com/furesoft/Slithin)
-4. ❌ Closed PR [#7269](https://github.com/bevyengine/bevy/pull/7269) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/issues/7130) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. ❗️ Opened issue [#291](https://github.com/furesoft/Slithin/issues/291) in [furesoft/Slithin](https://github.com/furesoft/Slithin)
 <!--END_SECTION:activity-->
