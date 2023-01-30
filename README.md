@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/issues/7130) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/issues/7130) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/issues/7130) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. ❗️ Opened issue [#291](https://github.com/furesoft/Slithin/issues/291) in [furesoft/Slithin](https://github.com/furesoft/Slithin)
+1. 💪 Opened PR [#3380](https://github.com/rust-lang/rfcs/pull/3380) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+2. ❌ Closed PR [#1](https://github.com/DasLixou/rust-rfcs/pull/1) in [DasLixou/rust-rfcs](https://github.com/DasLixou/rust-rfcs)
+3. 💪 Opened PR [#1](https://github.com/DasLixou/rust-rfcs/pull/1) in [DasLixou/rust-rfcs](https://github.com/DasLixou/rust-rfcs)
+4. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/issues/7130) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
