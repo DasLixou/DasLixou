@@ -38,7 +38,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3380](https://github.com/rust-lang/rfcs/issues/3380) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
-2. 💪 Opened PR [#3380](https://github.com/rust-lang/rfcs/pull/3380) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
-3. ❌ Closed PR [#1](https://github.com/DasLixou/rust-rfcs/pull/1) in [DasLixou/rust-rfcs](https://github.com/DasLixou/rust-rfcs)
-4. 💪 Opened PR [#1](https://github.com/DasLixou/rust-rfcs/pull/1) in [DasLixou/rust-rfcs](https://github.com/DasLixou/rust-rfcs)
+2. 🗣 Commented on [#3380](https://github.com/rust-lang/rfcs/issues/3380) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+3. 💪 Opened PR [#3380](https://github.com/rust-lang/rfcs/pull/3380) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+4. ❌ Closed PR [#1](https://github.com/DasLixou/rust-rfcs/pull/1) in [DasLixou/rust-rfcs](https://github.com/DasLixou/rust-rfcs)
 <!--END_SECTION:activity-->
