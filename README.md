@@ -40,5 +40,5 @@
 1. 🗣 Commented on [#3380](https://github.com/rust-lang/rfcs/issues/3380) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
 2. 🗣 Commented on [#3380](https://github.com/rust-lang/rfcs/issues/3380) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
 3. 🗣 Commented on [#3380](https://github.com/rust-lang/rfcs/issues/3380) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
-4. 💪 Opened PR [#3380](https://github.com/rust-lang/rfcs/pull/3380) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+4. 🗣 Commented on [#3380](https://github.com/rust-lang/rfcs/issues/3380) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
 <!--END_SECTION:activity-->
