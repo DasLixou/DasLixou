@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6798](https://github.com/bevyengine/bevy/issues/6798) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#6798](https://github.com/bevyengine/bevy/issues/6798) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/issues/7130) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. 🗣 Commented on [#3380](https://github.com/rust-lang/rfcs/issues/3380) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+1. ❗️ Opened issue [#41](https://github.com/linebender/xilem/issues/41) in [linebender/xilem](https://github.com/linebender/xilem)
+2. ❗️ Closed issue [#6798](https://github.com/bevyengine/bevy/issues/6798) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#6798](https://github.com/bevyengine/bevy/issues/6798) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/issues/7130) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
