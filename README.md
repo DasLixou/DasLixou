@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/torsteingrindvik/bevy-vfx-bag/issues/68) in [torsteingrindvik/bevy-vfx-bag](https://github.com/torsteingrindvik/bevy-vfx-bag)
-2. ❗️ Opened issue [#41](https://github.com/linebender/xilem/issues/41) in [linebender/xilem](https://github.com/linebender/xilem)
-3. ❗️ Closed issue [#6798](https://github.com/bevyengine/bevy/issues/6798) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. 🗣 Commented on [#6798](https://github.com/bevyengine/bevy/issues/6798) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. ❗️ Opened issue [#304](https://github.com/vizia/vizia/issues/304) in [vizia/vizia](https://github.com/vizia/vizia)
+2. 🗣 Commented on [#68](https://github.com/torsteingrindvik/bevy-vfx-bag/issues/68) in [torsteingrindvik/bevy-vfx-bag](https://github.com/torsteingrindvik/bevy-vfx-bag)
+3. ❗️ Opened issue [#41](https://github.com/linebender/xilem/issues/41) in [linebender/xilem](https://github.com/linebender/xilem)
+4. ❗️ Closed issue [#6798](https://github.com/bevyengine/bevy/issues/6798) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
