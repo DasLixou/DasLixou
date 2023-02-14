@@ -38,7 +38,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#308](https://github.com/vizia/vizia/issues/308) in [vizia/vizia](https://github.com/vizia/vizia)
-2. 💪 Opened PR [#308](https://github.com/vizia/vizia/pull/308) in [vizia/vizia](https://github.com/vizia/vizia)
-3. 🗣 Commented on [#307](https://github.com/vizia/vizia/issues/307) in [vizia/vizia](https://github.com/vizia/vizia)
-4. 🗣 Commented on [#1](https://github.com/vizia/vizia-site/issues/1) in [vizia/vizia-site](https://github.com/vizia/vizia-site)
+2. 🗣 Commented on [#308](https://github.com/vizia/vizia/issues/308) in [vizia/vizia](https://github.com/vizia/vizia)
+3. 💪 Opened PR [#308](https://github.com/vizia/vizia/pull/308) in [vizia/vizia](https://github.com/vizia/vizia)
+4. 🗣 Commented on [#307](https://github.com/vizia/vizia/issues/307) in [vizia/vizia](https://github.com/vizia/vizia)
 <!--END_SECTION:activity-->
