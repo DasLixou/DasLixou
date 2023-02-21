@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7463](https://github.com/bevyengine/bevy/issues/7463) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. 🗣 Commented on [#93](https://github.com/orlp/slotmap/issues/93) in [orlp/slotmap](https://github.com/orlp/slotmap)
 2. 🗣 Commented on [#7463](https://github.com/bevyengine/bevy/issues/7463) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. 🗣 Commented on [#318](https://github.com/vizia/vizia/issues/318) in [vizia/vizia](https://github.com/vizia/vizia)
-4. 🗣 Commented on [#309](https://github.com/vizia/vizia/issues/309) in [vizia/vizia](https://github.com/vizia/vizia)
+3. 🗣 Commented on [#7463](https://github.com/bevyengine/bevy/issues/7463) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. 🗣 Commented on [#318](https://github.com/vizia/vizia/issues/318) in [vizia/vizia](https://github.com/vizia/vizia)
 <!--END_SECTION:activity-->
