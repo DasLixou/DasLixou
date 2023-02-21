@@ -38,7 +38,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7463](https://github.com/bevyengine/bevy/issues/7463) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#318](https://github.com/vizia/vizia/issues/318) in [vizia/vizia](https://github.com/vizia/vizia)
-3. 🗣 Commented on [#309](https://github.com/vizia/vizia/issues/309) in [vizia/vizia](https://github.com/vizia/vizia)
-4. 🗣 Commented on [#306](https://github.com/vizia/vizia/issues/306) in [vizia/vizia](https://github.com/vizia/vizia)
+2. 🗣 Commented on [#7463](https://github.com/bevyengine/bevy/issues/7463) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#318](https://github.com/vizia/vizia/issues/318) in [vizia/vizia](https://github.com/vizia/vizia)
+4. 🗣 Commented on [#309](https://github.com/vizia/vizia/issues/309) in [vizia/vizia](https://github.com/vizia/vizia)
 <!--END_SECTION:activity-->
