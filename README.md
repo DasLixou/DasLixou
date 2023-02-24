@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#152](https://github.com/femtovg/femtovg/pull/152) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
-2. 🗣 Commented on [#151](https://github.com/femtovg/femtovg/issues/151) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
+1. 💪 Opened PR [#320](https://github.com/vizia/vizia/pull/320) in [vizia/vizia](https://github.com/vizia/vizia)
+2. 💪 Opened PR [#152](https://github.com/femtovg/femtovg/pull/152) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
 3. 🗣 Commented on [#151](https://github.com/femtovg/femtovg/issues/151) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
-4. ❗️ Opened issue [#151](https://github.com/femtovg/femtovg/issues/151) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
+4. 🗣 Commented on [#151](https://github.com/femtovg/femtovg/issues/151) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
 <!--END_SECTION:activity-->
