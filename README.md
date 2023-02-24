@@ -37,8 +37,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#151](https://github.com/femtovg/femtovg/issues/151) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
-2. 💪 Opened PR [#303](https://github.com/furesoft/Slithin/pull/303) in [furesoft/Slithin](https://github.com/furesoft/Slithin)
-3. 🗣 Commented on [#93](https://github.com/orlp/slotmap/issues/93) in [orlp/slotmap](https://github.com/orlp/slotmap)
-4. 🗣 Commented on [#7463](https://github.com/bevyengine/bevy/issues/7463) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. 🗣 Commented on [#151](https://github.com/femtovg/femtovg/issues/151) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
+2. 🗣 Commented on [#151](https://github.com/femtovg/femtovg/issues/151) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
+3. ❗️ Opened issue [#151](https://github.com/femtovg/femtovg/issues/151) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
+4. 💪 Opened PR [#303](https://github.com/furesoft/Slithin/pull/303) in [furesoft/Slithin](https://github.com/furesoft/Slithin)
 <!--END_SECTION:activity-->
