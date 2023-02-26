@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#305](https://github.com/furesoft/Slithin/pull/305) in [furesoft/Slithin](https://github.com/furesoft/Slithin)
-2. 🗣 Commented on [#303](https://github.com/furesoft/Slithin/issues/303) in [furesoft/Slithin](https://github.com/furesoft/Slithin)
-3. 💪 Opened PR [#320](https://github.com/vizia/vizia/pull/320) in [vizia/vizia](https://github.com/vizia/vizia)
-4. 💪 Opened PR [#152](https://github.com/femtovg/femtovg/pull/152) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
+1. 💪 Opened PR [#306](https://github.com/furesoft/Slithin/pull/306) in [furesoft/Slithin](https://github.com/furesoft/Slithin)
+2. 💪 Opened PR [#305](https://github.com/furesoft/Slithin/pull/305) in [furesoft/Slithin](https://github.com/furesoft/Slithin)
+3. 🗣 Commented on [#303](https://github.com/furesoft/Slithin/issues/303) in [furesoft/Slithin](https://github.com/furesoft/Slithin)
+4. 💪 Opened PR [#320](https://github.com/vizia/vizia/pull/320) in [vizia/vizia](https://github.com/vizia/vizia)
 <!--END_SECTION:activity-->
