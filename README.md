@@ -40,6 +40,6 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#323](https://github.com/vizia/vizia/issues/323) in [vizia/vizia](https://github.com/vizia/vizia)
 2. 🗣 Commented on [#307](https://github.com/vizia/vizia/issues/307) in [vizia/vizia](https://github.com/vizia/vizia)
-3. 💪 Opened PR [#323](https://github.com/vizia/vizia/pull/323) in [vizia/vizia](https://github.com/vizia/vizia)
-4. 💪 Opened PR [#306](https://github.com/furesoft/Slithin/pull/306) in [furesoft/Slithin](https://github.com/furesoft/Slithin)
+3. 🗣 Commented on [#323](https://github.com/vizia/vizia/issues/323) in [vizia/vizia](https://github.com/vizia/vizia)
+4. 🗣 Commented on [#307](https://github.com/vizia/vizia/issues/307) in [vizia/vizia](https://github.com/vizia/vizia)
 <!--END_SECTION:activity-->
