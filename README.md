@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#323](https://github.com/vizia/vizia/issues/323) in [vizia/vizia](https://github.com/vizia/vizia)
+1. ❗️ Opened issue [#325](https://github.com/vizia/vizia/issues/325) in [vizia/vizia](https://github.com/vizia/vizia)
 2. 🗣 Commented on [#323](https://github.com/vizia/vizia/issues/323) in [vizia/vizia](https://github.com/vizia/vizia)
-3. 🗣 Commented on [#307](https://github.com/vizia/vizia/issues/307) in [vizia/vizia](https://github.com/vizia/vizia)
-4. 🗣 Commented on [#323](https://github.com/vizia/vizia/issues/323) in [vizia/vizia](https://github.com/vizia/vizia)
+3. 🗣 Commented on [#323](https://github.com/vizia/vizia/issues/323) in [vizia/vizia](https://github.com/vizia/vizia)
+4. 🗣 Commented on [#307](https://github.com/vizia/vizia/issues/307) in [vizia/vizia](https://github.com/vizia/vizia)
 <!--END_SECTION:activity-->
