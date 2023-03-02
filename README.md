@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13231](https://github.com/rust-lang/rust-analyzer/issues/13231) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
-2. ❗️ Opened issue [#327](https://github.com/vizia/vizia/issues/327) in [vizia/vizia](https://github.com/vizia/vizia)
-3. 🗣 Commented on [#326](https://github.com/vizia/vizia/issues/326) in [vizia/vizia](https://github.com/vizia/vizia)
+1. 💪 Opened PR [#311](https://github.com/furesoft/Slithin/pull/311) in [furesoft/Slithin](https://github.com/furesoft/Slithin)
+2. 🗣 Commented on [#13231](https://github.com/rust-lang/rust-analyzer/issues/13231) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
+3. ❗️ Opened issue [#327](https://github.com/vizia/vizia/issues/327) in [vizia/vizia](https://github.com/vizia/vizia)
 4. 🗣 Commented on [#326](https://github.com/vizia/vizia/issues/326) in [vizia/vizia](https://github.com/vizia/vizia)
 <!--END_SECTION:activity-->
