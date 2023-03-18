@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22](https://github.com/lino-levan/pyro/issues/22) in [lino-levan/pyro](https://github.com/lino-levan/pyro)
-2. ❗️ Opened issue [#21](https://github.com/lino-levan/pyro/issues/21) in [lino-levan/pyro](https://github.com/lino-levan/pyro)
-3. 💪 Opened PR [#311](https://github.com/furesoft/Slithin/pull/311) in [furesoft/Slithin](https://github.com/furesoft/Slithin)
-4. 🗣 Commented on [#13231](https://github.com/rust-lang/rust-analyzer/issues/13231) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
+1. ❗️ Closed issue [#10](https://github.com/Blatko1/wgpu-text/issues/10) in [Blatko1/wgpu-text](https://github.com/Blatko1/wgpu-text)
+2. 🗣 Commented on [#10](https://github.com/Blatko1/wgpu-text/issues/10) in [Blatko1/wgpu-text](https://github.com/Blatko1/wgpu-text)
+3. ❗️ Opened issue [#10](https://github.com/Blatko1/wgpu-text/issues/10) in [Blatko1/wgpu-text](https://github.com/Blatko1/wgpu-text)
+4. ❗️ Opened issue [#22](https://github.com/lino-levan/pyro/issues/22) in [lino-levan/pyro](https://github.com/lino-levan/pyro)
 <!--END_SECTION:activity-->
