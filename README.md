@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/Blatko1/wgpu-text/issues/10) in [Blatko1/wgpu-text](https://github.com/Blatko1/wgpu-text)
-2. 🗣 Commented on [#10](https://github.com/Blatko1/wgpu-text/issues/10) in [Blatko1/wgpu-text](https://github.com/Blatko1/wgpu-text)
-3. ❗️ Opened issue [#10](https://github.com/Blatko1/wgpu-text/issues/10) in [Blatko1/wgpu-text](https://github.com/Blatko1/wgpu-text)
-4. ❗️ Opened issue [#22](https://github.com/lino-levan/pyro/issues/22) in [lino-levan/pyro](https://github.com/lino-levan/pyro)
+1. 🗣 Commented on [#151](https://github.com/femtovg/femtovg/issues/151) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
+2. 🗣 Commented on [#152](https://github.com/femtovg/femtovg/issues/152) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
+3. ❗️ Closed issue [#10](https://github.com/Blatko1/wgpu-text/issues/10) in [Blatko1/wgpu-text](https://github.com/Blatko1/wgpu-text)
+4. 🗣 Commented on [#10](https://github.com/Blatko1/wgpu-text/issues/10) in [Blatko1/wgpu-text](https://github.com/Blatko1/wgpu-text)
 <!--END_SECTION:activity-->
