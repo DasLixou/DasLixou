@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#151](https://github.com/femtovg/femtovg/issues/151) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
+1. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/issues/7130) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 2. 🗣 Commented on [#151](https://github.com/femtovg/femtovg/issues/151) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
-3. 🗣 Commented on [#152](https://github.com/femtovg/femtovg/issues/152) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
-4. ❗️ Closed issue [#10](https://github.com/Blatko1/wgpu-text/issues/10) in [Blatko1/wgpu-text](https://github.com/Blatko1/wgpu-text)
+3. 🗣 Commented on [#151](https://github.com/femtovg/femtovg/issues/151) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
+4. 🗣 Commented on [#152](https://github.com/femtovg/femtovg/issues/152) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
 <!--END_SECTION:activity-->
