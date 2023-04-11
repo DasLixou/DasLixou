@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#333](https://github.com/vizia/vizia/pull/333) in [vizia/vizia](https://github.com/vizia/vizia)
-2. 🗣 Commented on [#332](https://github.com/vizia/vizia/issues/332) in [vizia/vizia](https://github.com/vizia/vizia)
-3. ❗️ Opened issue [#332](https://github.com/vizia/vizia/issues/332) in [vizia/vizia](https://github.com/vizia/vizia)
-4. 🗣 Commented on [#152](https://github.com/femtovg/femtovg/issues/152) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
+1. 💪 Opened PR [#334](https://github.com/vizia/vizia/pull/334) in [vizia/vizia](https://github.com/vizia/vizia)
+2. 💪 Opened PR [#333](https://github.com/vizia/vizia/pull/333) in [vizia/vizia](https://github.com/vizia/vizia)
+3. 🗣 Commented on [#332](https://github.com/vizia/vizia/issues/332) in [vizia/vizia](https://github.com/vizia/vizia)
+4. ❗️ Opened issue [#332](https://github.com/vizia/vizia/issues/332) in [vizia/vizia](https://github.com/vizia/vizia)
 <!--END_SECTION:activity-->
