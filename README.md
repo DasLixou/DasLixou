@@ -40,6 +40,6 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3422](https://github.com/rust-lang/rfcs/issues/3422) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
 2. 🗣 Commented on [#3422](https://github.com/rust-lang/rfcs/issues/3422) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
-3. 💪 Opened PR [#3422](https://github.com/rust-lang/rfcs/pull/3422) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
-4. 💪 Opened PR [#336](https://github.com/vizia/vizia/pull/336) in [vizia/vizia](https://github.com/vizia/vizia)
+3. 🗣 Commented on [#3422](https://github.com/rust-lang/rfcs/issues/3422) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+4. 💪 Opened PR [#3422](https://github.com/rust-lang/rfcs/pull/3422) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
 <!--END_SECTION:activity-->
