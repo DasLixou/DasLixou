@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#336](https://github.com/vizia/vizia/pull/336) in [vizia/vizia](https://github.com/vizia/vizia)
-2. 💪 Opened PR [#334](https://github.com/vizia/vizia/pull/334) in [vizia/vizia](https://github.com/vizia/vizia)
-3. 💪 Opened PR [#333](https://github.com/vizia/vizia/pull/333) in [vizia/vizia](https://github.com/vizia/vizia)
-4. 🗣 Commented on [#332](https://github.com/vizia/vizia/issues/332) in [vizia/vizia](https://github.com/vizia/vizia)
+1. 🗣 Commented on [#3422](https://github.com/rust-lang/rfcs/issues/3422) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+2. 🗣 Commented on [#3422](https://github.com/rust-lang/rfcs/issues/3422) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+3. 💪 Opened PR [#3422](https://github.com/rust-lang/rfcs/pull/3422) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+4. 💪 Opened PR [#336](https://github.com/vizia/vizia/pull/336) in [vizia/vizia](https://github.com/vizia/vizia)
 <!--END_SECTION:activity-->
