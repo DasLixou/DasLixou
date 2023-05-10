@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/issues/7130) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#1410](https://github.com/embassy-rs/embassy/issues/1410) in [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
-3. 💪 Opened PR [#1410](https://github.com/embassy-rs/embassy/pull/1410) in [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
-4. ❗️ Opened issue [#1409](https://github.com/embassy-rs/embassy/issues/1409) in [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
+1. 🗣 Commented on [#152](https://github.com/femtovg/femtovg/issues/152) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
+2. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/issues/7130) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#1410](https://github.com/embassy-rs/embassy/issues/1410) in [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
+4. 💪 Opened PR [#1410](https://github.com/embassy-rs/embassy/pull/1410) in [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
 <!--END_SECTION:activity-->
