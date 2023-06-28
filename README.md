@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/femtovg/femtovg/issues/152) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
+1. 🗣 Commented on [#354](https://github.com/vizia/vizia/issues/354) in [vizia/vizia](https://github.com/vizia/vizia)
 2. 🗣 Commented on [#152](https://github.com/femtovg/femtovg/issues/152) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
 3. 🗣 Commented on [#152](https://github.com/femtovg/femtovg/issues/152) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
-4. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/issues/7130) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. 🗣 Commented on [#152](https://github.com/femtovg/femtovg/issues/152) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
 <!--END_SECTION:activity-->
