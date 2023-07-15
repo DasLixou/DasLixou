@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/pull/7130#issuecomment-1634284984) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/pull/7130#issuecomment-1623160935) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. 🗣 Commented on [#354](https://github.com/vizia/vizia/pull/354#issuecomment-1610783809) in [vizia/vizia](https://github.com/vizia/vizia)
-4. 🗣 Commented on [#152](https://github.com/femtovg/femtovg/pull/152#issuecomment-1591424615) in [femtovg/femtovg](https://github.com/femtovg/femtovg)
+1. 🗣 Commented on [#8624](https://github.com/bevyengine/bevy/pull/8624#issuecomment-1636734701) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/pull/7130#issuecomment-1634284984) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/pull/7130#issuecomment-1623160935) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. 🗣 Commented on [#354](https://github.com/vizia/vizia/pull/354#issuecomment-1610783809) in [vizia/vizia](https://github.com/vizia/vizia)
 <!--END_SECTION:activity-->
