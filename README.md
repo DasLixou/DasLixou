@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#805](https://github.com/rust-rocksdb/rust-rocksdb/issues/805) in [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb)
-2. 🗣 Commented on [#8624](https://github.com/bevyengine/bevy/pull/8624#issuecomment-1642794848) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. 🗣 Commented on [#8624](https://github.com/bevyengine/bevy/pull/8624#issuecomment-1636734701) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/pull/7130#issuecomment-1634284984) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. ❗ Opened issue [#2518](https://github.com/serde-rs/serde/issues/2518) in [serde-rs/serde](https://github.com/serde-rs/serde)
+2. ❗ Opened issue [#805](https://github.com/rust-rocksdb/rust-rocksdb/issues/805) in [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb)
+3. 🗣 Commented on [#8624](https://github.com/bevyengine/bevy/pull/8624#issuecomment-1642794848) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. 🗣 Commented on [#8624](https://github.com/bevyengine/bevy/pull/8624#issuecomment-1636734701) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
