@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15496](https://github.com/rust-lang/rust-analyzer/issues/15496) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
-2. 💪 Opened PR [#3476](https://github.com/rust-lang/rfcs/pull/3476) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
-3. 🗣 Commented on [#8624](https://github.com/bevyengine/bevy/pull/8624#issuecomment-1681658924) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. 🗣 Commented on [#7](https://github.com/andi23rosca/solid-markdown/issues/7#issuecomment-1673546289) in [andi23rosca/solid-markdown](https://github.com/andi23rosca/solid-markdown)
+1. 🗣 Commented on [#15496](https://github.com/rust-lang/rust-analyzer/issues/15496#issuecomment-1686493132) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
+2. ❗ Opened issue [#15496](https://github.com/rust-lang/rust-analyzer/issues/15496) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
+3. 💪 Opened PR [#3476](https://github.com/rust-lang/rfcs/pull/3476) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+4. 🗣 Commented on [#8624](https://github.com/bevyengine/bevy/pull/8624#issuecomment-1681658924) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
