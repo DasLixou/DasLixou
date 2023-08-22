@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3476](https://github.com/rust-lang/rfcs/pull/3476#issuecomment-1687581895) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
-2. 🗣 Commented on [#15496](https://github.com/rust-lang/rust-analyzer/issues/15496#issuecomment-1686493132) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
-3. ❗ Opened issue [#15496](https://github.com/rust-lang/rust-analyzer/issues/15496) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
-4. 💪 Opened PR [#3476](https://github.com/rust-lang/rfcs/pull/3476) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+1. 🗣 Commented on [#3476](https://github.com/rust-lang/rfcs/pull/3476#issuecomment-1688112655) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+2. 🗣 Commented on [#3476](https://github.com/rust-lang/rfcs/pull/3476#issuecomment-1687581895) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+3. 🗣 Commented on [#15496](https://github.com/rust-lang/rust-analyzer/issues/15496#issuecomment-1686493132) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
+4. ❗ Opened issue [#15496](https://github.com/rust-lang/rust-analyzer/issues/15496) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
 <!--END_SECTION:activity-->
