@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/pull/7130#issuecomment-1723699896) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#3476](https://github.com/rust-lang/rfcs/pull/3476#issuecomment-1722508188) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
-3. 🗣 Commented on [#3465](https://github.com/rust-lang/rustup/issues/3465#issuecomment-1705485523) in [rust-lang/rustup](https://github.com/rust-lang/rustup)
-4. ❗ Opened issue [#1857](https://github.com/embassy-rs/embassy/issues/1857) in [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
+1. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/pull/7130#issuecomment-1725378750) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/pull/7130#issuecomment-1723699896) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#3476](https://github.com/rust-lang/rfcs/pull/3476#issuecomment-1722508188) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+4. 🗣 Commented on [#3465](https://github.com/rust-lang/rustup/issues/3465#issuecomment-1705485523) in [rust-lang/rustup](https://github.com/rust-lang/rustup)
 <!--END_SECTION:activity-->
