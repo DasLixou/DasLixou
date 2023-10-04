@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3494](https://github.com/rust-lang/rustup/issues/3494) in [rust-lang/rustup](https://github.com/rust-lang/rustup)
-2. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/pull/7130#issuecomment-1725378750) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/pull/7130#issuecomment-1723699896) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. 🗣 Commented on [#3476](https://github.com/rust-lang/rfcs/pull/3476#issuecomment-1722508188) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+1. 💪 Opened PR [#53](https://github.com/grovesNL/glyphon/pull/53) in [grovesNL/glyphon](https://github.com/grovesNL/glyphon)
+2. ❗ Opened issue [#3494](https://github.com/rust-lang/rustup/issues/3494) in [rust-lang/rustup](https://github.com/rust-lang/rustup)
+3. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/pull/7130#issuecomment-1725378750) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/pull/7130#issuecomment-1723699896) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
