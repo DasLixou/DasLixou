@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/grovesNL/glyphon/pull/53) in [grovesNL/glyphon](https://github.com/grovesNL/glyphon)
-2. ❗ Opened issue [#3494](https://github.com/rust-lang/rustup/issues/3494) in [rust-lang/rustup](https://github.com/rust-lang/rustup)
-3. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/pull/7130#issuecomment-1725378750) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/pull/7130#issuecomment-1723699896) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. ❗ Opened issue [#54](https://github.com/grovesNL/glyphon/issues/54) in [grovesNL/glyphon](https://github.com/grovesNL/glyphon)
+2. 💪 Opened PR [#53](https://github.com/grovesNL/glyphon/pull/53) in [grovesNL/glyphon](https://github.com/grovesNL/glyphon)
+3. ❗ Opened issue [#3494](https://github.com/rust-lang/rustup/issues/3494) in [rust-lang/rustup](https://github.com/rust-lang/rustup)
+4. 🗣 Commented on [#7130](https://github.com/bevyengine/bevy/pull/7130#issuecomment-1725378750) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
