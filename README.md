@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3494](https://github.com/rust-lang/rustup/issues/3494#issuecomment-1763365335) in [rust-lang/rustup](https://github.com/rust-lang/rustup)
-2. 🗣 Commented on [#54](https://github.com/grovesNL/glyphon/issues/54#issuecomment-1756066715) in [grovesNL/glyphon](https://github.com/grovesNL/glyphon)
-3. 🗣 Commented on [#54](https://github.com/grovesNL/glyphon/issues/54#issuecomment-1750699559) in [grovesNL/glyphon](https://github.com/grovesNL/glyphon)
-4. 🗣 Commented on [#54](https://github.com/grovesNL/glyphon/issues/54#issuecomment-1748991941) in [grovesNL/glyphon](https://github.com/grovesNL/glyphon)
+1. 🗣 Commented on [#3465](https://github.com/rust-lang/rustup/issues/3465#issuecomment-1763380035) in [rust-lang/rustup](https://github.com/rust-lang/rustup)
+2. 🗣 Commented on [#3494](https://github.com/rust-lang/rustup/issues/3494#issuecomment-1763365335) in [rust-lang/rustup](https://github.com/rust-lang/rustup)
+3. 🗣 Commented on [#54](https://github.com/grovesNL/glyphon/issues/54#issuecomment-1756066715) in [grovesNL/glyphon](https://github.com/grovesNL/glyphon)
+4. 🗣 Commented on [#54](https://github.com/grovesNL/glyphon/issues/54#issuecomment-1750699559) in [grovesNL/glyphon](https://github.com/grovesNL/glyphon)
 <!--END_SECTION:activity-->
