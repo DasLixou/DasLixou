@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/pop-os/cosmic-text/issues/70#issuecomment-1773707783) in [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text)
-2. 🗣 Commented on [#291](https://github.com/maciejhirsz/logos/issues/291#issuecomment-1765184937) in [maciejhirsz/logos](https://github.com/maciejhirsz/logos)
-3. 🗣 Commented on [#3465](https://github.com/rust-lang/rustup/issues/3465#issuecomment-1763385958) in [rust-lang/rustup](https://github.com/rust-lang/rustup)
-4. 🗣 Commented on [#3465](https://github.com/rust-lang/rustup/issues/3465#issuecomment-1763380035) in [rust-lang/rustup](https://github.com/rust-lang/rustup)
+1. 💪 Opened PR [#573](https://github.com/valence-rs/valence/pull/573) in [valence-rs/valence](https://github.com/valence-rs/valence)
+2. 🗣 Commented on [#70](https://github.com/pop-os/cosmic-text/issues/70#issuecomment-1773707783) in [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text)
+3. 🗣 Commented on [#291](https://github.com/maciejhirsz/logos/issues/291#issuecomment-1765184937) in [maciejhirsz/logos](https://github.com/maciejhirsz/logos)
+4. 🗣 Commented on [#3465](https://github.com/rust-lang/rustup/issues/3465#issuecomment-1763385958) in [rust-lang/rustup](https://github.com/rust-lang/rustup)
 <!--END_SECTION:activity-->
