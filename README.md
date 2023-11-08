@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#289](https://github.com/kevinmehall/rust-peg/pull/289#issuecomment-1795531956) in [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg)
-2. 💪 Opened PR [#573](https://github.com/valence-rs/valence/pull/573) in [valence-rs/valence](https://github.com/valence-rs/valence)
-3. 🗣 Commented on [#70](https://github.com/pop-os/cosmic-text/issues/70#issuecomment-1773707783) in [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text)
-4. 🗣 Commented on [#291](https://github.com/maciejhirsz/logos/issues/291#issuecomment-1765184937) in [maciejhirsz/logos](https://github.com/maciejhirsz/logos)
+1. 💪 Opened PR [#10446](https://github.com/bevyengine/bevy/pull/10446) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. 🗣 Commented on [#289](https://github.com/kevinmehall/rust-peg/pull/289#issuecomment-1795531956) in [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg)
+3. 💪 Opened PR [#573](https://github.com/valence-rs/valence/pull/573) in [valence-rs/valence](https://github.com/valence-rs/valence)
+4. 🗣 Commented on [#70](https://github.com/pop-os/cosmic-text/issues/70#issuecomment-1773707783) in [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text)
 <!--END_SECTION:activity-->
