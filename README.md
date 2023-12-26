@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#114598](https://github.com/rust-lang/rust/issues/114598#issuecomment-1858912224) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 🗣 Commented on [#573](https://github.com/valence-rs/valence/pull/573#issuecomment-1847300557) in [valence-rs/valence](https://github.com/valence-rs/valence)
-3. 🗣 Commented on [#573](https://github.com/valence-rs/valence/pull/573#issuecomment-1847157095) in [valence-rs/valence](https://github.com/valence-rs/valence)
-4. 🗣 Commented on [#10644](https://github.com/bevyengine/bevy/pull/10644#issuecomment-1826899804) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. 🗣 Commented on [#307](https://github.com/vizia/vizia/pull/307#issuecomment-1869597326) in [vizia/vizia](https://github.com/vizia/vizia)
+2. 🗣 Commented on [#114598](https://github.com/rust-lang/rust/issues/114598#issuecomment-1858912224) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. 🗣 Commented on [#573](https://github.com/valence-rs/valence/pull/573#issuecomment-1847300557) in [valence-rs/valence](https://github.com/valence-rs/valence)
+4. 🗣 Commented on [#573](https://github.com/valence-rs/valence/pull/573#issuecomment-1847157095) in [valence-rs/valence](https://github.com/valence-rs/valence)
 <!--END_SECTION:activity-->
