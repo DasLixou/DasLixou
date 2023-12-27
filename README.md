@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3334](https://github.com/rust-windowing/winit/issues/3334) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
-2. ❗ Opened issue [#3333](https://github.com/rust-windowing/winit/issues/3333) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
-3. 🗣 Commented on [#592](https://github.com/valence-rs/valence/pull/592#issuecomment-1870295718) in [valence-rs/valence](https://github.com/valence-rs/valence)
-4. 🗣 Commented on [#307](https://github.com/vizia/vizia/pull/307#issuecomment-1869634615) in [vizia/vizia](https://github.com/vizia/vizia)
+1. 🗣 Commented on [#3333](https://github.com/rust-windowing/winit/issues/3333#issuecomment-1870618829) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
+2. 🗣 Commented on [#3334](https://github.com/rust-windowing/winit/issues/3334#issuecomment-1870614595) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
+3. ❗ Opened issue [#3334](https://github.com/rust-windowing/winit/issues/3334) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
+4. ❗ Opened issue [#3333](https://github.com/rust-windowing/winit/issues/3333) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
 <!--END_SECTION:activity-->
