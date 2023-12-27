@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#592](https://github.com/valence-rs/valence/pull/592#issuecomment-1870295718) in [valence-rs/valence](https://github.com/valence-rs/valence)
-2. 🗣 Commented on [#307](https://github.com/vizia/vizia/pull/307#issuecomment-1869634615) in [vizia/vizia](https://github.com/vizia/vizia)
-3. 🗣 Commented on [#307](https://github.com/vizia/vizia/pull/307#issuecomment-1869597326) in [vizia/vizia](https://github.com/vizia/vizia)
-4. 🗣 Commented on [#114598](https://github.com/rust-lang/rust/issues/114598#issuecomment-1858912224) in [rust-lang/rust](https://github.com/rust-lang/rust)
+1. ❗ Opened issue [#3334](https://github.com/rust-windowing/winit/issues/3334) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
+2. ❗ Opened issue [#3333](https://github.com/rust-windowing/winit/issues/3333) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
+3. 🗣 Commented on [#592](https://github.com/valence-rs/valence/pull/592#issuecomment-1870295718) in [valence-rs/valence](https://github.com/valence-rs/valence)
+4. 🗣 Commented on [#307](https://github.com/vizia/vizia/pull/307#issuecomment-1869634615) in [vizia/vizia](https://github.com/vizia/vizia)
 <!--END_SECTION:activity-->
