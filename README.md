@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3334](https://github.com/rust-windowing/winit/issues/3334#issuecomment-1870900662) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
-2. 🗣 Commented on [#3333](https://github.com/rust-windowing/winit/issues/3333#issuecomment-1870618829) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
-3. 🗣 Commented on [#3334](https://github.com/rust-windowing/winit/issues/3334#issuecomment-1870614595) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
-4. ❗ Opened issue [#3334](https://github.com/rust-windowing/winit/issues/3334) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
+1. 💪 Opened PR [#140](https://github.com/tokio-rs/slab/pull/140) in [tokio-rs/slab](https://github.com/tokio-rs/slab)
+2. 🗣 Commented on [#3334](https://github.com/rust-windowing/winit/issues/3334#issuecomment-1870900662) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
+3. 🗣 Commented on [#3333](https://github.com/rust-windowing/winit/issues/3333#issuecomment-1870618829) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
+4. 🗣 Commented on [#3334](https://github.com/rust-windowing/winit/issues/3334#issuecomment-1870614595) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
 <!--END_SECTION:activity-->
