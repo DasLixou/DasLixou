@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140](https://github.com/tokio-rs/slab/pull/140#issuecomment-1872727252) in [tokio-rs/slab](https://github.com/tokio-rs/slab)
-2. 🗣 Commented on [#140](https://github.com/tokio-rs/slab/pull/140#issuecomment-1872613145) in [tokio-rs/slab](https://github.com/tokio-rs/slab)
-3. 💪 Opened PR [#140](https://github.com/tokio-rs/slab/pull/140) in [tokio-rs/slab](https://github.com/tokio-rs/slab)
-4. 🗣 Commented on [#3334](https://github.com/rust-windowing/winit/issues/3334#issuecomment-1870900662) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
+1. 🗣 Commented on [#80](https://github.com/zesterer/ariadne/issues/80#issuecomment-1874264792) in [zesterer/ariadne](https://github.com/zesterer/ariadne)
+2. 🗣 Commented on [#140](https://github.com/tokio-rs/slab/pull/140#issuecomment-1872727252) in [tokio-rs/slab](https://github.com/tokio-rs/slab)
+3. 🗣 Commented on [#140](https://github.com/tokio-rs/slab/pull/140#issuecomment-1872613145) in [tokio-rs/slab](https://github.com/tokio-rs/slab)
+4. 💪 Opened PR [#140](https://github.com/tokio-rs/slab/pull/140) in [tokio-rs/slab](https://github.com/tokio-rs/slab)
 <!--END_SECTION:activity-->
