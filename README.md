@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3367](https://github.com/rust-windowing/winit/issues/3367#issuecomment-1880061122) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
-2. 🗣 Commented on [#3367](https://github.com/rust-windowing/winit/issues/3367#issuecomment-1879997909) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
-3. 🗣 Commented on [#80](https://github.com/zesterer/ariadne/issues/80#issuecomment-1874374337) in [zesterer/ariadne](https://github.com/zesterer/ariadne)
-4. 🗣 Commented on [#80](https://github.com/zesterer/ariadne/issues/80#issuecomment-1874264792) in [zesterer/ariadne](https://github.com/zesterer/ariadne)
+1. 🗣 Commented on [#3367](https://github.com/rust-windowing/winit/issues/3367#issuecomment-1880073413) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
+2. 🗣 Commented on [#3367](https://github.com/rust-windowing/winit/issues/3367#issuecomment-1880061122) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
+3. 🗣 Commented on [#3367](https://github.com/rust-windowing/winit/issues/3367#issuecomment-1879997909) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
+4. 🗣 Commented on [#80](https://github.com/zesterer/ariadne/issues/80#issuecomment-1874374337) in [zesterer/ariadne](https://github.com/zesterer/ariadne)
 <!--END_SECTION:activity-->
