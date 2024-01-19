@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/grovesNL/glyphon/issues/54#issuecomment-1892656405) in [grovesNL/glyphon](https://github.com/grovesNL/glyphon)
-2. 🗣 Commented on [#54](https://github.com/grovesNL/glyphon/issues/54#issuecomment-1892595084) in [grovesNL/glyphon](https://github.com/grovesNL/glyphon)
-3. 🗣 Commented on [#3367](https://github.com/rust-windowing/winit/issues/3367#issuecomment-1880421776) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
-4. 🗣 Commented on [#3367](https://github.com/rust-windowing/winit/issues/3367#issuecomment-1880073413) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
+1. 🗣 Commented on [#3845](https://github.com/emilk/egui/issues/3845#issuecomment-1900525778) in [emilk/egui](https://github.com/emilk/egui)
+2. ❗ Opened issue [#3845](https://github.com/emilk/egui/issues/3845) in [emilk/egui](https://github.com/emilk/egui)
+3. 🗣 Commented on [#54](https://github.com/grovesNL/glyphon/issues/54#issuecomment-1892656405) in [grovesNL/glyphon](https://github.com/grovesNL/glyphon)
+4. 🗣 Commented on [#54](https://github.com/grovesNL/glyphon/issues/54#issuecomment-1892595084) in [grovesNL/glyphon](https://github.com/grovesNL/glyphon)
 <!--END_SECTION:activity-->
