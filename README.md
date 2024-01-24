@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10644](https://github.com/bevyengine/bevy/pull/10644#issuecomment-1908503801) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#3845](https://github.com/emilk/egui/issues/3845#issuecomment-1900525778) in [emilk/egui](https://github.com/emilk/egui)
-3. ❗ Opened issue [#3845](https://github.com/emilk/egui/issues/3845) in [emilk/egui](https://github.com/emilk/egui)
-4. 🗣 Commented on [#54](https://github.com/grovesNL/glyphon/issues/54#issuecomment-1892656405) in [grovesNL/glyphon](https://github.com/grovesNL/glyphon)
+1. 🗣 Commented on [#10644](https://github.com/bevyengine/bevy/pull/10644#issuecomment-1908913406) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. 🗣 Commented on [#10644](https://github.com/bevyengine/bevy/pull/10644#issuecomment-1908503801) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#3845](https://github.com/emilk/egui/issues/3845#issuecomment-1900525778) in [emilk/egui](https://github.com/emilk/egui)
+4. ❗ Opened issue [#3845](https://github.com/emilk/egui/issues/3845) in [emilk/egui](https://github.com/emilk/egui)
 <!--END_SECTION:activity-->
