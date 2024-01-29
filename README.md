@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/rj00a/evenio/pull/2#issuecomment-1913280706) in [rj00a/evenio](https://github.com/rj00a/evenio)
-2. 🗣 Commented on [#2](https://github.com/rj00a/evenio/pull/2#issuecomment-1913279529) in [rj00a/evenio](https://github.com/rj00a/evenio)
-3. 💪 Opened PR [#2](https://github.com/rj00a/evenio/pull/2) in [rj00a/evenio](https://github.com/rj00a/evenio)
-4. 🗣 Commented on [#10644](https://github.com/bevyengine/bevy/pull/10644#issuecomment-1908913406) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. 🗣 Commented on [#2](https://github.com/rj00a/evenio/pull/2#issuecomment-1914525459) in [rj00a/evenio](https://github.com/rj00a/evenio)
+2. 🗣 Commented on [#2](https://github.com/rj00a/evenio/pull/2#issuecomment-1914522837) in [rj00a/evenio](https://github.com/rj00a/evenio)
+3. 🗣 Commented on [#2](https://github.com/rj00a/evenio/pull/2#issuecomment-1913280706) in [rj00a/evenio](https://github.com/rj00a/evenio)
+4. 🗣 Commented on [#2](https://github.com/rj00a/evenio/pull/2#issuecomment-1913279529) in [rj00a/evenio](https://github.com/rj00a/evenio)
 <!--END_SECTION:activity-->
