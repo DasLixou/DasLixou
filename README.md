@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10644](https://github.com/bevyengine/bevy/pull/10644#issuecomment-1925365710) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 💪 Opened PR [#901](https://github.com/bevyengine/bevy-website/pull/901) in [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website)
-3. 🗣 Commented on [#891](https://github.com/bevyengine/bevy-website/pull/891#issuecomment-1919477224) in [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website)
-4. 🗣 Commented on [#2](https://github.com/rj00a/evenio/pull/2#issuecomment-1914525459) in [rj00a/evenio](https://github.com/rj00a/evenio)
+1. 🗣 Commented on [#10644](https://github.com/bevyengine/bevy/pull/10644#issuecomment-1925392573) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. 🗣 Commented on [#10644](https://github.com/bevyengine/bevy/pull/10644#issuecomment-1925392523) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#236](https://github.com/mvlabat/bevy_egui/pull/236#issuecomment-1925380568) in [mvlabat/bevy_egui](https://github.com/mvlabat/bevy_egui)
+4. 🗣 Commented on [#10644](https://github.com/bevyengine/bevy/pull/10644#issuecomment-1925379615) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
