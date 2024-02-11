@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#901](https://github.com/bevyengine/bevy-website/pull/901#issuecomment-1927347627) in [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website)
-2. 🗣 Commented on [#10644](https://github.com/bevyengine/bevy/pull/10644#issuecomment-1925392573) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. 🗣 Commented on [#10644](https://github.com/bevyengine/bevy/pull/10644#issuecomment-1925392523) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. 🗣 Commented on [#236](https://github.com/mvlabat/bevy_egui/pull/236#issuecomment-1925380568) in [mvlabat/bevy_egui](https://github.com/mvlabat/bevy_egui)
+1. 🗣 Commented on [#11807](https://github.com/bevyengine/bevy/issues/11807#issuecomment-1937825121) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. 🗣 Commented on [#11807](https://github.com/bevyengine/bevy/issues/11807#issuecomment-1937824603) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#901](https://github.com/bevyengine/bevy-website/pull/901#issuecomment-1927347627) in [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website)
+4. 🗣 Commented on [#10644](https://github.com/bevyengine/bevy/pull/10644#issuecomment-1925392573) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
