@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DasLixou/hibiki/pull/1) in [DasLixou/hibiki](https://github.com/DasLixou/hibiki)
-2. 🗣 Commented on [#11807](https://github.com/bevyengine/bevy/issues/11807#issuecomment-1937848669) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. 🗣 Commented on [#11807](https://github.com/bevyengine/bevy/issues/11807#issuecomment-1937843223) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. 💪 Opened PR [#936](https://github.com/bevyengine/bevy-website/pull/936) in [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website)
+1. ❗ Opened issue [#4](https://github.com/DasLixou/hibiki/issues/4) in [DasLixou/hibiki](https://github.com/DasLixou/hibiki)
+2. ❗ Opened issue [#3](https://github.com/DasLixou/hibiki/issues/3) in [DasLixou/hibiki](https://github.com/DasLixou/hibiki)
+3. ❗ Opened issue [#2](https://github.com/DasLixou/hibiki/issues/2) in [DasLixou/hibiki](https://github.com/DasLixou/hibiki)
+4. 🎉 Merged PR [#1](https://github.com/DasLixou/hibiki/pull/1) in [DasLixou/hibiki](https://github.com/DasLixou/hibiki)
 <!--END_SECTION:activity-->
