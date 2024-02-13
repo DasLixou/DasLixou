@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/DasLixou/hibiki/issues/4) in [DasLixou/hibiki](https://github.com/DasLixou/hibiki)
-2. ❗ Opened issue [#3](https://github.com/DasLixou/hibiki/issues/3) in [DasLixou/hibiki](https://github.com/DasLixou/hibiki)
-3. ❗ Opened issue [#2](https://github.com/DasLixou/hibiki/issues/2) in [DasLixou/hibiki](https://github.com/DasLixou/hibiki)
-4. 🎉 Merged PR [#1](https://github.com/DasLixou/hibiki/pull/1) in [DasLixou/hibiki](https://github.com/DasLixou/hibiki)
+1. 🔒 Closed issue [#5](https://github.com/DasLixou/hibiki/issues/5) in [DasLixou/hibiki](https://github.com/DasLixou/hibiki)
+2. 🎉 Merged PR [#7](https://github.com/DasLixou/hibiki/pull/7) in [DasLixou/hibiki](https://github.com/DasLixou/hibiki)
+3. 💪 Opened PR [#7](https://github.com/DasLixou/hibiki/pull/7) in [DasLixou/hibiki](https://github.com/DasLixou/hibiki)
+4. 🔒 Closed issue [#4](https://github.com/DasLixou/hibiki/issues/4) in [DasLixou/hibiki](https://github.com/DasLixou/hibiki)
 <!--END_SECTION:activity-->
