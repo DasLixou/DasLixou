@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11807](https://github.com/bevyengine/bevy/issues/11807#issuecomment-1937848669) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#11807](https://github.com/bevyengine/bevy/issues/11807#issuecomment-1937843223) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. 💪 Opened PR [#936](https://github.com/bevyengine/bevy-website/pull/936) in [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website)
-4. 🗣 Commented on [#11807](https://github.com/bevyengine/bevy/issues/11807#issuecomment-1937825121) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. 🎉 Merged PR [#1](https://github.com/DasLixou/hibiki/pull/1) in [DasLixou/hibiki](https://github.com/DasLixou/hibiki)
+2. 🗣 Commented on [#11807](https://github.com/bevyengine/bevy/issues/11807#issuecomment-1937848669) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#11807](https://github.com/bevyengine/bevy/issues/11807#issuecomment-1937843223) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. 💪 Opened PR [#936](https://github.com/bevyengine/bevy-website/pull/936) in [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website)
 <!--END_SECTION:activity-->
