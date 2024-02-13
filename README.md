@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10644](https://github.com/bevyengine/bevy/pull/10644#issuecomment-1942375877) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#4039](https://github.com/emilk/egui/issues/4039#issuecomment-1941943791) in [emilk/egui](https://github.com/emilk/egui)
-3. 🔒 Closed issue [#12](https://github.com/DasLixou/hibiki/issues/12) in [DasLixou/hibiki](https://github.com/DasLixou/hibiki)
-4. 🎉 Merged PR [#15](https://github.com/DasLixou/hibiki/pull/15) in [DasLixou/hibiki](https://github.com/DasLixou/hibiki)
+1. 🗣 Commented on [#11852](https://github.com/bevyengine/bevy/issues/11852#issuecomment-1942454739) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. 🗣 Commented on [#10644](https://github.com/bevyengine/bevy/pull/10644#issuecomment-1942375877) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#4039](https://github.com/emilk/egui/issues/4039#issuecomment-1941943791) in [emilk/egui](https://github.com/emilk/egui)
+4. 🔒 Closed issue [#12](https://github.com/DasLixou/hibiki/issues/12) in [DasLixou/hibiki](https://github.com/DasLixou/hibiki)
 <!--END_SECTION:activity-->
