@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/DasLixou/devil/issues/1) in [DasLixou/devil](https://github.com/DasLixou/devil)
-2. 🗣 Commented on [#11897](https://github.com/bevyengine/bevy/issues/11897#issuecomment-1948283362) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. ❗ Opened issue [#16572](https://github.com/rust-lang/rust-analyzer/issues/16572) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
-4. 🗣 Commented on [#11852](https://github.com/bevyengine/bevy/issues/11852#issuecomment-1942454739) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. 🗣 Commented on [#11897](https://github.com/bevyengine/bevy/issues/11897#issuecomment-1948456158) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. 🗣 Commented on [#11897](https://github.com/bevyengine/bevy/issues/11897#issuecomment-1948452098) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#11897](https://github.com/bevyengine/bevy/issues/11897#issuecomment-1948448864) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. ❗ Opened issue [#1](https://github.com/DasLixou/devil/issues/1) in [DasLixou/devil](https://github.com/DasLixou/devil)
 <!--END_SECTION:activity-->
