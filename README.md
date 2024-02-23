@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#449](https://github.com/linebender/vello/issues/449) in [linebender/vello](https://github.com/linebender/vello)
-2. 🗣 Commented on [#3676](https://github.com/rust-lang/rustup/issues/3676#issuecomment-1952784109) in [rust-lang/rustup](https://github.com/rust-lang/rustup)
-3. ❗ Opened issue [#3676](https://github.com/rust-lang/rustup/issues/3676) in [rust-lang/rustup](https://github.com/rust-lang/rustup)
-4. 🗣 Commented on [#11958](https://github.com/bevyengine/bevy/issues/11958#issuecomment-1951746294) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. 🗣 Commented on [#4247](https://github.com/gfx-rs/wgpu/issues/4247#issuecomment-1961823632) in [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
+2. ❗ Opened issue [#449](https://github.com/linebender/vello/issues/449) in [linebender/vello](https://github.com/linebender/vello)
+3. 🗣 Commented on [#3676](https://github.com/rust-lang/rustup/issues/3676#issuecomment-1952784109) in [rust-lang/rustup](https://github.com/rust-lang/rustup)
+4. ❗ Opened issue [#3676](https://github.com/rust-lang/rustup/issues/3676) in [rust-lang/rustup](https://github.com/rust-lang/rustup)
 <!--END_SECTION:activity-->
