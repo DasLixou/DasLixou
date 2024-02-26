@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16686](https://github.com/rust-lang/rust-analyzer/issues/16686) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
-2. 💪 Opened PR [#462](https://github.com/linebender/vello/pull/462) in [linebender/vello](https://github.com/linebender/vello)
-3. 🗣 Commented on [#449](https://github.com/linebender/vello/issues/449#issuecomment-1961940639) in [linebender/vello](https://github.com/linebender/vello)
-4. 🔒 Closed issue [#449](https://github.com/linebender/vello/issues/449) in [linebender/vello](https://github.com/linebender/vello)
+1. 🗣 Commented on [#471](https://github.com/linebender/vello/pull/471#issuecomment-1964948603) in [linebender/vello](https://github.com/linebender/vello)
+2. 🗣 Commented on [#471](https://github.com/linebender/vello/pull/471#issuecomment-1964875768) in [linebender/vello](https://github.com/linebender/vello)
+3. 💪 Opened PR [#471](https://github.com/linebender/vello/pull/471) in [linebender/vello](https://github.com/linebender/vello)
+4. ❗ Opened issue [#16686](https://github.com/rust-lang/rust-analyzer/issues/16686) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
 <!--END_SECTION:activity-->
