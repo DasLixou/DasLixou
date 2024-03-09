@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#517](https://github.com/linebender/vello/pull/517) in [linebender/vello](https://github.com/linebender/vello)
-2. 💪 Opened PR [#516](https://github.com/linebender/vello/pull/516) in [linebender/vello](https://github.com/linebender/vello)
-3. ❗ Opened issue [#12273](https://github.com/bevyengine/bevy/issues/12273) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. ❗ Opened issue [#12261](https://github.com/bevyengine/bevy/issues/12261) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. 🗣 Commented on [#517](https://github.com/linebender/vello/pull/517#issuecomment-1986923006) in [linebender/vello](https://github.com/linebender/vello)
+2. 💪 Opened PR [#517](https://github.com/linebender/vello/pull/517) in [linebender/vello](https://github.com/linebender/vello)
+3. 💪 Opened PR [#516](https://github.com/linebender/vello/pull/516) in [linebender/vello](https://github.com/linebender/vello)
+4. ❗ Opened issue [#12273](https://github.com/bevyengine/bevy/issues/12273) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
