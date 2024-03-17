@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12521](https://github.com/bevyengine/bevy/issues/12521) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#516](https://github.com/linebender/vello/pull/516#issuecomment-1987185768) in [linebender/vello](https://github.com/linebender/vello)
-3. 🗣 Commented on [#517](https://github.com/linebender/vello/pull/517#issuecomment-1986923006) in [linebender/vello](https://github.com/linebender/vello)
-4. 💪 Opened PR [#517](https://github.com/linebender/vello/pull/517) in [linebender/vello](https://github.com/linebender/vello)
+1. 🗣 Commented on [#6556](https://github.com/bevyengine/bevy/issues/6556#issuecomment-2002577453) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. 🚀 Published release [Release `2.0.0`](https://github.com/ChoppedStudio/bevy_ecs_markers/releases/tag/2.0.0) in [ChoppedStudio/bevy_ecs_markers](https://github.com/ChoppedStudio/bevy_ecs_markers)
+3. ❗ Opened issue [#12521](https://github.com/bevyengine/bevy/issues/12521) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. 🗣 Commented on [#516](https://github.com/linebender/vello/pull/516#issuecomment-1987185768) in [linebender/vello](https://github.com/linebender/vello)
 <!--END_SECTION:activity-->
