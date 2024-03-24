@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12521](https://github.com/bevyengine/bevy/issues/12521#issuecomment-2002603687) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#12521](https://github.com/bevyengine/bevy/issues/12521#issuecomment-2002595198) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. 🗣 Commented on [#6556](https://github.com/bevyengine/bevy/issues/6556#issuecomment-2002577453) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. 🚀 Published release [Release `2.0.0`](https://github.com/ChoppedStudio/bevy_ecs_markers/releases/tag/2.0.0) in [ChoppedStudio/bevy_ecs_markers](https://github.com/ChoppedStudio/bevy_ecs_markers)
+1. 🗣 Commented on [#8784](https://github.com/bevyengine/bevy/pull/8784#issuecomment-2016834130) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. 🗣 Commented on [#12521](https://github.com/bevyengine/bevy/issues/12521#issuecomment-2002603687) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#12521](https://github.com/bevyengine/bevy/issues/12521#issuecomment-2002595198) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. 🗣 Commented on [#6556](https://github.com/bevyengine/bevy/issues/6556#issuecomment-2002577453) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
