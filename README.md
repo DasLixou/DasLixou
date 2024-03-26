@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#563](https://github.com/plotters-rs/plotters/issues/563) in [plotters-rs/plotters](https://github.com/plotters-rs/plotters)
-2. ❗ Opened issue [#71](https://github.com/Plonq/bevy_panorbit_camera/issues/71) in [Plonq/bevy_panorbit_camera](https://github.com/Plonq/bevy_panorbit_camera)
-3. 🗣 Commented on [#8784](https://github.com/bevyengine/bevy/pull/8784#issuecomment-2016834130) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. 🗣 Commented on [#12521](https://github.com/bevyengine/bevy/issues/12521#issuecomment-2002603687) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. ❌ Closed PR [#534](https://github.com/linebender/vello/pull/534) in [linebender/vello](https://github.com/linebender/vello)
+2. 🗣 Commented on [#534](https://github.com/linebender/vello/pull/534#issuecomment-2019999534) in [linebender/vello](https://github.com/linebender/vello)
+3. 💪 Opened PR [#534](https://github.com/linebender/vello/pull/534) in [linebender/vello](https://github.com/linebender/vello)
+4. ❗ Opened issue [#563](https://github.com/plotters-rs/plotters/issues/563) in [plotters-rs/plotters](https://github.com/plotters-rs/plotters)
 <!--END_SECTION:activity-->
