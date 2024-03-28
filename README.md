@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#534](https://github.com/linebender/vello/pull/534) in [linebender/vello](https://github.com/linebender/vello)
-2. 🗣 Commented on [#534](https://github.com/linebender/vello/pull/534#issuecomment-2019999534) in [linebender/vello](https://github.com/linebender/vello)
-3. 💪 Opened PR [#534](https://github.com/linebender/vello/pull/534) in [linebender/vello](https://github.com/linebender/vello)
-4. ❗ Opened issue [#563](https://github.com/plotters-rs/plotters/issues/563) in [plotters-rs/plotters](https://github.com/plotters-rs/plotters)
+1. 🗣 Commented on [#534](https://github.com/linebender/vello/pull/534#issuecomment-2025699233) in [linebender/vello](https://github.com/linebender/vello)
+2. ❌ Reopened PR [#534](https://github.com/linebender/vello/pull/534) in [linebender/vello](https://github.com/linebender/vello)
+3. 🗣 Commented on [#534](https://github.com/linebender/vello/pull/534#issuecomment-2025654573) in [linebender/vello](https://github.com/linebender/vello)
+4. ❌ Closed PR [#534](https://github.com/linebender/vello/pull/534) in [linebender/vello](https://github.com/linebender/vello)
 <!--END_SECTION:activity-->
