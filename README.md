@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#193](https://github.com/jakobhellermann/bevy-inspector-egui/issues/193) in [jakobhellermann/bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui)
-2. 💪 Opened PR [#1](https://github.com/DasLixou/snowberry/pull/1) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
-3. 🎉 Merged PR [#534](https://github.com/linebender/vello/pull/534) in [linebender/vello](https://github.com/linebender/vello)
-4. 🗣 Commented on [#534](https://github.com/linebender/vello/pull/534#issuecomment-2027156072) in [linebender/vello](https://github.com/linebender/vello)
+1. 🔒 Closed issue [#193](https://github.com/jakobhellermann/bevy-inspector-egui/issues/193) in [jakobhellermann/bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui)
+2. ❗ Opened issue [#193](https://github.com/jakobhellermann/bevy-inspector-egui/issues/193) in [jakobhellermann/bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui)
+3. 💪 Opened PR [#1](https://github.com/DasLixou/snowberry/pull/1) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
+4. 🎉 Merged PR [#534](https://github.com/linebender/vello/pull/534) in [linebender/vello](https://github.com/linebender/vello)
 <!--END_SECTION:activity-->
