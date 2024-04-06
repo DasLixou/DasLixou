@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#545](https://github.com/linebender/vello/issues/545) in [linebender/vello](https://github.com/linebender/vello)
-2. 🗣 Commented on [#2](https://github.com/DasLixou/snowberry/issues/2#issuecomment-2039946175) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
-3. 🗣 Commented on [#2](https://github.com/DasLixou/snowberry/issues/2#issuecomment-2039614448) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
-4. ❗ Opened issue [#2](https://github.com/DasLixou/snowberry/issues/2) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
+1. 💪 Opened PR [#546](https://github.com/linebender/vello/pull/546) in [linebender/vello](https://github.com/linebender/vello)
+2. ❗ Opened issue [#545](https://github.com/linebender/vello/issues/545) in [linebender/vello](https://github.com/linebender/vello)
+3. 🗣 Commented on [#2](https://github.com/DasLixou/snowberry/issues/2#issuecomment-2039946175) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
+4. 🗣 Commented on [#2](https://github.com/DasLixou/snowberry/issues/2#issuecomment-2039614448) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
 <!--END_SECTION:activity-->
