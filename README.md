@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/linebender/vello_svg/pull/4#issuecomment-2043206263) in [linebender/vello_svg](https://github.com/linebender/vello_svg)
-2. 💪 Opened PR [#6](https://github.com/linebender/vello_svg/pull/6) in [linebender/vello_svg](https://github.com/linebender/vello_svg)
-3. 🗣 Commented on [#4](https://github.com/linebender/vello_svg/pull/4#issuecomment-2042817858) in [linebender/vello_svg](https://github.com/linebender/vello_svg)
-4. 🗣 Commented on [#4](https://github.com/linebender/vello_svg/pull/4#issuecomment-2042572120) in [linebender/vello_svg](https://github.com/linebender/vello_svg)
+1. 🎉 Merged PR [#546](https://github.com/linebender/vello/pull/546) in [linebender/vello](https://github.com/linebender/vello)
+2. 🗣 Commented on [#4](https://github.com/linebender/vello_svg/pull/4#issuecomment-2043206263) in [linebender/vello_svg](https://github.com/linebender/vello_svg)
+3. 💪 Opened PR [#6](https://github.com/linebender/vello_svg/pull/6) in [linebender/vello_svg](https://github.com/linebender/vello_svg)
+4. 🗣 Commented on [#4](https://github.com/linebender/vello_svg/pull/4#issuecomment-2042817858) in [linebender/vello_svg](https://github.com/linebender/vello_svg)
 <!--END_SECTION:activity-->
