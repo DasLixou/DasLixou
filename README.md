@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#297](https://github.com/rewin123/space_editor/issues/297) in [rewin123/space_editor](https://github.com/rewin123/space_editor)
-2. 💪 Opened PR [#296](https://github.com/rewin123/space_editor/pull/296) in [rewin123/space_editor](https://github.com/rewin123/space_editor)
-3. 🎉 Merged PR [#546](https://github.com/linebender/vello/pull/546) in [linebender/vello](https://github.com/linebender/vello)
-4. 🗣 Commented on [#4](https://github.com/linebender/vello_svg/pull/4#issuecomment-2043206263) in [linebender/vello_svg](https://github.com/linebender/vello_svg)
+1. 🗣 Commented on [#8](https://github.com/linebender/masonry/issues/8#issuecomment-2069275341) in [linebender/masonry](https://github.com/linebender/masonry)
+2. ❗ Opened issue [#297](https://github.com/rewin123/space_editor/issues/297) in [rewin123/space_editor](https://github.com/rewin123/space_editor)
+3. 💪 Opened PR [#296](https://github.com/rewin123/space_editor/pull/296) in [rewin123/space_editor](https://github.com/rewin123/space_editor)
+4. 🎉 Merged PR [#546](https://github.com/linebender/vello/pull/546) in [linebender/vello](https://github.com/linebender/vello)
 <!--END_SECTION:activity-->
