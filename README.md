@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/DasLixou/ohdl/issues/3) in [DasLixou/ohdl](https://github.com/DasLixou/ohdl)
-2. ❗ Opened issue [#2](https://github.com/DasLixou/ohdl/issues/2) in [DasLixou/ohdl](https://github.com/DasLixou/ohdl)
-3. ❗ Opened issue [#1](https://github.com/DasLixou/ohdl/issues/1) in [DasLixou/ohdl](https://github.com/DasLixou/ohdl)
-4. 🗣 Commented on [#8](https://github.com/linebender/masonry/issues/8#issuecomment-2069275341) in [linebender/masonry](https://github.com/linebender/masonry)
+1. ❗ Opened issue [#4](https://github.com/DasLixou/ohdl/issues/4) in [DasLixou/ohdl](https://github.com/DasLixou/ohdl)
+2. ❗ Opened issue [#3](https://github.com/DasLixou/ohdl/issues/3) in [DasLixou/ohdl](https://github.com/DasLixou/ohdl)
+3. ❗ Opened issue [#2](https://github.com/DasLixou/ohdl/issues/2) in [DasLixou/ohdl](https://github.com/DasLixou/ohdl)
+4. ❗ Opened issue [#1](https://github.com/DasLixou/ohdl/issues/1) in [DasLixou/ohdl](https://github.com/DasLixou/ohdl)
 <!--END_SECTION:activity-->
