@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/DasLixou/ohdl/issues/7) in [DasLixou/ohdl](https://github.com/DasLixou/ohdl)
-2. 💪 Opened PR [#6](https://github.com/DasLixou/ohdl/pull/6) in [DasLixou/ohdl](https://github.com/DasLixou/ohdl)
-3. 🔒 Closed issue [#1](https://github.com/DasLixou/ohdl/issues/1) in [DasLixou/ohdl](https://github.com/DasLixou/ohdl)
-4. ❗ Opened issue [#5](https://github.com/DasLixou/ohdl/issues/5) in [DasLixou/ohdl](https://github.com/DasLixou/ohdl)
+1. 🎉 Merged PR [#1](https://github.com/DasLixou/snowberry/pull/1) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
+2. ❗ Opened issue [#7](https://github.com/DasLixou/ohdl/issues/7) in [DasLixou/ohdl](https://github.com/DasLixou/ohdl)
+3. 💪 Opened PR [#6](https://github.com/DasLixou/ohdl/pull/6) in [DasLixou/ohdl](https://github.com/DasLixou/ohdl)
+4. 🔒 Closed issue [#1](https://github.com/DasLixou/ohdl/issues/1) in [DasLixou/ohdl](https://github.com/DasLixou/ohdl)
 <!--END_SECTION:activity-->
