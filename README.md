@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/Vanillnya/ohdl/issues/7) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
-2. 🔓 Reopened issue [#7](https://github.com/Vanillnya/ohdl/issues/7) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
-3. ❗ Opened issue [#8](https://github.com/Vanillnya/ohdl/issues/8) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
-4. 🔒 Closed issue [#7](https://github.com/DasLixou/ohdl/issues/7) in [DasLixou/ohdl](https://github.com/DasLixou/ohdl)
+1. 💪 Opened PR [#375](https://github.com/kevinmehall/rust-peg/pull/375) in [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg)
+2. 🔒 Closed issue [#7](https://github.com/Vanillnya/ohdl/issues/7) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+3. 🔓 Reopened issue [#7](https://github.com/Vanillnya/ohdl/issues/7) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+4. ❗ Opened issue [#8](https://github.com/Vanillnya/ohdl/issues/8) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
 <!--END_SECTION:activity-->
