@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/Vanillnya/ohdl/issues/9) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
-2. ❌ Closed PR [#375](https://github.com/kevinmehall/rust-peg/pull/375) in [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg)
-3. 🗣 Commented on [#375](https://github.com/kevinmehall/rust-peg/pull/375#issuecomment-2088673811) in [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg)
-4. 💪 Opened PR [#375](https://github.com/kevinmehall/rust-peg/pull/375) in [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg)
+1. 🗣 Commented on [#565](https://github.com/linebender/vello/issues/565#issuecomment-2093682914) in [linebender/vello](https://github.com/linebender/vello)
+2. 🗣 Commented on [#565](https://github.com/linebender/vello/issues/565#issuecomment-2093679811) in [linebender/vello](https://github.com/linebender/vello)
+3. 🗣 Commented on [#565](https://github.com/linebender/vello/issues/565#issuecomment-2093677177) in [linebender/vello](https://github.com/linebender/vello)
+4. ❗ Opened issue [#9](https://github.com/Vanillnya/ohdl/issues/9) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
 <!--END_SECTION:activity-->
