@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12](https://github.com/Vanillnya/ohdl/issues/12) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
-2. 💪 Opened PR [#11](https://github.com/Vanillnya/ohdl/pull/11) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
-3. 🎉 Merged PR [#10](https://github.com/Vanillnya/ohdl/pull/10) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
-4. 💪 Opened PR [#10](https://github.com/Vanillnya/ohdl/pull/10) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+1. 🎉 Merged PR [#4](https://github.com/DasLixou/snowberry/pull/4) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
+2. 💪 Opened PR [#4](https://github.com/DasLixou/snowberry/pull/4) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
+3. ❗ Opened issue [#12](https://github.com/Vanillnya/ohdl/issues/12) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+4. 💪 Opened PR [#11](https://github.com/Vanillnya/ohdl/pull/11) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
 <!--END_SECTION:activity-->
