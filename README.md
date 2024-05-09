@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Vanillnya/ohdl/pull/13) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
-2. 💪 Opened PR [#13](https://github.com/Vanillnya/ohdl/pull/13) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
-3. 🎉 Merged PR [#11](https://github.com/Vanillnya/ohdl/pull/11) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
-4. 🚀 Published release [v0.2.0](https://github.com/DasLixou/zonbi/releases/tag/v0.2.0) in [DasLixou/zonbi](https://github.com/DasLixou/zonbi)
+1. 🎉 Merged PR [#15](https://github.com/Vanillnya/ohdl/pull/15) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+2. 💪 Opened PR [#15](https://github.com/Vanillnya/ohdl/pull/15) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+3. 🎉 Merged PR [#14](https://github.com/Vanillnya/ohdl/pull/14) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+4. 💪 Opened PR [#14](https://github.com/Vanillnya/ohdl/pull/14) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
 <!--END_SECTION:activity-->
