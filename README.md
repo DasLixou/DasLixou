@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#21](https://github.com/Vanillnya/ohdl/issues/21) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
-2. ❗ Opened issue [#20](https://github.com/Vanillnya/ohdl/issues/20) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
-3. ❗ Opened issue [#19](https://github.com/Vanillnya/ohdl/issues/19) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
-4. ❗ Opened issue [#18](https://github.com/Vanillnya/ohdl/issues/18) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+1. 🚀 Published release [v0.3.0](https://github.com/DasLixou/zonbi/releases/tag/v0.3.0) in [DasLixou/zonbi](https://github.com/DasLixou/zonbi)
+2. ❗ Opened issue [#21](https://github.com/Vanillnya/ohdl/issues/21) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+3. ❗ Opened issue [#20](https://github.com/Vanillnya/ohdl/issues/20) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+4. ❗ Opened issue [#19](https://github.com/Vanillnya/ohdl/issues/19) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
 <!--END_SECTION:activity-->
