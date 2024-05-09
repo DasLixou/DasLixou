@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0](https://github.com/DasLixou/zonbi/releases/tag/v0.2.0) in [DasLixou/zonbi](https://github.com/DasLixou/zonbi)
-2. 🎉 Merged PR [#4](https://github.com/DasLixou/snowberry/pull/4) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
-3. 💪 Opened PR [#4](https://github.com/DasLixou/snowberry/pull/4) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
-4. ❗ Opened issue [#12](https://github.com/Vanillnya/ohdl/issues/12) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+1. 🎉 Merged PR [#13](https://github.com/Vanillnya/ohdl/pull/13) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+2. 💪 Opened PR [#13](https://github.com/Vanillnya/ohdl/pull/13) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+3. 🎉 Merged PR [#11](https://github.com/Vanillnya/ohdl/pull/11) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+4. 🚀 Published release [v0.2.0](https://github.com/DasLixou/zonbi/releases/tag/v0.2.0) in [DasLixou/zonbi](https://github.com/DasLixou/zonbi)
 <!--END_SECTION:activity-->
