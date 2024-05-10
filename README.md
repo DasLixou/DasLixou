@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.2](https://github.com/DasLixou/zonbi/releases/tag/v0.3.2) in [DasLixou/zonbi](https://github.com/DasLixou/zonbi)
-2. 🗣 Commented on [#18](https://github.com/Vanillnya/ohdl/issues/18#issuecomment-2103179886) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
-3. 🚀 Published release [v0.3.1](https://github.com/DasLixou/zonbi/releases/tag/v0.3.1) in [DasLixou/zonbi](https://github.com/DasLixou/zonbi)
-4. 🚀 Published release [v0.3.0](https://github.com/DasLixou/zonbi/releases/tag/v0.3.0) in [DasLixou/zonbi](https://github.com/DasLixou/zonbi)
+1. 🗣 Commented on [#572](https://github.com/linebender/vello/issues/572#issuecomment-2103864409) in [linebender/vello](https://github.com/linebender/vello)
+2. 🚀 Published release [v0.3.2](https://github.com/DasLixou/zonbi/releases/tag/v0.3.2) in [DasLixou/zonbi](https://github.com/DasLixou/zonbi)
+3. 🗣 Commented on [#18](https://github.com/Vanillnya/ohdl/issues/18#issuecomment-2103179886) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+4. 🚀 Published release [v0.3.1](https://github.com/DasLixou/zonbi/releases/tag/v0.3.1) in [DasLixou/zonbi](https://github.com/DasLixou/zonbi)
 <!--END_SECTION:activity-->
