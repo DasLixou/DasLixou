@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#22](https://github.com/Vanillnya/ohdl/issues/22) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
-2. 🎉 Merged PR [#24](https://github.com/Vanillnya/ohdl/pull/24) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
-3. 💪 Opened PR [#24](https://github.com/Vanillnya/ohdl/pull/24) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
-4. 💪 Opened PR [#23](https://github.com/Vanillnya/ohdl/pull/23) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+1. 🗣 Commented on [#516](https://github.com/linebender/vello/pull/516#issuecomment-2107641748) in [linebender/vello](https://github.com/linebender/vello)
+2. 🔒 Closed issue [#22](https://github.com/Vanillnya/ohdl/issues/22) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+3. 🎉 Merged PR [#24](https://github.com/Vanillnya/ohdl/pull/24) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+4. 💪 Opened PR [#24](https://github.com/Vanillnya/ohdl/pull/24) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
 <!--END_SECTION:activity-->
