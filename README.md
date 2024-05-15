@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#577](https://github.com/linebender/vello/issues/577#issuecomment-2110186071) in [linebender/vello](https://github.com/linebender/vello)
-2. ❗ Opened issue [#25](https://github.com/Vanillnya/ohdl/issues/25) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
-3. 💪 Opened PR [#578](https://github.com/linebender/vello/pull/578) in [linebender/vello](https://github.com/linebender/vello)
-4. ❗ Opened issue [#577](https://github.com/linebender/vello/issues/577) in [linebender/vello](https://github.com/linebender/vello)
+1. 🗣 Commented on [#1](https://github.com/DasLixou/scenesat_song_display/pull/1#issuecomment-2112930540) in [DasLixou/scenesat_song_display](https://github.com/DasLixou/scenesat_song_display)
+2. 🗣 Commented on [#577](https://github.com/linebender/vello/issues/577#issuecomment-2110186071) in [linebender/vello](https://github.com/linebender/vello)
+3. ❗ Opened issue [#25](https://github.com/Vanillnya/ohdl/issues/25) in [Vanillnya/ohdl](https://github.com/Vanillnya/ohdl)
+4. 💪 Opened PR [#578](https://github.com/linebender/vello/pull/578) in [linebender/vello](https://github.com/linebender/vello)
 <!--END_SECTION:activity-->
