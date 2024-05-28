@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#618](https://github.com/valence-rs/valence/issues/618#issuecomment-2129990431) in [valence-rs/valence](https://github.com/valence-rs/valence)
-2. 💪 Opened PR [#66](https://github.com/rj00a/evenio/pull/66) in [rj00a/evenio](https://github.com/rj00a/evenio)
-3. ❌ Closed PR [#473](https://github.com/linebender/vello/pull/473) in [linebender/vello](https://github.com/linebender/vello)
-4. 🔒 Closed issue [#577](https://github.com/linebender/vello/issues/577) in [linebender/vello](https://github.com/linebender/vello)
+1. 🗣 Commented on [#2609](https://github.com/elk-zone/elk/issues/2609#issuecomment-2134898502) in [elk-zone/elk](https://github.com/elk-zone/elk)
+2. 🗣 Commented on [#618](https://github.com/valence-rs/valence/issues/618#issuecomment-2129990431) in [valence-rs/valence](https://github.com/valence-rs/valence)
+3. 💪 Opened PR [#66](https://github.com/rj00a/evenio/pull/66) in [rj00a/evenio](https://github.com/rj00a/evenio)
+4. ❌ Closed PR [#473](https://github.com/linebender/vello/pull/473) in [linebender/vello](https://github.com/linebender/vello)
 <!--END_SECTION:activity-->
