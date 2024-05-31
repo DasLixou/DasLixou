@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2876](https://github.com/elk-zone/elk/pull/2876#issuecomment-2139839490) in [elk-zone/elk](https://github.com/elk-zone/elk)
-2. 🗣 Commented on [#2876](https://github.com/elk-zone/elk/pull/2876#issuecomment-2139826799) in [elk-zone/elk](https://github.com/elk-zone/elk)
-3. 🗣 Commented on [#2876](https://github.com/elk-zone/elk/pull/2876#issuecomment-2139516301) in [elk-zone/elk](https://github.com/elk-zone/elk)
-4. 🗣 Commented on [#2876](https://github.com/elk-zone/elk/pull/2876#issuecomment-2135630828) in [elk-zone/elk](https://github.com/elk-zone/elk)
+1. ❗ Opened issue [#898](https://github.com/pulldown-cmark/pulldown-cmark/issues/898) in [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark)
+2. ❗ Opened issue [#897](https://github.com/pulldown-cmark/pulldown-cmark/issues/897) in [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark)
+3. 🗣 Commented on [#2876](https://github.com/elk-zone/elk/pull/2876#issuecomment-2139839490) in [elk-zone/elk](https://github.com/elk-zone/elk)
+4. 🗣 Commented on [#2876](https://github.com/elk-zone/elk/pull/2876#issuecomment-2139826799) in [elk-zone/elk](https://github.com/elk-zone/elk)
 <!--END_SECTION:activity-->
