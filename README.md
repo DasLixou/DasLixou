@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2904](https://github.com/elk-zone/elk/issues/2904) in [elk-zone/elk](https://github.com/elk-zone/elk)
-2. 🗣 Commented on [#2903](https://github.com/elk-zone/elk/pull/2903#issuecomment-2211151799) in [elk-zone/elk](https://github.com/elk-zone/elk)
-3. 🗣 Commented on [#2903](https://github.com/elk-zone/elk/pull/2903#issuecomment-2211150373) in [elk-zone/elk](https://github.com/elk-zone/elk)
-4. 🗣 Commented on [#2903](https://github.com/elk-zone/elk/pull/2903#issuecomment-2211102958) in [elk-zone/elk](https://github.com/elk-zone/elk)
+1. ❗ Opened issue [#4792](https://github.com/emilk/egui/issues/4792) in [emilk/egui](https://github.com/emilk/egui)
+2. ❗ Opened issue [#2904](https://github.com/elk-zone/elk/issues/2904) in [elk-zone/elk](https://github.com/elk-zone/elk)
+3. 🗣 Commented on [#2903](https://github.com/elk-zone/elk/pull/2903#issuecomment-2211151799) in [elk-zone/elk](https://github.com/elk-zone/elk)
+4. 🗣 Commented on [#2903](https://github.com/elk-zone/elk/pull/2903#issuecomment-2211150373) in [elk-zone/elk](https://github.com/elk-zone/elk)
 <!--END_SECTION:activity-->
