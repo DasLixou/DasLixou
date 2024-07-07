@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4792](https://github.com/emilk/egui/issues/4792#issuecomment-2212375220) in [emilk/egui](https://github.com/emilk/egui)
-2. 🗣 Commented on [#4631](https://github.com/emilk/egui/pull/4631#issuecomment-2211718546) in [emilk/egui](https://github.com/emilk/egui)
-3. ❗ Opened issue [#4792](https://github.com/emilk/egui/issues/4792) in [emilk/egui](https://github.com/emilk/egui)
-4. ❗ Opened issue [#2904](https://github.com/elk-zone/elk/issues/2904) in [elk-zone/elk](https://github.com/elk-zone/elk)
+1. ❗ Opened issue [#79](https://github.com/Plonq/bevy_panorbit_camera/issues/79) in [Plonq/bevy_panorbit_camera](https://github.com/Plonq/bevy_panorbit_camera)
+2. 🗣 Commented on [#4792](https://github.com/emilk/egui/issues/4792#issuecomment-2212375220) in [emilk/egui](https://github.com/emilk/egui)
+3. 🗣 Commented on [#4631](https://github.com/emilk/egui/pull/4631#issuecomment-2211718546) in [emilk/egui](https://github.com/emilk/egui)
+4. ❗ Opened issue [#4792](https://github.com/emilk/egui/issues/4792) in [emilk/egui](https://github.com/emilk/egui)
 <!--END_SECTION:activity-->
