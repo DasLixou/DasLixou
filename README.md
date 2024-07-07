@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/Plonq/bevy_panorbit_camera/issues/79#issuecomment-2212417905) in [Plonq/bevy_panorbit_camera](https://github.com/Plonq/bevy_panorbit_camera)
-2. 🗣 Commented on [#79](https://github.com/Plonq/bevy_panorbit_camera/issues/79#issuecomment-2212417623) in [Plonq/bevy_panorbit_camera](https://github.com/Plonq/bevy_panorbit_camera)
-3. 🗣 Commented on [#79](https://github.com/Plonq/bevy_panorbit_camera/issues/79#issuecomment-2212415939) in [Plonq/bevy_panorbit_camera](https://github.com/Plonq/bevy_panorbit_camera)
-4. ❗ Opened issue [#79](https://github.com/Plonq/bevy_panorbit_camera/issues/79) in [Plonq/bevy_panorbit_camera](https://github.com/Plonq/bevy_panorbit_camera)
+1. 🗣 Commented on [#79](https://github.com/Plonq/bevy_panorbit_camera/issues/79#issuecomment-2212422957) in [Plonq/bevy_panorbit_camera](https://github.com/Plonq/bevy_panorbit_camera)
+2. 🗣 Commented on [#79](https://github.com/Plonq/bevy_panorbit_camera/issues/79#issuecomment-2212422869) in [Plonq/bevy_panorbit_camera](https://github.com/Plonq/bevy_panorbit_camera)
+3. 🗣 Commented on [#79](https://github.com/Plonq/bevy_panorbit_camera/issues/79#issuecomment-2212421247) in [Plonq/bevy_panorbit_camera](https://github.com/Plonq/bevy_panorbit_camera)
+4. 🗣 Commented on [#79](https://github.com/Plonq/bevy_panorbit_camera/issues/79#issuecomment-2212417905) in [Plonq/bevy_panorbit_camera](https://github.com/Plonq/bevy_panorbit_camera)
 <!--END_SECTION:activity-->
