@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#26](https://github.com/emilk/egui_plot/issues/26) in [emilk/egui_plot](https://github.com/emilk/egui_plot)
-2. 🗣 Commented on [#4792](https://github.com/emilk/egui/issues/4792#issuecomment-2214403746) in [emilk/egui](https://github.com/emilk/egui)
-3. 🗣 Commented on [#79](https://github.com/Plonq/bevy_panorbit_camera/issues/79#issuecomment-2212422957) in [Plonq/bevy_panorbit_camera](https://github.com/Plonq/bevy_panorbit_camera)
-4. 🗣 Commented on [#79](https://github.com/Plonq/bevy_panorbit_camera/issues/79#issuecomment-2212422869) in [Plonq/bevy_panorbit_camera](https://github.com/Plonq/bevy_panorbit_camera)
+1. 💪 Opened PR [#14546](https://github.com/bevyengine/bevy/pull/14546) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. ❗ Opened issue [#26](https://github.com/emilk/egui_plot/issues/26) in [emilk/egui_plot](https://github.com/emilk/egui_plot)
+3. 🗣 Commented on [#4792](https://github.com/emilk/egui/issues/4792#issuecomment-2214403746) in [emilk/egui](https://github.com/emilk/egui)
+4. 🗣 Commented on [#79](https://github.com/Plonq/bevy_panorbit_camera/issues/79#issuecomment-2212422957) in [Plonq/bevy_panorbit_camera](https://github.com/Plonq/bevy_panorbit_camera)
 <!--END_SECTION:activity-->
