@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14576](https://github.com/bevyengine/bevy/issues/14576#issuecomment-2263860191) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#14576](https://github.com/bevyengine/bevy/issues/14576#issuecomment-2263821380) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. ❗ Opened issue [#14576](https://github.com/bevyengine/bevy/issues/14576) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. 💪 Opened PR [#34](https://github.com/aevyrie/bevy_eventlistener/pull/34) in [aevyrie/bevy_eventlistener](https://github.com/aevyrie/bevy_eventlistener)
+1. 🗣 Commented on [#14576](https://github.com/bevyengine/bevy/issues/14576#issuecomment-2263910686) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. 🗣 Commented on [#14576](https://github.com/bevyengine/bevy/issues/14576#issuecomment-2263860191) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#14576](https://github.com/bevyengine/bevy/issues/14576#issuecomment-2263821380) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. ❗ Opened issue [#14576](https://github.com/bevyengine/bevy/issues/14576) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
