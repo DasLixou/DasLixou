@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14559](https://github.com/bevyengine/bevy/issues/14559#issuecomment-2273877051) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#14559](https://github.com/bevyengine/bevy/issues/14559#issuecomment-2273875306) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. 🗣 Commented on [#14558](https://github.com/bevyengine/bevy/pull/14558#issuecomment-2270507857) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. 🗣 Commented on [#14618](https://github.com/bevyengine/bevy/issues/14618#issuecomment-2268260594) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. 🗣 Commented on [#14618](https://github.com/bevyengine/bevy/issues/14618#issuecomment-2274155421) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. 🗣 Commented on [#14559](https://github.com/bevyengine/bevy/issues/14559#issuecomment-2273877051) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#14559](https://github.com/bevyengine/bevy/issues/14559#issuecomment-2273875306) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. 🗣 Commented on [#14558](https://github.com/bevyengine/bevy/pull/14558#issuecomment-2270507857) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
