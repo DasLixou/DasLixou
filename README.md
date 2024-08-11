@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#298](https://github.com/nutti/fake-bpy-module/issues/298) in [nutti/fake-bpy-module](https://github.com/nutti/fake-bpy-module)
-2. 🗣 Commented on [#14695](https://github.com/bevyengine/bevy/pull/14695#issuecomment-2282195796) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. ❗ Opened issue [#229](https://github.com/kaosat-dev/Blenvy/issues/229) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
-4. ❗ Opened issue [#228](https://github.com/kaosat-dev/Blenvy/issues/228) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
+1. 🗣 Commented on [#229](https://github.com/kaosat-dev/Blenvy/issues/229#issuecomment-2282701419) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
+2. 🗣 Commented on [#228](https://github.com/kaosat-dev/Blenvy/issues/228#issuecomment-2282700044) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
+3. ❗ Opened issue [#298](https://github.com/nutti/fake-bpy-module/issues/298) in [nutti/fake-bpy-module](https://github.com/nutti/fake-bpy-module)
+4. 🗣 Commented on [#14695](https://github.com/bevyengine/bevy/pull/14695#issuecomment-2282195796) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
