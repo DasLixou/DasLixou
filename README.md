@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#228](https://github.com/kaosat-dev/Blenvy/issues/228#issuecomment-2294974006) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
-2. 🗣 Commented on [#14791](https://github.com/bevyengine/bevy/pull/14791#issuecomment-2294883113) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. 🗣 Commented on [#229](https://github.com/kaosat-dev/Blenvy/issues/229#issuecomment-2286374226) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
-4. 🗣 Commented on [#229](https://github.com/kaosat-dev/Blenvy/issues/229#issuecomment-2282701419) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
+1. ❗ Opened issue [#14847](https://github.com/bevyengine/bevy/issues/14847) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. ❗ Opened issue [#14846](https://github.com/bevyengine/bevy/issues/14846) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#228](https://github.com/kaosat-dev/Blenvy/issues/228#issuecomment-2294974006) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
+4. 🗣 Commented on [#14791](https://github.com/bevyengine/bevy/pull/14791#issuecomment-2294883113) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
