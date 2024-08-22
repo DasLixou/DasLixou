@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#235](https://github.com/kaosat-dev/Blenvy/pull/235) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
-2. 🗣 Commented on [#235](https://github.com/kaosat-dev/Blenvy/pull/235#issuecomment-2305143710) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
-3. 💪 Opened PR [#236](https://github.com/kaosat-dev/Blenvy/pull/236) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
-4. 🗣 Commented on [#235](https://github.com/kaosat-dev/Blenvy/pull/235#issuecomment-2305140949) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
+1. ❗ Opened issue [#237](https://github.com/kaosat-dev/Blenvy/issues/237) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
+2. ❌ Closed PR [#235](https://github.com/kaosat-dev/Blenvy/pull/235) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
+3. 🗣 Commented on [#235](https://github.com/kaosat-dev/Blenvy/pull/235#issuecomment-2305143710) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
+4. 💪 Opened PR [#236](https://github.com/kaosat-dev/Blenvy/pull/236) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
 <!--END_SECTION:activity-->
