@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14870](https://github.com/bevyengine/bevy/issues/14870) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. ❗ Opened issue [#14869](https://github.com/bevyengine/bevy/issues/14869) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. 🗣 Commented on [#13681](https://github.com/bevyengine/bevy/issues/13681#issuecomment-2304252708) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. ❗ Opened issue [#14850](https://github.com/bevyengine/bevy/issues/14850) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. 🗣 Commented on [#14870](https://github.com/bevyengine/bevy/issues/14870#issuecomment-2304737795) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+2. 💪 Opened PR [#235](https://github.com/kaosat-dev/Blenvy/pull/235) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
+3. ❗ Opened issue [#14870](https://github.com/bevyengine/bevy/issues/14870) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. ❗ Opened issue [#14869](https://github.com/bevyengine/bevy/issues/14869) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
