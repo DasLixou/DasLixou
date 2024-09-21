@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15123](https://github.com/bevyengine/bevy/pull/15123) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🗣 Commented on [#236](https://github.com/kaosat-dev/Blenvy/pull/236#issuecomment-2337742926) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
-3. 🗣 Commented on [#14869](https://github.com/bevyengine/bevy/issues/14869#issuecomment-2336815792) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. 🗣 Commented on [#14869](https://github.com/bevyengine/bevy/issues/14869#issuecomment-2336807485) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. ❗ Opened issue [#1](https://github.com/DasLixou/blender_color_plot/issues/1) in [DasLixou/blender_color_plot](https://github.com/DasLixou/blender_color_plot)
+2. 💪 Opened PR [#15123](https://github.com/bevyengine/bevy/pull/15123) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. 🗣 Commented on [#236](https://github.com/kaosat-dev/Blenvy/pull/236#issuecomment-2337742926) in [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
+4. 🗣 Commented on [#14869](https://github.com/bevyengine/bevy/issues/14869#issuecomment-2336815792) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
