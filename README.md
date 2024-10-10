@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/DasLixou/blender_color_plot/issues/4) in [DasLixou/blender_color_plot](https://github.com/DasLixou/blender_color_plot)
-2. ❗ Opened issue [#3](https://github.com/DasLixou/blender_color_plot/issues/3) in [DasLixou/blender_color_plot](https://github.com/DasLixou/blender_color_plot)
-3. ❗ Opened issue [#2](https://github.com/DasLixou/blender_color_plot/issues/2) in [DasLixou/blender_color_plot](https://github.com/DasLixou/blender_color_plot)
-4. 🔒 Closed issue [#1](https://github.com/DasLixou/blender_color_plot/issues/1) in [DasLixou/blender_color_plot](https://github.com/DasLixou/blender_color_plot)
+1. 🔒 Closed issue [#2](https://github.com/DasLixou/blender_color_plot/issues/2) in [DasLixou/blender_color_plot](https://github.com/DasLixou/blender_color_plot)
+2. ❗ Opened issue [#4](https://github.com/DasLixou/blender_color_plot/issues/4) in [DasLixou/blender_color_plot](https://github.com/DasLixou/blender_color_plot)
+3. ❗ Opened issue [#3](https://github.com/DasLixou/blender_color_plot/issues/3) in [DasLixou/blender_color_plot](https://github.com/DasLixou/blender_color_plot)
+4. ❗ Opened issue [#2](https://github.com/DasLixou/blender_color_plot/issues/2) in [DasLixou/blender_color_plot](https://github.com/DasLixou/blender_color_plot)
 <!--END_SECTION:activity-->
