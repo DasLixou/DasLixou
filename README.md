@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/actuate-rs/actuate/pull/33) in [actuate-rs/actuate](https://github.com/actuate-rs/actuate)
-2. 💪 Opened PR [#32](https://github.com/actuate-rs/actuate/pull/32) in [actuate-rs/actuate](https://github.com/actuate-rs/actuate)
-3. 💪 Opened PR [#31](https://github.com/actuate-rs/actuate/pull/31) in [actuate-rs/actuate](https://github.com/actuate-rs/actuate)
-4. 🔒 Closed issue [#3](https://github.com/DasLixou/blender_color_plot/issues/3) in [DasLixou/blender_color_plot](https://github.com/DasLixou/blender_color_plot)
+1. 🗣 Commented on [#33](https://github.com/actuate-rs/actuate/pull/33#issuecomment-2480628080) in [actuate-rs/actuate](https://github.com/actuate-rs/actuate)
+2. 💪 Opened PR [#33](https://github.com/actuate-rs/actuate/pull/33) in [actuate-rs/actuate](https://github.com/actuate-rs/actuate)
+3. 💪 Opened PR [#32](https://github.com/actuate-rs/actuate/pull/32) in [actuate-rs/actuate](https://github.com/actuate-rs/actuate)
+4. 💪 Opened PR [#31](https://github.com/actuate-rs/actuate/pull/31) in [actuate-rs/actuate](https://github.com/actuate-rs/actuate)
 <!--END_SECTION:activity-->
