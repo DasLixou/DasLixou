@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/actuate-rs/actuate/issues/77#issuecomment-2496168703) in [actuate-rs/actuate](https://github.com/actuate-rs/actuate)
-2. 💪 Opened PR [#46](https://github.com/actuate-rs/actuate/pull/46) in [actuate-rs/actuate](https://github.com/actuate-rs/actuate)
-3. 🗣 Commented on [#35](https://github.com/actuate-rs/actuate/pull/35#issuecomment-2480700466) in [actuate-rs/actuate](https://github.com/actuate-rs/actuate)
-4. 🗣 Commented on [#35](https://github.com/actuate-rs/actuate/pull/35#issuecomment-2480686764) in [actuate-rs/actuate](https://github.com/actuate-rs/actuate)
+1. 💪 Opened PR [#5](https://github.com/bevyengine/variadics_please/pull/5) in [bevyengine/variadics_please](https://github.com/bevyengine/variadics_please)
+2. 🗣 Commented on [#77](https://github.com/actuate-rs/actuate/issues/77#issuecomment-2496168703) in [actuate-rs/actuate](https://github.com/actuate-rs/actuate)
+3. 💪 Opened PR [#46](https://github.com/actuate-rs/actuate/pull/46) in [actuate-rs/actuate](https://github.com/actuate-rs/actuate)
+4. 🗣 Commented on [#35](https://github.com/actuate-rs/actuate/pull/35#issuecomment-2480700466) in [actuate-rs/actuate](https://github.com/actuate-rs/actuate)
 <!--END_SECTION:activity-->
