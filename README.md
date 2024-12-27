@@ -38,8 +38,8 @@
 <h3 align="center"><code>⚡ Recent Activity</code></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#574](https://github.com/linebender/vello/pull/574#issuecomment-2528307606) in [linebender/vello](https://github.com/linebender/vello)
-2. ❗ Opened issue [#81](https://github.com/CatCoderr/ProtocolSidebar/issues/81) in [CatCoderr/ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar)
-3. 💪 Opened PR [#5](https://github.com/bevyengine/variadics_please/pull/5) in [bevyengine/variadics_please](https://github.com/bevyengine/variadics_please)
-4. 🗣 Commented on [#77](https://github.com/actuate-rs/actuate/issues/77#issuecomment-2496168703) in [actuate-rs/actuate](https://github.com/actuate-rs/actuate)
+1. ❗ Opened issue [#85](https://github.com/CatCoderr/ProtocolSidebar/issues/85) in [CatCoderr/ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar)
+2. ❗ Opened issue [#84](https://github.com/CatCoderr/ProtocolSidebar/issues/84) in [CatCoderr/ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar)
+3. 🗣 Commented on [#574](https://github.com/linebender/vello/pull/574#issuecomment-2528307606) in [linebender/vello](https://github.com/linebender/vello)
+4. ❗ Opened issue [#81](https://github.com/CatCoderr/ProtocolSidebar/issues/81) in [CatCoderr/ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar)
 <!--END_SECTION:activity-->
