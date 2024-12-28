@@ -57,9 +57,9 @@
   </summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com/CatCoderr/ProtocolSidebar/issues/85#issuecomment-2563853021) in [CatCoderr/ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar)
-2. ❗ Opened issue [#85](https://github.com/CatCoderr/ProtocolSidebar/issues/85) in [CatCoderr/ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar)
-3. ❗ Opened issue [#84](https://github.com/CatCoderr/ProtocolSidebar/issues/84) in [CatCoderr/ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar)
-4. 🗣 Commented on [#574](https://github.com/linebender/vello/pull/574#issuecomment-2528307606) in [linebender/vello](https://github.com/linebender/vello)
+1. 🗣 Commented on [#85](https://github.com/CatCoderr/ProtocolSidebar/issues/85#issuecomment-2564269607) in [CatCoderr/ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar)
+2. 🗣 Commented on [#85](https://github.com/CatCoderr/ProtocolSidebar/issues/85#issuecomment-2563853021) in [CatCoderr/ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar)
+3. ❗ Opened issue [#85](https://github.com/CatCoderr/ProtocolSidebar/issues/85) in [CatCoderr/ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar)
+4. ❗ Opened issue [#84](https://github.com/CatCoderr/ProtocolSidebar/issues/84) in [CatCoderr/ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar)
   <!--END_SECTION:activity-->
 </details>
