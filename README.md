@@ -57,9 +57,9 @@
   </summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com/CatCoderr/ProtocolSidebar/issues/85#issuecomment-2564269607) in [CatCoderr/ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar)
-2. 🗣 Commented on [#85](https://github.com/CatCoderr/ProtocolSidebar/issues/85#issuecomment-2563853021) in [CatCoderr/ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar)
-3. ❗ Opened issue [#85](https://github.com/CatCoderr/ProtocolSidebar/issues/85) in [CatCoderr/ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar)
-4. ❗ Opened issue [#84](https://github.com/CatCoderr/ProtocolSidebar/issues/84) in [CatCoderr/ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar)
+1. 💪 Opened PR [#19](https://github.com/codemirror/legacy-modes/pull/19) in [codemirror/legacy-modes](https://github.com/codemirror/legacy-modes)
+2. 🗣 Commented on [#1](https://github.com/DasLixou/legacy-modes/pull/1#issuecomment-2566983416) in [DasLixou/legacy-modes](https://github.com/DasLixou/legacy-modes)
+3. ❌ Closed PR [#1](https://github.com/DasLixou/legacy-modes/pull/1) in [DasLixou/legacy-modes](https://github.com/DasLixou/legacy-modes)
+4. 💪 Opened PR [#1](https://github.com/DasLixou/legacy-modes/pull/1) in [DasLixou/legacy-modes](https://github.com/DasLixou/legacy-modes)
   <!--END_SECTION:activity-->
 </details>
