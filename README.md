@@ -57,9 +57,9 @@
   </summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/codemirror/legacy-modes/pull/19) in [codemirror/legacy-modes](https://github.com/codemirror/legacy-modes)
-2. 🗣 Commented on [#1](https://github.com/DasLixou/legacy-modes/pull/1#issuecomment-2566983416) in [DasLixou/legacy-modes](https://github.com/DasLixou/legacy-modes)
-3. ❌ Closed PR [#1](https://github.com/DasLixou/legacy-modes/pull/1) in [DasLixou/legacy-modes](https://github.com/DasLixou/legacy-modes)
-4. 💪 Opened PR [#1](https://github.com/DasLixou/legacy-modes/pull/1) in [DasLixou/legacy-modes](https://github.com/DasLixou/legacy-modes)
+1. 🗣 Commented on [#19](https://github.com/codemirror/legacy-modes/pull/19#issuecomment-2567125201) in [codemirror/legacy-modes](https://github.com/codemirror/legacy-modes)
+2. 💪 Opened PR [#19](https://github.com/codemirror/legacy-modes/pull/19) in [codemirror/legacy-modes](https://github.com/codemirror/legacy-modes)
+3. 🗣 Commented on [#1](https://github.com/DasLixou/legacy-modes/pull/1#issuecomment-2566983416) in [DasLixou/legacy-modes](https://github.com/DasLixou/legacy-modes)
+4. ❌ Closed PR [#1](https://github.com/DasLixou/legacy-modes/pull/1) in [DasLixou/legacy-modes](https://github.com/DasLixou/legacy-modes)
   <!--END_SECTION:activity-->
 </details>
