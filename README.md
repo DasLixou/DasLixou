@@ -57,8 +57,8 @@
   </summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#950](https://github.com/Minestom/Minestom/issues/950#issuecomment-2614406801) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
-2. 🗣 Commented on [#3380](https://github.com/rust-lang/rfcs/pull/3380#issuecomment-2567386803) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+1. ❗ Opened issue [#354](https://github.com/rinja-rs/rinja/issues/354) in [rinja-rs/rinja](https://github.com/rinja-rs/rinja)
+2. 🗣 Commented on [#950](https://github.com/Minestom/Minestom/issues/950#issuecomment-2614406801) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
 3. 🗣 Commented on [#19](https://github.com/codemirror/legacy-modes/pull/19#issuecomment-2567125201) in [codemirror/legacy-modes](https://github.com/codemirror/legacy-modes)
 4. 💪 Opened PR [#19](https://github.com/codemirror/legacy-modes/pull/19) in [codemirror/legacy-modes](https://github.com/codemirror/legacy-modes)
   <!--END_SECTION:activity-->
