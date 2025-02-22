@@ -57,9 +57,9 @@
   </summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#354](https://github.com/rinja-rs/rinja/issues/354#issuecomment-2675322289) in [rinja-rs/rinja](https://github.com/rinja-rs/rinja)
-2. 🗣 Commented on [#354](https://github.com/rinja-rs/rinja/issues/354#issuecomment-2672489851) in [rinja-rs/rinja](https://github.com/rinja-rs/rinja)
-3. ❗ Opened issue [#354](https://github.com/rinja-rs/rinja/issues/354) in [rinja-rs/rinja](https://github.com/rinja-rs/rinja)
-4. 🗣 Commented on [#950](https://github.com/Minestom/Minestom/issues/950#issuecomment-2614406801) in [Minestom/Minestom](https://github.com/Minestom/Minestom)
+1. 🗣 Commented on [#354](https://github.com/rinja-rs/rinja/issues/354#issuecomment-2675421077) in [rinja-rs/rinja](https://github.com/rinja-rs/rinja)
+2. 🗣 Commented on [#354](https://github.com/rinja-rs/rinja/issues/354#issuecomment-2675399991) in [rinja-rs/rinja](https://github.com/rinja-rs/rinja)
+3. 🗣 Commented on [#354](https://github.com/rinja-rs/rinja/issues/354#issuecomment-2675322289) in [rinja-rs/rinja](https://github.com/rinja-rs/rinja)
+4. 🗣 Commented on [#354](https://github.com/rinja-rs/rinja/issues/354#issuecomment-2672489851) in [rinja-rs/rinja](https://github.com/rinja-rs/rinja)
   <!--END_SECTION:activity-->
 </details>
