@@ -57,9 +57,9 @@
   </summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#154](https://github.com/sunfishcode/origin/issues/154#issuecomment-2689064732) in [sunfishcode/origin](https://github.com/sunfishcode/origin)
-2. 🗣 Commented on [#154](https://github.com/sunfishcode/origin/issues/154#issuecomment-2688709114) in [sunfishcode/origin](https://github.com/sunfishcode/origin)
-3. 🗣 Commented on [#154](https://github.com/sunfishcode/origin/issues/154#issuecomment-2688706336) in [sunfishcode/origin](https://github.com/sunfishcode/origin)
-4. 🗣 Commented on [#154](https://github.com/sunfishcode/origin/issues/154#issuecomment-2688675386) in [sunfishcode/origin](https://github.com/sunfishcode/origin)
+1. 🔒 Closed issue [#2](https://github.com/DasLixou/snowberry/issues/2) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
+2. 🔒 Closed issue [#3](https://github.com/DasLixou/snowberry/issues/3) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
+3. 🗣 Commented on [#154](https://github.com/sunfishcode/origin/issues/154#issuecomment-2689064732) in [sunfishcode/origin](https://github.com/sunfishcode/origin)
+4. 🗣 Commented on [#154](https://github.com/sunfishcode/origin/issues/154#issuecomment-2688709114) in [sunfishcode/origin](https://github.com/sunfishcode/origin)
   <!--END_SECTION:activity-->
 </details>
