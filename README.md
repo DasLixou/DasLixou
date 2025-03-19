@@ -57,9 +57,9 @@
   </summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/AndronixApp/AndronixOrigin/issues/105#issuecomment-2726472796) in [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin)
-2. 🗣 Commented on [#6](https://github.com/DasLixou/snowberry/issues/6#issuecomment-2719184640) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
-3. ❗ Opened issue [#6](https://github.com/DasLixou/snowberry/issues/6) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
-4. 🔒 Closed issue [#2](https://github.com/DasLixou/snowberry/issues/2) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
+1. ❗ Opened issue [#8](https://github.com/DasLixou/snowberry/issues/8) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
+2. 🗣 Commented on [#105](https://github.com/AndronixApp/AndronixOrigin/issues/105#issuecomment-2726472796) in [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin)
+3. 🗣 Commented on [#6](https://github.com/DasLixou/snowberry/issues/6#issuecomment-2719184640) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
+4. ❗ Opened issue [#6](https://github.com/DasLixou/snowberry/issues/6) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
   <!--END_SECTION:activity-->
 </details>
