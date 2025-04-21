@@ -57,8 +57,8 @@
   </summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3802](https://github.com/rust-lang/rfcs/pull/3802) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
-2. 🗣 Commented on [#105](https://github.com/AndronixApp/AndronixOrigin/issues/105#issuecomment-2726472796) in [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin)
+1. 🗣 Commented on [#3802](https://github.com/rust-lang/rfcs/pull/3802#issuecomment-2819369575) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+2. 💪 Opened PR [#3802](https://github.com/rust-lang/rfcs/pull/3802) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
 3. 🗣 Commented on [#6](https://github.com/DasLixou/snowberry/issues/6#issuecomment-2719184640) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
 4. ❗ Opened issue [#6](https://github.com/DasLixou/snowberry/issues/6) in [DasLixou/snowberry](https://github.com/DasLixou/snowberry)
   <!--END_SECTION:activity-->
