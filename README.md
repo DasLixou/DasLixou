@@ -57,9 +57,9 @@
   </summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3802](https://github.com/rust-lang/rfcs/pull/3802#issuecomment-2820456409) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
-2. 🗣 Commented on [#3802](https://github.com/rust-lang/rfcs/pull/3802#issuecomment-2820160336) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
-3. 🗣 Commented on [#3802](https://github.com/rust-lang/rfcs/pull/3802#issuecomment-2819369575) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
-4. 💪 Opened PR [#3802](https://github.com/rust-lang/rfcs/pull/3802) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+1. 🗣 Commented on [#3802](https://github.com/rust-lang/rfcs/pull/3802#issuecomment-2821971178) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+2. 🗣 Commented on [#3802](https://github.com/rust-lang/rfcs/pull/3802#issuecomment-2820456409) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+3. 🗣 Commented on [#3802](https://github.com/rust-lang/rfcs/pull/3802#issuecomment-2820160336) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+4. 🗣 Commented on [#3802](https://github.com/rust-lang/rfcs/pull/3802#issuecomment-2819369575) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
   <!--END_SECTION:activity-->
 </details>
