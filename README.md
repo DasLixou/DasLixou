@@ -57,8 +57,8 @@
   </summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3802](https://github.com/rust-lang/rfcs/pull/3802#issuecomment-2832016742) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
-2. ❌ Closed PR [#3802](https://github.com/rust-lang/rfcs/pull/3802) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
+1. 🗣 Commented on [#27415](https://github.com/uBlockOrigin/uAssets/issues/27415#issuecomment-2945598992) in [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)
+2. 🗣 Commented on [#27415](https://github.com/uBlockOrigin/uAssets/issues/27415#issuecomment-2945566163) in [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)
 3. 🗣 Commented on [#938](https://github.com/linebender/vello/issues/938#issuecomment-2831975943) in [linebender/vello](https://github.com/linebender/vello)
 4. 🗣 Commented on [#3802](https://github.com/rust-lang/rfcs/pull/3802#issuecomment-2821971178) in [rust-lang/rfcs](https://github.com/rust-lang/rfcs)
   <!--END_SECTION:activity-->
