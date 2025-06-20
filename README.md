@@ -57,9 +57,9 @@
   </summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1055](https://github.com/linebender/vello/issues/1055) in [linebender/vello](https://github.com/linebender/vello)
-2. 🗣 Commented on [#955](https://github.com/linebender/vello/issues/955#issuecomment-2960304049) in [linebender/vello](https://github.com/linebender/vello)
-3. 🗣 Commented on [#27415](https://github.com/uBlockOrigin/uAssets/issues/27415#issuecomment-2945598992) in [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)
-4. 🗣 Commented on [#27415](https://github.com/uBlockOrigin/uAssets/issues/27415#issuecomment-2945566163) in [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)
+1. 🗣 Commented on [#3810](https://github.com/rust-windowing/winit/pull/3810#issuecomment-2991446556) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
+2. ❗ Opened issue [#1055](https://github.com/linebender/vello/issues/1055) in [linebender/vello](https://github.com/linebender/vello)
+3. 🗣 Commented on [#955](https://github.com/linebender/vello/issues/955#issuecomment-2960304049) in [linebender/vello](https://github.com/linebender/vello)
+4. 🗣 Commented on [#27415](https://github.com/uBlockOrigin/uAssets/issues/27415#issuecomment-2945598992) in [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)
   <!--END_SECTION:activity-->
 </details>
