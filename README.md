@@ -57,9 +57,9 @@
   </summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#811](https://github.com/phosphor-icons/homepage/issues/811) in [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)
-2. 🗣 Commented on [#4287](https://github.com/rust-windowing/winit/pull/4287#issuecomment-2993652229) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
-3. 🗣 Commented on [#4287](https://github.com/rust-windowing/winit/pull/4287#issuecomment-2993644951) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
-4. 💪 Opened PR [#4287](https://github.com/rust-windowing/winit/pull/4287) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
+1. 🗣 Commented on [#4287](https://github.com/rust-windowing/winit/pull/4287#issuecomment-2994155036) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
+2. ❗ Opened issue [#811](https://github.com/phosphor-icons/homepage/issues/811) in [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)
+3. 🗣 Commented on [#4287](https://github.com/rust-windowing/winit/pull/4287#issuecomment-2993652229) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
+4. 🗣 Commented on [#4287](https://github.com/rust-windowing/winit/pull/4287#issuecomment-2993644951) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
   <!--END_SECTION:activity-->
 </details>
