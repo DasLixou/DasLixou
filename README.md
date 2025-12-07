@@ -57,9 +57,9 @@
   </summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#927](https://github.com/zesterer/chumsky/issues/927#issuecomment-3622086479) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
-2. 🗣 Commented on [#927](https://github.com/zesterer/chumsky/issues/927#issuecomment-3622057029) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
-3. ❗ Opened issue [#927](https://github.com/zesterer/chumsky/issues/927) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
-4. ❗ Opened issue [#4732](https://github.com/rust-lang/miri/issues/4732) in [rust-lang/miri](https://github.com/rust-lang/miri)
+1. 🗣 Commented on [#927](https://github.com/zesterer/chumsky/issues/927#issuecomment-3622229082) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
+2. 🗣 Commented on [#927](https://github.com/zesterer/chumsky/issues/927#issuecomment-3622186506) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
+3. 🗣 Commented on [#927](https://github.com/zesterer/chumsky/issues/927#issuecomment-3622086479) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
+4. 🗣 Commented on [#927](https://github.com/zesterer/chumsky/issues/927#issuecomment-3622057029) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
   <!--END_SECTION:activity-->
 </details>
