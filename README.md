@@ -57,8 +57,8 @@
   </summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4732](https://github.com/rust-lang/miri/issues/4732) in [rust-lang/miri](https://github.com/rust-lang/miri)
-2. 🗣 Commented on [#4287](https://github.com/rust-windowing/winit/pull/4287#issuecomment-2994155036) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
+1. ❗ Opened issue [#927](https://github.com/zesterer/chumsky/issues/927) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
+2. ❗ Opened issue [#4732](https://github.com/rust-lang/miri/issues/4732) in [rust-lang/miri](https://github.com/rust-lang/miri)
 3. ❗ Opened issue [#811](https://github.com/phosphor-icons/homepage/issues/811) in [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)
 4. 🗣 Commented on [#4287](https://github.com/rust-windowing/winit/pull/4287#issuecomment-2993652229) in [rust-windowing/winit](https://github.com/rust-windowing/winit)
   <!--END_SECTION:activity-->
