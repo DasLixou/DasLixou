@@ -57,9 +57,9 @@
   </summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#936](https://github.com/zesterer/chumsky/issues/936) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
-2. ❗ Opened issue [#935](https://github.com/zesterer/chumsky/issues/935) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
-3. 🔒 Closed issue [#930](https://github.com/zesterer/chumsky/issues/930) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
-4. 🗣 Commented on [#930](https://github.com/zesterer/chumsky/issues/930#issuecomment-3643417667) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
+1. ❗ Opened issue [#937](https://github.com/zesterer/chumsky/issues/937) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
+2. ❗ Opened issue [#936](https://github.com/zesterer/chumsky/issues/936) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
+3. ❗ Opened issue [#935](https://github.com/zesterer/chumsky/issues/935) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
+4. 🔒 Closed issue [#930](https://github.com/zesterer/chumsky/issues/930) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
   <!--END_SECTION:activity-->
 </details>
