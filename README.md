@@ -57,9 +57,9 @@
   </summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#7788](https://github.com/typst/typst/issues/7788) in [typst/typst](https://github.com/typst/typst)
-2. ❗ Opened issue [#7788](https://github.com/typst/typst/issues/7788) in [typst/typst](https://github.com/typst/typst)
-3. 🗣 Commented on [#811](https://github.com/phosphor-icons/homepage/issues/811#issuecomment-3734422736) in [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)
-4. 🗣 Commented on [#2](https://github.com/holmgr/cargo-sweep/issues/2#issuecomment-3707264612) in [holmgr/cargo-sweep](https://github.com/holmgr/cargo-sweep)
+1. 🗣 Commented on [#7788](https://github.com/typst/typst/issues/7788#issuecomment-3831804541) in [typst/typst](https://github.com/typst/typst)
+2. 🗣 Commented on [#7788](https://github.com/typst/typst/issues/7788#issuecomment-3831792703) in [typst/typst](https://github.com/typst/typst)
+3. ℹ️ Labeled issue [#7788](https://github.com/typst/typst/issues/7788) in [typst/typst](https://github.com/typst/typst)
+4. ❗ Opened issue [#7788](https://github.com/typst/typst/issues/7788) in [typst/typst](https://github.com/typst/typst)
   <!--END_SECTION:activity-->
 </details>
