@@ -57,9 +57,9 @@
   </summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#811](https://github.com/phosphor-icons/homepage/issues/811#issuecomment-3734422736) in [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)
-2. 🗣 Commented on [#2](https://github.com/holmgr/cargo-sweep/issues/2#issuecomment-3707264612) in [holmgr/cargo-sweep](https://github.com/holmgr/cargo-sweep)
-3. ❗ Opened issue [#937](https://github.com/zesterer/chumsky/issues/937) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
-4. ❗ Opened issue [#936](https://github.com/zesterer/chumsky/issues/936) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
+1. ℹ️ Labeled issue [#7788](https://github.com/typst/typst/issues/7788) in [typst/typst](https://github.com/typst/typst)
+2. ❗ Opened issue [#7788](https://github.com/typst/typst/issues/7788) in [typst/typst](https://github.com/typst/typst)
+3. 🗣 Commented on [#811](https://github.com/phosphor-icons/homepage/issues/811#issuecomment-3734422736) in [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)
+4. 🗣 Commented on [#2](https://github.com/holmgr/cargo-sweep/issues/2#issuecomment-3707264612) in [holmgr/cargo-sweep](https://github.com/holmgr/cargo-sweep)
   <!--END_SECTION:activity-->
 </details>
