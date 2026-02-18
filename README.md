@@ -57,9 +57,9 @@
   </summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7788](https://github.com/typst/typst/issues/7788#issuecomment-3831804541) in [typst/typst](https://github.com/typst/typst)
-2. 🗣 Commented on [#7788](https://github.com/typst/typst/issues/7788#issuecomment-3831792703) in [typst/typst](https://github.com/typst/typst)
-3. ℹ️ Labeled issue [#7788](https://github.com/typst/typst/issues/7788) in [typst/typst](https://github.com/typst/typst)
-4. ❗ Opened issue [#7788](https://github.com/typst/typst/issues/7788) in [typst/typst](https://github.com/typst/typst)
+1. 🗣 Commented on [#4](https://github.com/cobbpg/nuflix-studio/issues/4#issuecomment-3921438811) in [cobbpg/nuflix-studio](https://github.com/cobbpg/nuflix-studio)
+2. 🗣 Commented on [#7788](https://github.com/typst/typst/issues/7788#issuecomment-3831804541) in [typst/typst](https://github.com/typst/typst)
+3. 🗣 Commented on [#7788](https://github.com/typst/typst/issues/7788#issuecomment-3831792703) in [typst/typst](https://github.com/typst/typst)
+4. ℹ️ Labeled issue [#7788](https://github.com/typst/typst/issues/7788) in [typst/typst](https://github.com/typst/typst)
   <!--END_SECTION:activity-->
 </details>
